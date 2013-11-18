@@ -1,0 +1,775 @@
+GENE	-	CDNA	AA	MUT_TYPE	MUT_CLASS	CAT	ACMG	DATE
+BRCA1	-	c.21C>T	p.Arg7Arg	Substitution	Silent	Benign	5	2012-05-03 13:54
+BRCA1	-	c.75C>T	p.=	Substitution	Silent	Benign	5	
+BRCA1	-	c.114G>A	p.Lys38Lys	Substitution	Silent	Benign	5	2012-02-27 13:59
+BRCA1	-	c.591C>T	p.=	Substitution	Silent	Benign	5	2012-07-17 8:55
+BRCA1	-	c.1067A>G	p.Gln356Arg	Substitution	Missense	Benign	5	2012-06-14 12:42
+BRCA1	-	c.2077G>A	p.=	Substitution	Silent	Benign	5	2012-06-14 12:42
+BRCA1	-	c.2082C>T	p.=	Substitution	Silent	Benign	5	2012-06-14 12:43
+BRCA1	-	c.2311T>C	p.=	Substitution	Silent	Benign	5	2012-06-14 12:51
+BRCA1	-	c.2612C>T	p.Pro871Leu	Substitution	Missense	Benign	5	2012-06-14 12:51
+BRCA1	-	c.3113A>G	p.Glu1038Gly	Substitution	Missense	Benign	5	2012-06-14 12:52
+BRCA1	-	c.3119G>A	p.Ser1040Asn	Substitution	Missense	Benign	5	2012-06-14 12:52
+BRCA1	-	c.3548A>G	p.Lys1183Arg	Substitution	Missense	Benign	5	2012-06-14 12:53
+BRCA1	-	c.1418A>G	p.Asn473Ser	Substitution	Missense	VUS	3	
+BRCA1	-	c.1911T>C	p.Thr637Thr	Substitution	Silent	Benign	5	2012-03-30 18:44
+BRCA1	-	c.2521C>T	p.Arg841Trp	Substitution	Missense	Benign	5	2012-08-07 12:25
+BRCA1	-	c.3739G>A	p.Val1247Ile	Substitution	Missense	VUS	3	
+BRCA1	-	c.4039A>G	p.Arg1347Gly	Substitution	Missense	Benign	5	2012-02-13 13:07
+BRCA1	-	c.2428A>T	p.Asn810Tyr	Substitution	Missense	VUS	3	
+BRCA1	-	c.2712A>G	p.=	Substitution	Silent	VUS	3	
+BRCA1	-	c.4308T>C	p.=	Substitution	Silent	Benign	5	2012-06-14 12:53
+BRCA1	-	c.4385A>G	p.Glu1462Gly	Substitution	Missense	VUS	3	
+BRCA1	-	c.4535G>T	p.Ser1512Ile	Substitution	Missense	Benign	5	2012-11-07 6:43
+BRCA1	-	c.4837A>G	p.Ser1613Gly	Substitution	Missense	Benign	5	2012-06-14 12:54
+BRCA1	-	c.4956G>A	p.Met1652Ile	Substitution	Missense	Benign	5	2012-06-14 12:54
+BRCA1	-	c.5576C>G	p.Pro1859Arg	Substitution	Missense	VUS	3	
+BRCA1	-	c.390C>A	p.Try130X	Substitution	Nonsense	Pathogenic	1	
+BRCA1	-	c.81-14C>T	p.?	Substitution	Silent	Benign	5	2013-05-17 16:39
+BRCA1	-	c.5407-21C>G	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.548-58delT	p.(=)	Deletion	Silent	Benign	5	
+BRCA1	-	c.1487G>A	p.Arg496His	Substitution	Missense	Predicted Benign	4	
+BRCA1	-	c.5411T>A	p.Val1804Asp	Substitution	Missense	VUS	3	
+BRCA1	-	c.2668G>A	p.Gly890Arg	Substitution	Missense	Predicted Benign	4	
+BRCA1	-	c.3600G>T	p.Gln1200His	Substitution	Missense	Benign	5	
+BRCA1	-	c.3708T>G	p.Asn1236Lys	Substitution	Missense	VUS	3	2012-11-14 12:44
+BRCA2	-	c.125A>G	p.Tyr42Cys	Substitution	Missense	Benign	5	2012-08-30 8:05
+BRCA2	-	c.620C>T	p.Thr207Ile	Substitution	Missense	VUS	3	
+BRCA2	-	c.691A>G	p.Ser231Gly	Substitution	Missense	VUS	3	
+BRCA2	-	c.1114A>C	p.His372Asn	Substitution	Missense	Benign	5	2012-06-14 12:55
+BRCA2	-	c.1365A>G	p.=	Substitution	Silent	Benign	5	2012-06-14 12:56
+BRCA2	-	c.1275A>G	p.=	Substitution	Silent	VUS	3	
+BRCA2	-	c.1340C>T	p.Pro447Leu	Substitution	Missense	VUS	3	
+BRCA2	-	c.1514T>C	p.Ile505Thr	Substitution	Missense	Benign	5	2012-06-12 15:28
+BRCA2	-	c.1593A>G	p.=	Substitution	Silent	VUS	3	
+BRCA2	-	c.1786G>C	p.Asp596His	Substitution	Missense	Benign	5	
+BRCA2	-	c.2229T>C	p.=	Substitution	Silent	Benign	5	2012-06-14 12:56
+BRCA2	-	c.2971A>G	p.Asn991Asp	Substitution	Missense	Benign	5	2012-06-14 12:57
+BRCA2	-	c.3396A>G	p.=	Substitution	Silent	Benign	5	2012-06-14 12:57
+BRCA2	-	c.3807T>C	p.=	Substitution	Silent	Benign	5	2012-06-14 12:57
+BRCA2	-	c.3516G>A	p.=	Substitution	Silent	Benign	5	2012-03-30 13:38
+BRCA2	-	c.3661T>C	p.Ser1221Pro	Substitution	Missense	VUS	3	
+BRCA2	-	c.4258G>T	p.Asp1420Tyr	Substitution	Missense	Benign	5	2012-03-30 13:16
+BRCA2	-	c.4734A>G	p.=	Substitution	Silent	VUS	3	
+BRCA2	-	c.5199C>T	p.=	Substitution	Silent	Benign	5	2012-05-04 16:00
+BRCA2	-	c.5268A>G	p.=	Substitution	Silent	VUS	3	
+BRCA2	-	c.5744C>T	p.Thr1915Met	Substitution	Missense	Benign	5	2012-03-01 20:20
+BRCA2	-	c.5885T>C	p.Ile1962Thr	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.6100C>T	p.Arg2034Cys	Substitution	Missense	Benign	5	2012-06-27 10:50
+BRCA2	-	c.5312G>A	p.Gly1771Asp	Substitution	Missense	Benign	5	
+BRCA2	-	c.6231G>C	p.Lys2077Asn	Substitution	Missense	VUS	3	
+BRCA2	-	c.5455C>T	p.Pro1819Ser	Substitution	Missense	VUS	3	
+BRCA2	-	c.6618A>G	p.=	Substitution	Silent	VUS	3	
+BRCA2	-	c.7242A>G	p.=	Substitution	Silent	Benign	5	2012-06-14 12:58
+BRCA2	-	c.7057G>C	p.Gly2353Arg	Substitution	Missense	VUS	3	2012-08-07 13:02
+BRCA2	-	c.7480C>T	p.Arg2494X	Substitution	Nonsense	Pathogenic	1	
+BRCA2	-	c.7484T>C	p.Ile2495Thr	Substitution	Missense	VUS	3	
+BRCA2	-	c.7469T>C	p.Ile2490Thr	Substitution	Missense	Benign	5	2012-07-30 7:56
+BRCA2	-	c.7868A>G	p.His2623Arg	Substitution	Missense	VUS	3	
+BRCA2	-	c.7879A>T	p.Ile2627Phe	Substitution	Missense	Pathogenic	1	
+BRCA2	-	c.8182G>A	p.Val2728Ile	Substitution	Missense	Benign	5	2013-01-09 7:47
+BRCA2	-	c.8687G>A	p.Arg2896His	Substitution	Missense	Predicted Benign	4	2012-04-05 17:06
+BRCA2	-	c.8851G>A	p.Ala2951Thr	Substitution	Missense	Benign	5	2012-05-06 10:49
+BRCA2	-	c.10362A>C	p.(=)	Substitution	Silent	Benign	5	2012-06-14 12:58
+BRCA2	-	c.10626A>G	p.(=)	Substitution	Silent	Benign	5	
+BRCA2	-	c.9976A>T	p.Lys3326X	Substitution	Nonsense	Predicted Benign	4	2012-02-17 15:50
+BRCA2	-	c.10110G>A	p.Arg3370Arg	Substitution	Silent	Benign	5	2013-03-05 8:42
+BRCA2	-	c.10234A>G	p.Ile3412Val	Substitution	Missense	Benign	5	2012-02-23 17:26
+BRCA1	-	c.1360_1361del	p.Ser454X	Deletion	Nonsense	Pathogenic	1	
+BRCA2	-	c.7806-14T>C	p.(=)	Substitution	Silent	Benign	5	2012-06-14 12:58
+BRCA2	-	c.68-17delA	p.?	Deletion	Silent	VUS	3	
+BRCA2	-	c.8633-26A>G	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.8755-66T>C	p.(=)	Substitution	Silent	Benign	5	
+BRCA2	-	c.425+67A>C	p.(=)	Substitution	Silent	Benign	5	
+BRCA2	-	c.426-89T>C	p.(=)	Substitution	Silent	Benign	5	
+BRCA2	-	c.681+56C>T	p.(=)	Substitution	Silent	Benign	5	
+BRCA2	-	c.-26G>A	p.(=)	Substitution	Intronic	Benign	5	2013-01-15 11:29
+BRCA2	-	c.5449T>C	p.Ser1817Pro	Substitution	Missense	VUS	3	
+BRCA2	-	c.5261A>G	p.Asp1754Gly	Substitution	Missense	VUS	3	
+BRCA2	-	c.5663A>G	p.Lys1888Arg	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.6323G>A	p.Arg2108His	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.6513C>G	p.Val2171Val	Substitution	Silent	Benign	5	2012-04-05 12:11
+BRCA2	-	c.7397C>T	p.Ala2466Val	Substitution	Missense	Benign	5	2012-04-05 12:15
+BRCA2	-	c.241T>G	p.Phe81Gly	Substitution	Missense	VUS	3	
+BRCA2	-	c.517-2A>G	p.?	Substitution	Silent	Pathogenic	1	
+BRCA2	-	c.5785A>G	p.Ile1929Val	Substitution	Missense	Benign	5	2012-09-25 15:21
+BRCA2	-	c.6322C>T	p.Arg2108Cys	Substitution	Missense	Benign	5	2013-05-07 12:58
+BRCA2	-	c.6347A>G	p.His2116Arg	Substitution	Missense	Predicted Benign	4	2012-10-09 15:28
+BRCA2	-	c.7504C>T	p.Arg2502Cys	Substitution	Missense	VUS	3	
+BRCA2	-	c.6412G>T	p.Val2138Phe	Substitution	Missense	Benign	5	2012-06-25 15:00
+BRCA2	-	c.4068G>A	p.=	Substitution	Silent	Benign	5	2012-02-22 14:58
+BRCA2	-	c.8850G>T	p.Lys2950Asn	Substitution	Missense	Benign	5	2012-05-09 13:17
+BRCA2	-	c.5752C>T	p.His1918Tyr	Substitution	Missense	VUS	3	
+BRCA2	-	c.7052C>G	p.Ala2351Gly	Substitution	Missense	Benign	5	2012-04-30 12:43
+BRCA2	-	c.6886A>C	p.Ile2296Leu	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.5986G>T	p.Ala1996Ser	Substitution	Missense	VUS	3	
+BRCA2	-	c.6191A>G	p.Lys2064Arg	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.6706G>A	p.Glu2236Lys	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.6748A>G	p.Thr2250Ala	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.7017G>C	p.Lys2339Asn	Substitution	Missense	Benign	5	2012-11-05 10:05
+BRCA2	-	c.7319A>G	p.His2440Arg	Substitution	Missense	Benign	5	2012-11-05 10:06
+BRCA2	-	c.5612G>A	p.Ser1871Asn	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.7733G>A	p.Gly2578Glu	Substitution	Missense	VUS	3	
+BRCA2	-	c.5640T>G	p.Asn1880Lys	Substitution	Missense	Benign	5	2012-08-17 14:36
+BRCA2	-	c.6935A>T	p.Asp2312Val	Substitution	Missense	VUS	3	
+BRCA2	-	c.4094G>A	p.Cys1365Tyr	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.2786T>C	p.Leu929Ser	Substitution	Missense	Benign	5	2013-06-24 13:37
+BRCA2	-	c.5418A>G	p.Glu1806Glu	Substitution	Silent	Benign	5	2012-11-05 9:52
+BRCA2	-	c.4828G>A	p.Val1610Met	Substitution	Missense	VUS	3	
+BRCA2	-	c.8149G>T	p.Ala2717Ser	Substitution	Missense	Benign	5	2012-06-15 17:00
+BRCA2	-	c.8243G>A	p.Gly2748Asp	Substitution	Missense	Predicted Pathogenic	2	2012-09-26 10:56
+BRCA2	-	c.8905G>A	p.Val2969Met	Substitution	Missense	VUS	3	2013-04-24 15:05
+BRCA2	-	c.9257-16T>C	p.(=)	Substitution	Silent	Benign	5	
+BRCA2	-	c.1662T>G	p.Cys554Trp	Substitution	Missense	VUS	3	
+BRCA2	-	c.7177A>G	p.Met2393Val	Substitution	Missense	VUS	3	
+BRCA2	-	c.1749G>A	p.=	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.1792A>G	p.Thr598Ala	Substitution	Missense	Benign	5	2012-06-06 10:39
+BRCA2	-	c.5722_5723delCT	p.Leu1908ArgfsX2	Deletion	Frameshift - Out of Frame	Pathogenic	1	2013-03-01 16:09
+BRCA2	-	c.5909C>A	p.Ser1970X	Substitution	Nonsense	Pathogenic	1	
+BRCA2	-	c.5857G>T	p.Glu1953X	Substitution	Nonsense	Pathogenic	1	
+BRCA2	-	c.631+25C>T	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.7618-21G>T	p.?	Substitution	Silent	VUS	3	
+BRCA1	-	c.68_69del	p.Glu23ValfsX17	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-09-06 16:34
+BRCA2	-	c.1888_1889dupA	p.Thr630fs	Duplication	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.181T>G	p.Cys61Gly	Substitution	Missense	Pathogenic	1	2012-06-15 14:35
+BRCA2	-	c.9085G>A	p.Ala3029Thr	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.5704G>A	p.Asp1902Asn	Substitution	Missense	Benign	5	
+BRCA2	-	c.1151C>T	p.Ser384Phe	Substitution	Missense	Benign	5	2013-01-04 10:34
+BRCA2	-	c.8467A>C	p.Glu2856Ala	Substitution	Missense	Benign	5	
+BRCA2	-	c.1788T>C	p.=	Substitution	Silent	Benign	5	2012-03-06 10:27
+BRCA2	-	c.7521A>G	p.=	Substitution	Silent	Predicted Benign	4	2013-02-18 13:22
+BRCA1	-	c.199G>T	p.Asp67Tyr	Substitution	Missense	VUS	3	
+BRCA2	-	c.7976+45G>C	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.8332-41A>G	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.7976+35C>A	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.7544C>T	p.Thr2515Ile	Substitution	Missense	Benign	5	2013-03-06 12:58
+BRCA2	-	c.7626G>A	p.=	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.9117G>A	p.=	Substitution	Silent	Pathogenic	1	
+BRCA2	-	c.10154G>A	p.Arg3385His	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.9646-65ACTT	p.?	Deletion	Silent	Predicted Benign	4	
+BRCA2	-	c.2411_2412delAG	p.Gln804fsX5	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.3328_3330del	p.Lys1110del	Deletion	Frameshift - In-Frame	Predicted Benign	4	
+BRCA2	-	c.8702G>A	p.Gly2901Asp	Substitution	Missense	VUS	3	
+BRCA1	-	c.5266dupC	p.Gln1756ProfsX74	Insertion	Frameshift - Out of Frame	Pathogenic	1	2012-03-13 12:27
+BRCA2	-	c.10095delCins11	p.Val3365ValfsX4	Indel	Frameshift - Out of Frame	Benign	5	
+BRCA1	-	c.1016dup	p.Val340GlyfsX6	Duplication	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.4676-8C>G	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.-36C>G	p.?	Substitution	Intronic	Predicted Benign	4	
+BRCA2	-	c.8487+47C>T	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.4065_4068del	p.Asn1355fsX10	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA2	-	c.1964C>G	p.Pro655Arg	Substitution	Missense	Benign	5	2013-01-28 16:53
+BRCA1	-	c.4964_4982del	p.Ser1655TyrfsX16	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-05-07 11:48
+BRCA2	-	c.3847_3848delGT	p.Val1283LysfsX2	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA2	-	c.2593G>T	p.Glu865X	Substitution	Nonsense	Predicted Pathogenic	2	
+BRCA2	-	c.2808_2811delACAA	p.Ala938ProfsX21	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-05-06 11:39
+BRCA1	-	c.4120_4121del	p.Ser1374X	Deletion	Nonsense	Pathogenic	1	
+BRCA1	-	c.4035del	"p.Glu1346			Not Assessed		"	-	-			
+BRCA2	-	c.7618-6G>T	p.?	Substitution		VUS	3	2013-03-15 14:34
+BRCA1	-	c.632-44A>C	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.4079A>T	p.Asp1360Val	Substitution	Missense	VUS	3	2012-03-05 9:31
+BRCA2	-	c.6373delACinsG	p.Thr2125fs	Indel	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA2	-	c.5350_5351delAA	p.Asn1784fs	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA2	-	c.7522G>A	p.Gly2508Ser	Substitution	Missense	VUS	3	
+BRCA2	-	c.4563G>A	p.=	Substitution	Silent	Benign	5	2012-11-07 7:14
+BRCA2	-	c.1550A>G	p.Asn517Ser	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.7617+1G>A	p.?	Substitution	Silent	Pathogenic	1	
+BRCA2	-	c.5170A>G	p.Ile1724Val	Substitution	Missense	Predicted Benign	4	
+BRCA1	-	c.81-17C>G	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.6853A>G	p.Ile2285Val	Substitution	Missense	Predicted Benign	4	2013-06-20 16:32
+BRCA2	-	c.6842-73T>A	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.7805+6C>G	p.?	Substitution	Silent	VUS	3	
+BRCA1	-	c.5123C>A	p.Ala1708Glu	Substitution	Missense	Pathogenic	1	2012-09-11 16:36
+BRCA2	-	c.*105A>C	p.(=)	Substitution	Silent	Benign	5	2012-06-14 12:59
+BRCA2	-	c.1265delA	p.Asn422fs	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.1974G>C	p.Met658Ile	Substitution	Missense	Benign	5	2012-08-16 9:01
+BRCA2	-	c.5862_5863del TT	p.Thr1954fs	Deletion	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA1	-	c.3433G>T	p.Val1145Phe	Substitution	Missense	VUS	3	
+BRCA2	-	c.517-19C>T	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.8632+132_8632+133insC	p.?	Insertion	Silent	VUS	3	
+BRCA2	-	c.4757C>T	p.Thr1586Ile	Substitution	Missense	VUS	3	
+BRCA1	-	c.5333A>G	p.Asp1778Gly	Substitution	Missense	VUS	3	
+BRCA2	-	c.5238_5239insT	p.Asn1747X	Insertion	Nonsense	Pathogenic	1	
+BRCA1	-	c.536A>G	p.Tyr179Cys	Substitution	Missense	Benign	5	2013-05-22 11:05
+BRCA1	-	c.4883T>C	p.Met1628Thr	Substitution	Missense	Benign	5	2012-12-20 9:40
+BRCA2	-	c.1744A>C	p.Thr582Pro	Substitution	Missense	Predicted Benign	4	2012-08-02 7:18
+BRCA2	-	c.9256+54T>A	p.?	Substitution	Silent	VUS	3	
+BRCA1	-	c.3433G>T	p.Val1145Phe	Substitution	Missense	VUS	3	
+BRCA1	-	c.3418A>G	p.Ser1140Gly	Substitution	Missense	Benign	5	2013-06-06 15:07
+BRCA1	-	c.571G>A	p.Val191Ile	Substitution	Missense	Predicted Benign	4	
+BRCA1	-	c.4484G>T	p.Arg1495Met	Substitution	Missense	Pathogenic	1	
+BRCA2	-	c.2883G>A	p.=	Substitution	Silent	Benign	5	2012-05-02 11:21
+BRCA1	-	c.4987-20A>G	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.6937+34C>T	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.9649-19G>A	p.(=)	Substitution	Silent	Benign	5	
+BRCA2	-	c.516+18T>C	p.(=)	Substitution	Silent	Benign	5	
+BRCA1	-	c.442-34C>T	p.(=)	Substitution	Silent	Benign	5	
+BRCA2	-	c.7988A>T	p.Glu2663Val	Substitution	Missense	Pathogenic	1	2013-05-16 8:37
+BRCA1	-	c.3817C>T	p.Gln1273X	Substitution	Nonsense	Pathogenic	1	
+BRCA1	-	c.5335delC	p.Gln1779AsnfsX14	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-10-01 12:21
+BRCA1	-	c.692C>T	p.Thr231Met	Substitution	Missense	VUS	3	
+BRCA1	-	c.736T>G	p.Leu246Val	Substitution	Missense	Benign	5	2012-04-25 17:52
+BRCA1	-	c.4484+14A>G	p.?	Substitution	Silent	Benign	5	2012-06-05 16:48
+BRCA1	-	c.5406+33A>T	p.?	Substitution	Silent	VUS	3	
+BRCA1	-	c.3713C>T	p.Pro1238Leu	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.9256+28T>A	p.?	Substitution	Silent	VUS	3	
+BRCA1	-	c.1471C>T	p.Gln491X	Substitution	Nonsense	Pathogenic	1	2012-03-11 13:48
+BRCA1	-	c.4314C>G	p.=	Substitution	Silent	Pathogenic	1	
+BRCA2	-	c.2786delT	p.Lys929fs	Deletion	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA2	-	c.9547A>G	p.Ile3183Val	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.7436-4A>G	p.?	Substitution	Silent	VUS	3	
+BRCA1	-	c.1A>G	p.Met1?	Substitution	Silent	VUS	3	
+BRCA1	-	c.669G>A	p.=	Substitution	Silent	VUS	3	
+BRCA1	-	c.5521A>C	p.Ser1841Arg	Substitution	Missense	VUS	3	
+BRCA1	-	c.1175_1214del	p.Asn393MetfsX4	Deletion		Pathogenic	1	
+BRCA2	-	c.3005A>C	p.Asn1002Thr	Substitution	Missense	VUS	3	
+BRCA2	-	c.1550A>G	p.Asn517Ser	Substitution	Missense	Predicted Benign	4	
+BRCA1	-	c.3636A>G	p.=	Substitution	Silent	VUS	3	
+BRCA1	-	c.3083G>A	p.Arg1028His	Substitution	Missense	Benign	5	2012-09-25 15:39
+BRCA1	-	c.2733A>G	p.Gly911Gly	Substitution	Silent	Benign	5	2012-09-06 11:58
+BRCA1	-	c.1510del	p.Arg504ValfsX28	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA2	-	c.2461G>C	p.Val821Leu	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.1938C>T	p.=	Substitution	Silent	Benign	5	2012-06-21 16:02
+BRCA2	-	c.3417G>A	p.=	Substitution	Silent	Predicted Benign	4	2013-04-30 10:43
+BRCA1	-	c.4096+27C>T	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.426-37T>A	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.116G>A	p.Cys39Tyr	Substitution	Missense	Pathogenic	1	
+BRCA1	-	c.2596C>T	p.Arg866Cys	Substitution	Missense	Benign	5	
+BRCA1	-	c.2580A>G	p.=	Substitution	Silent	VUS	3	
+BRCA1	-	c.5074+2T>C	p.?	Substitution	Silent	Pathogenic	1	2013-02-28 10:37
+BRCA2	-	c.5773C>T	p.Gln1925X	Substitution	Nonsense	Pathogenic	1	
+BRCA2	-	c.5925T>G	p.Cys1975Trp	Substitution	Missense	VUS	3	
+BRCA2	-	c.8427C>T	p.=	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.9502-12T>G	p.?	Substitution	Silent	VUS	3	
+BRCA1	-	c.1846_1848del	p.Ser616del	Deletion	Frameshift - In-Frame	VUS	3	
+BRCA2	-	c.7994A>G	p.Asp2665Gly	Substitution	Missense	Predicted Benign	4	2012-03-11 20:21
+BRCA1	-	c.3596C>T	p.Ala1199Val	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.516+14delC	p.?	Deletion	Silent	Predicted Benign	4	
+BRCA2	-	c.2004G>A	p.=	Substitution	Silent	VUS	3	
+BRCA1	-	c.1648A>C	p.Asn550His	Substitution	Missense	Benign	5	2013-05-22 12:13
+BRCA1	-	c.1456T>C	p.Phe486Leu	Substitution	Missense	Benign	5	2012-06-25 14:57
+BRCA2	-	c.316+108A>G	p.?	Substitution	Silent	VUS	3	
+BRCA1	-	c.2722G>T	p.Glu908X	Substitution	Nonsense	Pathogenic	1	
+BRCA2	-	c.8470A>T	p.Arg2824X	Substitution	Nonsense	Predicted Pathogenic	2	
+BRCA2	-	c.7805+23G>A	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.1460C>A	p.Ala487Glu	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.4241C>T	p.Thr1414Met	Substitution	Missense	Benign	5	
+BRCA2	-	c.5171T>C	p.Ile1724Thr	Substitution	Missense	Predicted Benign	4	2012-03-15 9:34
+BRCA2	-	c.7558C>T	p.Arg2520X	Substitution	Nonsense	Pathogenic	1	2012-03-27 12:11
+BRCA2	-	c.7806-15C>T	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.3515C>T	p.Ser1172Leu	Substitution	Missense	Benign	5	2012-06-11 14:08
+BRCA2	-	c.68-7T>A	p.?	Substitution	Intronic	VUS	3	2012-02-17 11:01
+BRCA2	-	c.9101A>G	p.Gln3034Arg	Substitution	Missense	VUS	3	2012-03-09 18:11
+BRCA2	-	c.3869G>A	p.Cys1290Tyr	Substitution	Missense	Benign	5	2012-04-12 17:34
+BRCA1	-	c.3254_3255dup	p.Leu1085AspfsX2	Duplication	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.4516delG	p.Asp1506IlefsX42	Deletion	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA1	-	c.4689C>G	p.Tyr1563X	Substitution	Nonsense	Pathogenic	1	
+BRCA1	-	c.3255_3256dupGA	p.Leu1085AspfsX2	Duplication	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.5468-10C>A	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.981A>G	p.Thr327Thr	Substitution	Silent	Benign	5	2012-09-06 16:44
+BRCA1	-	c.3024G>A	p.Met1008Ile	Substitution	Missense	Benign	5	2012-09-06 12:05
+BRCA1	-	c.1994delA	p.Asn665ThrfsX36	Deletion	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA2	-	c.7806-40A>G	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.223G>C	Ala75Pro	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.8460A>C	p.Val2820Val	Substitution	Silent	Benign	5	2013-05-16 15:56
+BRCA2	-	c.8567A>C	p.Glu2856Ala	Substitution	Missense	Benign	5	2012-03-09 14:45
+BRCA2	-	c.8755-65A>G	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.3170_3174delAGAAA	p.Lys1057ThrfsX8	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA2	-	c.2391G>A	p.=	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.7509C>G	p.=	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.7448G>A	Ser2483Asn	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.8010G>A	p.=	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.1227A>G	p.=	Substitution	Silent	VUS	3	
+BRCA1	-	c.2338C>T	p.Gln780X	Substitution	Nonsense	Pathogenic	1	
+BRCA1	-	c.5497G>A	p.Val1833Met	Substitution	Missense	VUS	3	
+BRCA2	-	c.317-15A>G	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.771_775delTCAAA	p.Asn257LysfsX17	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA2	-	c.1889C>T	p.Thr630Ile	Substitution	Missense	Benign	5	2013-06-25 10:03
+BRCA2	-	c.8351G>A	Arg2784Gln	Substitution	Missense	VUS	3	
+BRCA2	-	c.7435+53C>T	p.(=)	Substitution	Silent	Benign	5	
+BRCA2	-	c.865A>C	p.Asn289His	Substitution	Missense	Benign	5	2012-06-14 12:55
+BRCA1	-	c.135-?_441+?del		-	-	Pathogenic	1	
+BRCA1	-	c.4386dupA	p.Tyr1463IlefsX13	Duplication	Frameshift - Out of Frame			
+BRCA2	-	c.8953+98T>C	p.(=)	Substitution	Silent	Benign	5	
+BRCA2	-	c.5864C>A	p.Ser1955X	Substitution	Nonsense	Pathogenic	1	
+BRCA2	-	c.6154delT	p.Ser2052fsX18	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA2	-	c.8215G>A	p.Val2739Ile	Substitution	Missense	Predicted Benign	4	
+BRCA1	-	c.4600G>A	p.Val1534Met	Substitution	Missense	Predicted Benign	4	2013-02-22 16:46
+BRCA2	-	c.4046T>C	p.Ile1349Thr	Substitution	Missense	VUS	3	
+BRCA1	-	c.301+8T>C	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.301+146A>C	p.?	Substitution	Silent	VUS	3	
+BRCA1	-	c.5592+36C>G	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.5631C>T	p.=	Substitution	Silent	VUS	3	
+BRCA1	-	c.312C>A	p.Ser104Arg	Substitution	Missense	VUS	3	
+BRCA1	-	c.80+5G>C	p.?	Substitution	Silent	VUS	3	
+BRCA1	-	c.3640G>A	p.Glu1214Lys	Substitution	Missense	VUS	3	
+BRCA1	-	c.4485-63C>G	p.(=)	Substitution	Silent	Benign	5	
+BRCA1	-	c.548-17G>T	p.?	Substitution	Silent	VUS	3	
+BRCA1	-	c.1961delA	p.Lys654SerfsX47	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA2	-	c.6037A>G	p.Lys2013Glu	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.8487+19A>G	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.8488-108C>T	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.5728_5730delAAT	p.Asn1910del	Deletion	Frameshift - In-Frame	VUS	3	
+BRCA2	-	c.2926_2927delinsAT	p.Ser976Ile	Indel	Missense	VUS	3	
+BRCA1	-	c.1113T>G	p.=	Substitution	Silent	VUS	3	
+BRCA1	-	c.1687C>T	p.Gln563X	Substitution	Nonsense	Pathogenic	1	
+BRCA2	-	c.67+62T>G	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.1513A>G	p.Ile505Val	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.8924delT	p.Val2975GlufsX13	Deletion	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA2	-	c.9501+3A>T	p.?	Substitution	Silent	VUS	3	2012-07-13 14:14
+BRCA1	-	c.786G>A	p.=	Substitution	Silent	VUS	3	2013-02-04 16:16
+BRCA1	-	c.895_896delGT	p.Val299ArgfsX5	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA2	-	c.5225A>G	p.Asn1742Ser	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.7007G>A	p.Arg2336His	Substitution	Missense	Pathogenic	1	2013-01-22 15:30
+BRCA2	-	c.1368_1369dupGA	p.Lys456ArgfsX4	Duplication	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA2	-	c.8585het_dupT		Duplication		Pathogenic	1	
+BRCA2	-	c.4686A>G	p.=	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.5075-2A>C	p.?	Substitution	Silent	Pathogenic	1	
+BRCA1	-	c.-110A>C	p.?	Substitution	Intronic	VUS	3	
+BRCA1	-	c.305C>G	p.Ala102Gly	Substitution	Missense	VUS	3	
+BRCA1	-	c.4357+17A>G	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.1385A>G	p.Glu462Gly	Substitution	Missense	VUS	3	
+BRCA2	-	c.7431T>C	p.=	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.9155G>A	p.Arg3052Gln	Substitution	Missense	VUS	3	
+BRCA2	-	c.5095G>A	p.Asp1699Asn	Substitution	Missense	Predicted Benign	4	2012-11-07 9:37
+BRCA2	-	c.5682C>G	p.Tyr1894X	Substitution	Nonsense	Pathogenic	1	2012-08-13 14:14
+BRCA1	-	c.2834_2836delGTAinsC	p.Ser945ThrfsX6	Indel	Frameshift - Out of Frame	Pathogenic	1	2012-10-30 10:52
+BRCA1	-	c.1953_1956delGAAA	p.Lys651LisfsX50	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.2634A>G	p.=	Substitution	Silent	VUS	3	
+BRCA1	-	c.5152+66G>A	p.(=)	Substitution	Silent	Benign	5	
+BRCA1	-	c.5075-53C>T	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.2186T>C	p.Ile729Thr	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.8830A>T	p.Ile2944Phe	Substitution	Missense	Benign	5	2012-08-10 15:07
+BRCA2	-	c.2538A>C	p.=	Substitution	Silent	VUS	3	
+BRCA1	-	c.2352G>A	p.=	Substitution	Silent	VUS	3	
+BRCA2	-	c.956A>G	p.Asn319Ser	Substitution	Missense	VUS	3	2013-01-08 16:20
+BRCA2	-	c.6325G>A	p.Val2109Ile	Substitution	Missense	Predicted Benign	4	
+BRCA1	-	c.4987-92A>G	p.(=)	Substitution	Silent	Benign	5	
+BRCA1	-	c.4987-68A>G	p.(=)	Substitution	Silent	Benign	5	
+BRCA1	-	c.5074+65G>A	p.(=)	Substitution	Silent	Benign	5	
+BRCA1	-	c.3481_3491del11	p.Glu1161PhefsX3	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.134+111C>T	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.1395A>C	p.=	Substitution	Silent	VUS	3	
+BRCA2	-	c.2240A>G	p.Glu747Gly	Substitution	Missense	VUS	3	
+BRCA2	-	c.631+183T>A	p.(=)	Substitution	Silent	Benign	5	
+BRCA2	-	c.9294C>G	p.Tyr3098X	Substitution	Nonsense	Pathogenic	1	
+BRCA1	-	c.5407-73A>C	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.7007+126_134dup9	p.?	Duplication	Silent	Predicted Benign	4	
+BRCA1	-	c.75C>T	p.=	Substitution	Silent	Benign	5	
+BRCA1	-	c.4484+61G>T	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.4484+181_182delTA	p.?	Deletion	Silent	Predicted Benign	4	
+BRCA1	-	c.4675+53C>A	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.440A>G	p.Gln147Arg	Substitution	Missense	Benign	5	2013-04-04 16:50
+BRCA2	-	c.6937+49A>G	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.8680delC	p.Gln2894LysfsX15	Deletion	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA2	-	c.4585G>A	p.Gly1529Arg	Substitution	Missense	Benign	5	
+BRCA1	-	c.5074+118C>T	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.-51_-49delTCT	p.?	Deletion	Intronic	VUS	3	
+BRCA2	-	c.267G>A	p.=	Substitution	Silent	Benign	5	2012-07-03 10:53
+BRCA2	-	c.8487+47C>A	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.5158dupT	p.Ser1720PhefsX7	Duplication	Frameshift - Out of Frame	Pathogenic	1	
+BRCA2	-	c.5836T>C	p.Ser1946Pro	Substitution	Missense	Predicted Benign	4	
+BRCA1	-	c.4372C>T	p.Gln1458X	Substitution	Nonsense	Pathogenic	1	
+BRCA2	-	c.9373C>T	p.Leu3125Phe	Substitution	Missense	VUS	3	
+BRCA1	-	c.1775G>A	p.Ser592Asn	Substitution	Missense	Predicted Benign	4	
+BRCA1	-	c.765G>A	p.=	Substitution	Silent	VUS	3	
+BRCA1	-	c.2109A>G	p.=	Substitution	Silent	Benign	5	2012-11-07 7:07
+BRCA1	-	c.4117G>T	p.Glu1373X	Substitution	Nonsense	Pathogenic	1	
+BRCA1	-	c.4508C>A	p.Ser1503X	Substitution	Nonsense	Pathogenic	1	
+BRCA1	-	c.5074+108G>A	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.8535_8538delAGAG	p.Arg2845fsX17	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA2	-	c.4631delA	p.Asn1544fsX24	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.5557T>A	p.Tyr1853Asn	Substitution	Missense	VUS	3	
+BRCA2	-	c.4779A>C	p.Clu1593Asp	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.8632+132dupC	p.?	Duplication	Silent	VUS	3	
+BRCA1	-	c.514delC	p.Gln172fsX62	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.-104_100delCTTTA	p.?	Deletion	Intronic	Predicted Benign	4	
+BRCA2	-	c.79A>G	p.Ile27Val	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.469_470delAA	p.Lys157ValfsX25	Deletion	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA2	-	c.978C>A	p.Ser326Arg	Substitution	Missense	Benign	5	2012-07-05
+BRCA2	-	c.6315A>G	p.Ile2105Met	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.7008-62A>G	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.301+55G>A	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.7A>G	p.Ile3Val	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.6317T>C	p.Leu2106Pro	Substitution	Missense	Predicted Benign	4	
+BRCA1	-	c.1617G>A	p.=	Substitution	Silent	VUS	3	
+BRCA2	-	c.1362A>G	p.=	Substitution	Silent	Benign	5	2012-12-28 10:18
+BRCA1	-	c.2681_2682delAA	p.Lys894ThrfsX8	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.5332+20C>A	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.516+21A>T	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.9648+106delT	p.?	Deletion	Silent	Predicted Benign	4	
+BRCA1	-	c.3748G>T	p.Glu1250X	Substitution	Nonsense	Pathogenic	1	
+BRCA1	-	c.4357+1G>A	p.?	Substitution	Silent	Pathogenic	1	
+BRCA1	-	c.5278-96delG	p.?	Deletion	Silent	Predicted Benign	4	
+BRCA2	-	c.317-137dupA	p.?	Duplication	Silent	Predicted Benign	4	
+BRCA2	-	c.793+1G>A	p.?	Substitution	Silent	Pathogenic	1	
+BRCA2	-	c.3328G>T	p.Glu1110X	Substitution	Nonsense	Predicted Pathogenic	2	
+BRCA2	-	c.5870T>C	p.Ile1957Thr	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.5924G>C	p.Cys1975Ser	Substitution	Missense	VUS	3	
+BRCA2	-	c.517-105A>G	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.2803G>A	p.Asp935Asn	Substitution	Missense	Benign	5	
+BRCA2	-	c.2870delA	p.Asn957IlefsX3	Deletion	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA2	-	c.5070A>C	p.Lys1690Asn	Substitution	Missense	Benign	5	2013-01-31 11:49
+BRCA2	-	c.1813dupA	p.Ile605Asn	Duplication	Missense	Pathogenic	1	
+BRCA1	-	c.5406+46T>C	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.943T>A	p.Cys315Ser	Substitution	Missense	VUS	3	
+BRCA2	-	c.516+14C>T	p.?	Substitution	Silent	Predicted Benign	4	2012-06-30 14:22
+BRCA2	-	c.9435_9436delGT	p. Val3145fsX4	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.-134T>C	p.?	Substitution	Intronic	Predicted Benign	4	
+BRCA2	-	c.425+33A>G	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.570C>T	p.=	Substitution	Silent	VUS	3	
+BRCA1	-	c.3334delG	p.Glu1112AsnfsX5	Deletion	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA1	-	c.3878C>T	p.Ala1293Val	Substitution	Missense	VUS	3	
+BRCA2	-	c.426-37dupT	p.?	Duplication	Silent	Predicted Benign	4	
+BRCA2	-	c.4578A>G	p.=	Substitution	Silent	Benign	5	2012-10-01 10:38
+BRCA2	-	c.6275_6276delTT	p.Leu2092ProfsX7	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-08-13 10:15
+BRCA1	-	c.3333delA	p.Gln1112AsnfsX5	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.1561G>A	p.Ala521Thr	Substitution	Missense	Predicted Benign	4	
+BRCA1	-	c.3448C>T	p.Pro1150Ser	Substitution	Missense	VUS	3	
+BRCA2	-	c.274C>T	p.Gln92X	Substitution	Nonsense	Pathogenic	1	
+BRCA2	-	c.2716A>G	p.Thr906Ala	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.2752A>G	p.Asn918Asp	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.6683T>C	p.Val2228Ala	Substitution	Missense	VUS	3	
+BRCA1	-	c.4987-70G>A	p.?	Substitution	Silent	VUS	3	
+BRCA1	-	c.4816A>G	p.Lys1606Glu	Substitution	Missense	VUS	3	
+BRCA2	-	c.280C>T	p.Pro94Ser	Substitution	Missense	VUS	3	
+BRCA2	-	c.2748delT	p.Cys916TrpfsX2	Deletion	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA2	-	c.7301A>C	p.Lys2434Thr	Substitution	Missense	Predicted Benign	4	
+BRCA1	-	c.4484+1G>A	p.?	Substitution	Silent	Pathogenic	1	
+BRCA1	-	c.5074+124T>G	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.5153-31A>G	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.5152+85delT	p.?	Deletion	Silent	Predicted Benign	4	
+BRCA2	-	c.7617+39G>A	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.8954-40C>A	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.8954-28T>G	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.9302T>G	p.Leu3101Arg	Substitution	Missense	VUS	3	
+BRCA2	-	c.4071A>C	p.=	Substitution	Silent	VUS	3	
+BRCA2	-	c.6937+74C>G	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.4987-2A>G	p.?	Substitution	Silent	Predicted Pathogenic	2	
+BRCA1	-	c.3541G>A	p.Val1181Ile	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.7150C>A	p.Gln2384Lys	Substitution	Missense	Predicted Benign	4	
+BRCA2	-	c.4552delG	p.Glu1518AsnfsX25	Deletion	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA2	-	c.8633-21A>G	p.?	Substitution	Silent	VUS	3	
+BRCA2	-	c.1670T>G	p.Leu557X	Substitution	Nonsense	Pathogenic	1	
+BRCA2	-	c.9564T>C	p.=	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.985A>T	p.Asn329Tyr	Addition	Missense	VUS	3	
+BRCA1	-	c.5251C>T	p.Arg1751X	Substitution	Nonsense	Pathogenic	1	2012-08-21 16:17
+BRCA2	-	c.9292T>C	p.Tyr3098His	Substitution	Missense	Predicted Benign	4	2012-11-07 9:32
+BRCA2	-	c.2233A>G	p.Lys745Glu	Substitution	Missense	VUS	3	
+BRCA2	-	c.1568A>G	p.His523Arg	Substitution	Missense	VUS	3	
+BRCA2	-	c.6209A>G	p.Glu2070Gly	Substitution	Missense	VUS	3	
+BRCA1	-	c.3783A>G	p.Leu1261Leu	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.2389G>T	p.Glu797X	Substitution	Nonsense	Predicted Pathogenic	2	
+BRCA1	-	c.5277+48_5277+59dup	p.?	Duplication	Silent	Predicted Benign	4	
+BRCA2	-	c.6591_6592delTG	p.Glu2198AsnfsX4	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA2	-	c.5390C>G	p.Ala1797Gly	Substitution	Missense	VUS	3	
+BRCA2	-	c.793+46_793+48delGT	p.?	Deletion	Silent	Predicted Benign	4	
+BRCA1	-	c.5277+78G>A	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.516+102T>C	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA2	-	c.2397_2422dup	p.Leu809ValfsX10	Duplication	Frameshift - Out of Frame	Predicted Pathogenic	2	
+BRCA1	-	c.548-34T>C	p.?	Substitution	Silent	Predicted Benign	4	
+BRCA1	-	c.212+4T>C	p.?	Substitution	Silent	VUS	3	
+BRCA1	-	c.68_69delAG	p.Glu23ValfsX17	Deletion	Frameshift - Out of Frame	Pathogenic	1	2013-05-24 12:13
+BRCA2	-	c.5946delT	 p.Ser1982ArgfsX22	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-08-16 12:50
+BRCA1	-	c.4812A>G	p.=	Substitution	Silent	VUS	3	2012-01-20 14:10
+BRCA1	-	c.2685_2686delAA	p.Pro897LysfsX5	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-01-17 17:53
+BRCA2	-	C.		-	-			
+BRCA2	-	c.8673_8674delAA	p.Arg2892ThrfsX14	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA1	-	c.3327A>C	p.Lys1109Asn	Substitution	Missense	VUS	3	2012-02-03 12:28
+BRCA1	-	c.4046C>T	p.Thr1349Met	Substitution	Missense	VUS	3	2012-02-03 8:57
+BRCA2	-	c.4314C>T	p.(=)	Substitution	Silent	Benign	5	2012-02-03 9:05
+BRCA2	-	c.9097dupA	p.Thr3033AsnfsX11	Duplication	Frameshift - Out of Frame	Pathogenic	1	2012-02-03 9:10
+BRCA1	-	c.843_846delCTCA	p.Ser282TyrfsX15	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-02-03 10:33
+BRCA1	-	c.2566T>C	p.Tyr856His	Substitution	Missense	Benign	5	2013-03-11 8:26
+BRCA1	-	c.81-?_134+?del	p.?	Deletion	Silent	Pathogenic	1	2012-02-08 11:43
+BRCA1	-	c.2681_2682delAA	p.Lys894ThrfsX8	Deletion	Frameshift - Out of Frame	Pathogenic	1	
+BRCA2	-	c.9382C>T	p.Arg3128X	Substitution	Nonsense	Pathogenic	1	2012-02-09 15:48
+BRCA1	-	c.528G>A	p.Thr176Thr	Substitution	Silent	Predicted Benign	4	2012-02-17 9:40
+BRCA2	-	c.8633-14T>C	p.?	Substitution	Silent	Predicted Benign	4	2012-02-22 17:05
+BRCA2	-	c.4187A>G	p.Gln1396Arg	Substitution	Missense	Predicted Benign	4	2012-02-23 13:41
+BRCA2	-	c.5218_5223del	p.Leu1740_Ser1741del	Deletion	Frameshift - In-Frame	VUS	3	2012-02-27 14:22
+BRCA1	-	c.2263delG	p.Glu755Lysfs*10	Deletion	Frameshift - Out of Frame			
+BRCA2	-	c.8187G>T	p.Lys2729Asn	Substitution	Missense	Benign	5	2013-03-25 10:16
+BRCA2	-	c.6868T>C	p.Leu2290Leu	Substitution	Silent	Predicted Benign	4	2012-03-06 10:35
+BRCA1	-	c.2006T>C	p.Met669Thr	Substitution	Missense	VUS	3	2012-03-06 17:39
+BRCA1	-	c.5357T>C	p.Leu1786Pro	Substitution	Missense	VUS	3	2012-03-06 18:35
+BRCA2	-	c.6468_6469dupTC	p.Gln2157LeufsX12	Duplication	Frameshift - Out of Frame	Pathogenic	1	2012-03-09 14:17
+BRCA1	-	c.5100A>G	p.Thr1700Thr	Substitution	Silent	Predicted Benign	4	2012-03-10 15:57
+BRCA1	-	c.1486C>T	p.Arg496Cys	Substitution	Missense	Predicted Benign	4	2012-03-11 20:32
+BRCA2	-	c.8167G>C	p.Asp2723His	Substitution	Missense	Pathogenic	1	2012-03-13 18:03
+BRCA1	-	c.5278-6T>C	p.?	Substitution	Intronic	VUS	3	2012-03-14 14:12
+BRCA2	-	c.5729A>T	p.Asn1910Ile	Substitution	Missense	VUS	3	2012-03-20 17:34
+BRCA1	-	c.5327C>A	p.Pro1776His	Substitution	Missense	VUS	3	2012-03-22 15:53
+BRCA1	-	c.1971A>G	p.Gln657Gln	Substitution	Silent	Benign	5	2012-03-27 12:30
+BRCA2	-	c.6803G>A	p.Arg2268Lys	Substitution	Missense	VUS	3	2012-03-27 18:39
+BRCA2	-	c.4183G>T	p.Ala1395Ser	Substitution	Missense	VUS	3	2012-03-30 15:18
+BRCA1	-	c.4493delC	p.Pro1498LeufsX7	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-03-30 16:16
+BRCA1	-	c.436T>C	p.Ser146Pro	Substitution	Missense	VUS	3	2012-04-03 10:07
+BRCA2	-	c.1627C>A	p.His543Asn	Substitution	Missense	Predicted Benign	4	2012-04-05 13:53
+BRCA2	-	c.9097het_dupA		-	-			
+BRCA1	-	c.4083G>A	p.Met1361Ile	Substitution	Missense	VUS	3	2012-04-06 11:15
+BRCA2	-	c.7908T>A	p.Cys2636X	Substitution	Nonsense	Pathogenic	1	2012-04-06 11:29
+BRCA1	-	c.154C>T	p.Leu52Phe	Substitution	Missense	VUS	3	2012-04-06 11:57
+BRCA2	-	c.9333G>A	p.Glu3111Glu	Substitution	Silent	Predicted Benign	4	2012-04-12 11:06
+BRCA2	-	c.4563A>G	p.Leu1521Leu	Substitution	Silent	Benign	5	2012-04-16 15:11
+BRCA2	-	c.4656T>C	p.Gly1552Gly	Substitution	Silent	Benign	5	2012-04-18 10:25
+BRCA1	-	c.1065G>A	p.Lys355Lys	Substitution	Silent	Predicted Benign	4	2012-04-19 11:55
+BRCA2	-	c.5652T>C	p.Ile1884Ile	Substitution	Silent	Predicted Benign	4	2012-04-19 11:59
+BRCA2	-	c.231T>G	p.Thr77Thr	Substitution	Silent	Benign	5	2012-04-19 12:50
+BRCA2	-	c.6513C>G		-	-	Benign	5	2012-04-05 12:11
+BRCA1	-	c.2998_3003delGAGGAA	p.Glu1000_Glu1001del	Deletion	Frameshift - In-Frame	VUS	3	2012-05-02 11:15
+BRCA2	-	c.2765T>G	p.Phe922Cys	Substitution	Missense	VUS	3	2012-05-02 11:19
+BRCA2	-	c.4656T>C	p.Gly1552Gly	Substitution	Silent	Benign	5	2012-04-18 10:25
+BRCA2	-	c.5120C>T	p.Thr1707Ile	Substitution	Missense	VUS	3	2012-04-30 11:29
+BRCA1	-	c.505C>T	p.Gln169X	Substitution	Nonsense	Pathogenic	1	2012-05-02 10:42
+BRCA2	-	c.8904delC	p.Val2969CysfsX7	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-05-09 13:29
+BRCA2	-	c.8332-2A>G	r.spl?	Substitution	Intronic	Pathogenic	1	2012-05-04 14:28
+BRCA1	-	c.4964_4982delCTGGCCTGACCCCAGAAGA		-	-			
+BRCA2	-	c.8954-5A>G	p.Val2985AspfsX34	Substitution	Intronic	Pathogenic	1	2012-05-07 18:08
+BRCA2	-	c.517-?_631+?del		Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-05-08 12:33
+BRCA2	-	c.9118-1G>C	p.?	Substitution	Intronic	Pathogenic	1	2012-05-18 14:08
+BRCA1	-	c.3247_3251delATGCT	p.Met1083X	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-05-21 9:44
+BRCA1	-	c.1865C>T	p.Ala622Val	Substitution	Missense	VUS	3	2012-05-21 11:08
+BRCA2	-	c.8503T>C	p.Ser2835Pro	Substitution	Missense	Benign	5	2013-06-20 10:25
+BRCA1	-	c.4997dupA	p.Tyr1666X	Duplication	Frameshift - Out of Frame	Pathogenic	1	2012-05-29 11:49
+BRCA2	-	c.8572C>T	p.Gln2858X	Substitution	Nonsense	Pathogenic	1	2012-05-28 15:28
+BRCA2	-	c.7992T>A	p.Ile2664Ile	Substitution	Silent	VUS	3	2012-05-29 10:45
+BRCA1	-	c.2477C>A	p.Thr826Lys	Substitution	Missense	Benign	5	2012-05-29 11:05
+BRCA2	-	c.7808T>A		-	-			
+BRCA2	-	c.538_539dupAT	p.Ser181PhefsX5	Duplication	Frameshift - Out of Frame	Pathogenic	1	2012-06-06 10:32
+BRCA2	-	c.2746delT		-	-			
+BRCA1	-	c.693G>A	p.Thr231Thr	Substitution	Silent	VUS	3	2012-06-14 8:22
+BRCA2	-	c.6599T>C	p.Phe2200Ser	Substitution	Missense	VUS	3	2012-06-14 8:51
+BRCA2	-	c.3858_3860delAAA	p.Lys1286del	Deletion	Frameshift - In-Frame	VUS	3	2012-06-25 15:07
+BRCA2	-	c.4535G>A	p.Arg1512His	Substitution	Missense	VUS	3	2012-06-25 15:10
+BRCA2	-	c.7976+12G>A	p.?	Substitution	Intronic	Predicted Benign	4	2012-06-25 15:14
+BRCA2	-	c.9381G>A		-	-			
+BRCA2	-	c.9380G>A		-	-			
+BRCA2	-	c.8926A>G		-	-			
+BRCA2	-	c.8673_8674het_delAA	p.Arg2892ThrfsX14	-	-			
+BRCA1	-	c.516delA	p.Gln172HisfsX62	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-06-27 16:23
+BRCA1	-	c.671-6T>G	p.?	Substitution	Intronic	VUS	3	2012-06-29 9:04
+BRCA1	-	c.3113A>C	p.Glu1038Ala	Substitution	Missense	Predicted Benign	4	2012-06-29 9:10
+BRCA2	-	c.3545_3546delTT	p.Phe1182X	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-06-27 15:50
+BRCA1	-	c.4986+6T>G	p.?	Substitution	Intronic	Pathogenic	1	2012-07-23 16:16
+BRCA2	-	c.3073A>G	p.Lys1025Glu	Substitution	Missense	VUS	3	2012-07-10 13:45
+BRCA2	-	c.7762_7764delATAinsTT		-	-			
+BRCA2	-	c.-15A>C		Substitution	Intronic	VUS	3	2012-07-19 18:08
+BRCA1	-	c.3037G>A	p.Glu1013Lys	Substitution	Missense	VUS	3	2012-07-17 16:16
+BRCA1	-	c.1-?_80+?del	p.?	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-07-10 17:00
+BRCA2	-	c.891_899delAACAGTTGTins10	p.Thr298IlefsX7	Indel	Frameshift - Out of Frame	Pathogenic	1	2012-08-17 7:12
+BRCA2	-	c.6220C>A	p.His2074Asn	Substitution	Missense	Benign	5	2012-07-27 14:25
+BRCA2	-	c.9383G>A	p.Arg3128Gln	Substitution	Missense	VUS	3	2012-07-18 9:50
+BRCA1	-	c.1255G>C	p.Val419Leu	Substitution	Missense	VUS	3	2012-08-03 12:24
+BRCA2	-	c.6466_6469delTCTC	p.Ser2156AsnfsX11	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-07-30 11:08
+BRCA1	-	c.2083G>T	p.Asp695Tyr	Substitution	Missense	Predicted Benign	4	2012-07-27 13:54
+BRCA1	-	c.3454G>A	p.Asp1152Asn	Substitution	Missense	VUS	3	2012-07-30 11:33
+BRCA2	-	c.9606G>A	Pro3202Pro	Substitution		Benign	5	2012-08-03 12:16
+BRCA2	-	c.2908G>A	p.Asp970Asn	Substitution	Missense	VUS	3	2012-08-02 7:59
+BRCA1	-	c.3700_3704delGTAAA	p.Val1234GlnfsX8	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-12-21 13:01
+BRCA2	-	c.5073dupA	p.Trp1692MetfsX3	Duplication	Frameshift - Out of Frame	Pathogenic	1	2012-12-28 10:24
+BRCA2	-	c.3454_3455delTT	p.Leu1152LysfsX5	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-12-28 15:30
+BRCA2	-	c.1810A>G	p.Lys604Glu	Substitution	Missense	VUS	3	2013-01-11 10:33
+BRCA2	-	c.6131G>C	p.Gly2044Ala	Substitution	Missense	VUS	3	2013-01-16 10:51
+BRCA1	-	c.5068A>C	p.Lys1690Gln	Substitution	Missense	VUS	3	2012-08-08 9:21
+BRCA2	-	c.8505A>G	p.Ser2835Ser	Substitution	Silent	Predicted Benign	4	2012-08-09 13:27
+BRCA2	-	c.8537_8538delAG	p.Glu2846GlyfsX22	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-08-13 8:48
+BRCA1	-	c.557C>A	p.Ser186Tyr	Substitution	Missense	Benign	5	2012-08-15 11:46
+BRCA1	-	c.5406+8T>C	p.?	Substitution	Intronic	Benign	5	2012-08-15 11:43
+BRCA1	-	c.5137delG	p.Val1713X	Deletion	Silent			
+BRCA1	-	c.1556delA	p.Lys519ArgfsX13	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-08-27 9:22
+BRCA2	-	c.793+12G>A	p.?	Substitution	Intronic	Predicted Benign	4	2012-09-05 8:29
+BRCA1	-	c.3756_3759del	p.Ser1253ArgfsX10	Deletion	Frameshift - Out of Frame	Pathogenic	1	2013-07-12 10:54
+BRCA1	-	c.4666C>T	p.Gln1556X	Substitution	Nonsense	Pathogenic	1	2012-09-04 15:25
+BRCA2	-	c.3581G>A	p.Gly1194Asp	Substitution	Missense	Benign	5	2012-09-05 14:20
+BRCA2	-	c.262_263delCT		-	-			
+BRCA2	-	c.198A>G	p.Gln66Gln	Substitution	Silent	Benign	5	2012-09-04 15:01
+BRCA1	-	c.5503C>T	p.Arg1835X	Substitution	Nonsense	Pathogenic	1	2012-09-13 8:49
+BRCA1	-	c.895_896delGT		-	-	Pathogenic	1	
+BRCA2	-	c.1478C>T	p.Pro493Leu	Substitution	Missense	Predicted Benign	4	2012-10-01 15:38
+BRCA2	-	c.6761T>A	p.Phe2254Tyr	Substitution	Missense	Predicted Benign	4	2012-10-01 10:54
+BRCA1	-	c.5117G>C	p.Gly1706Ala	Substitution	Missense	Predicted Benign	4	2012-09-25 14:49
+BRCA1	-	c.81-6T>C		Substitution		VUS	3	2012-10-02 11:00
+BRCA2	-	c.2957_2958insG		-	-			
+BRCA2	-	c.7815_7816delTG	p.Cys2605X	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-11-05 13:11
+BRCA2	-	c.6405_6409delCTTAA	p.Asn2135LysfsX3	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-11-05 12:22
+BRCA1	-	c.5075A>C	p.Asp1692Ala	Substitution	Missense	VUS	3	2012-10-12 10:38
+BRCA2	-	c.4796A>G	p.Asn1599Ser	Substitution	Missense	VUS	3	2012-10-22 14:43
+BRCA2	-	c.9004G>A	p.Glu3002Lys	Substitution	Missense	Predicted Pathogenic	2	2012-11-06 12:24
+BRCA1	-	c.4934G>C	p.Arg1645Thr	Substitution	Missense	Predicted Benign	4	2012-11-05 10:01
+BRCA2	-	c.3264T>C	p.Pro1088Pro	Substitution	Silent	Benign	5	2012-11-05 10:03
+BRCA2	-	c.9730G>A		Substitution	Missense	Benign	5	2012-11-05 10:07
+BRCA1	-	c.3G>T		-	-			
+BRCA2	-	c.4614T>C	p.Ser1538Ser	Substitution	Silent	Benign	5	2012-11-06 16:58
+BRCA1	-	c.5102_5103delTG		-	-			
+BRCA2	-	c.5465A>T	p.Asn1822Ile	Substitution	Missense	VUS	3	2012-11-07 6:51
+BRCA1	-	c.4255G>C	p.Glu1419Gln	Substitution	Missense	Predicted Benign	4	2012-11-06 11:44
+BRCA1	-	c.4127C>G	p.Thr1376Arg	Substitution	Missense	VUS	3	2012-11-06 11:08
+BRCA2	-	c.2350A>G	Met784Val	Substitution	Missense			
+BRCA1	-	c.807G>A	p.Leu269Leu	Substitution	Silent	Benign	5	2012-11-07 7:02
+BRCA1	-	c.2232T>C	p.Ala744ala	Substitution	Silent	Benign	5	2012-11-07 7:11
+BRCA1	-	c.2773A>C	p.Ile925Leu	Substitution	Missense	Predicted Benign	4	2012-11-06 12:55
+BRCA2	-	c.7857G>A	p.Trp2619X	Substitution	Nonsense	Pathogenic	1	2012-11-06 13:22
+BRCA2	-	c.1736T>G		-	-			
+BRCA2	-	c.7580insT		-	-			
+BRCA1	-	154C>T		-	-			
+BRCA1	-	c.1962delA		-	-			
+BRCA1	-	c.2836_2837delAT		-	-			
+BRCA1	-	c.3332delA		-	-			
+BRCA1	-	c.4358G>A		-	-			
+BRCA2	-	c.793+53delT		-	-			
+BRCA2	-	c.793+98G>A		-	-			
+BRCA2	-	c.1909+22delT		-	-			
+BRCA2	-	c.2750dupT		-	-			
+BRCA2	-	c.7762delA		-	-			
+BRCA2	-	c.7580dupT	p.Gly2528ArgfsX11	Duplication	Frameshift - Out of Frame	Pathogenic	1	2012-11-07 9:38
+BRCA2	-	c.2834_2835delAA	p.Lys945ArgfsX13	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-11-19 13:38
+BRCA2	-	c.755_758delACAG		-	-			
+BRCA2	-	c.951dupA		-	-			
+BRCA2	-	c.956dupA		-	-			
+BRCA1	-	c.5252G>A	p.Arg1751Gln	Substitution	Missense	VUS	3	2012-11-19 15:39
+BRCA2	-	c.8765G>A	p.Ser2922Asn	Substitution	Missense	VUS	3	2012-11-14 17:54
+BRCA2	-	c.3075_3076GA>TT	p.Lys1025_Lys1026delinsAsnX	Indel	Frameshift - Out of Frame	Pathogenic	1	2012-11-21 14:14
+BRCA1	-	c.5216A>G	p.Asp1739Gly	Substitution	Missense	VUS	3	2012-11-16 9:56
+BRCA1	-	c.2885A>G		-	-			
+BRCA2	-	c.2653_2656delGACA	p.Asp885MetfsX9	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-12-03 10:28
+BRCA2	-	c.2960A>T	p.Asn987Ile	Substitution	Missense	Predicted Benign	4	2012-12-05 16:51
+BRCA2	-	c.4670C>G	p.Thr1557Ser	Substitution	Missense	VUS	3	2012-12-06 16:31
+BRCA2	-	c.6796A>C		Substitution	Missense	VUS	3	2012-12-05 8:42
+BRCA2	-	c.8627A>C	p.His2876Pro	Substitution	Missense	VUS	3	2012-12-03 9:24
+BRCA2	-	c.6065C>G		-	-			
+BRCA1	-	c.3179A>C	p.Glu1060Ala	Substitution	Missense	Predicted Benign	4	2012-12-13 11:54
+BRCA1	-	c.3661G>T	p.Glu1221X	Substitution	Nonsense	Pathogenic	1	2012-12-13 11:22
+BRCA2	-	c.1310_1313delAAGA	p.Lys437IlefsX22	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-12-12 12:47
+BRCA2	-	c.4965C>G	p.Tyr1655X	Substitution	Nonsense	Pathogenic	1	2012-12-12 13:09
+BRCA2	-	c.-11C>T	r.?	Substitution	Intronic	Predicted Benign	4	2013-01-10 16:05
+BRCA2	-	c.4090A>C	p.Ile1364Leu	Substitution	Missense	Benign	5	2013-01-10 16:24
+BRCA1	-	c.3436_3439delTGTT	p.Cys1146LeufsX8	Deletion	Frameshift - Out of Frame	Pathogenic	1	2012-12-20 13:02
+BRCA1	-	c.1-?_80+?del	p.?	Large Genomic Deletion		Pathogenic	1	2012-07-10 17:00
+BRCA2	-	c.7007G>C	p.Arg2336Pro	Substitution	Missense	Pathogenic	1	2013-01-08 19:25
+BRCA2	-	c.2588dupA	p.Asn862LysfsX18	Duplication	Frameshift - Out of Frame	Pathogenic	1	2013-01-14 10:00
+BRCA1	-	c.-42T>G	r.?	Substitution	Intronic	VUS	3	2013-01-10 9:42
+BRCA1	-	c.4882A>G	p.Met1628Val	Substitution	Missense	Predicted Benign	4	2013-01-15 11:07
+BRCA2	-	c.8421G>A	p.Ser2807Ser	Substitution	Silent	Predicted Benign	4	2013-01-11 13:06
+BRCA2	-	c.6059_6062delAACA	p.Glu2020Valfsx19	Deletion	Frameshift - Out of Frame	Pathogenic	1	2013-01-24 10:46
+BRCA2	-	c.1459G>T	p.Ala487Ser	Substitution	Missense	Predicted Benign	4	2013-01-24 9:29
+BRCA2	-	c.8462T>C	p.Ile2821Thr	Substitution	Missense	VUS	3	2013-01-30 11:13
+BRCA2	-	c.5198C>T	 p.Ser1733Phe	Substitution	Missense	Benign	5	2013-02-01 8:15
+BRCA2	-	c.5278T>G	p.Ser1760Ala	Substitution	Missense	VUS	3	2013-02-01 7:30
+BRCA2	-	c.2944A>C	p.Ile982Leu	Substitution	Missense	VUS	3	2013-02-04 10:29
+BRCA1	-	c.211A>G		-	-			
+BRCA1	-	c.4318G>C	p.Glu1440Gln	Substitution	Missense	VUS	3	2013-02-04 12:09
+BRCA2	-	c.9352_9353delAT	p.Met3118ValfsX31	Deletion	Frameshift - Out of Frame	Pathogenic	1	2013-02-05 17:38
+BRCA2	-	c.631G>A	p.Val211Ile	Substitution	Missense	Pathogenic	1	2013-03-13 10:53
+BRCA2	-	c.7008-2A>T	r.spl?	Substitution	Intronic	Pathogenic	1	2013-03-14 8:59
+BRCA2	-	c.9949C>T	p.Leu3317Leu	Substitution	Silent	Predicted Benign	4	2013-02-22 16:44
+BRCA1	-	c.5194-2A>G	p.?	Substitution	Intronic	Pathogenic	1	2013-02-17 15:32
+BRCA2	-	c.8755-?_9256+?del	p.?	Large Genomic Deletion	Frameshift - Out of Frame	Pathogenic	1	2013-04-08 10:09
+BRCA2	-	c.9118-?_9256+?del	p.?	-	-			
+BRCA2	-	c.9403delC	p.Leu3135Phefsx28	Deletion	Frameshift - Out of Frame	Pathogenic	1	2013-02-22 16:41
+BRCA2	-	c.6083A>G	p.Glu2028Gly	Substitution	Missense	VUS	3	2013-02-21 17:17
+BRCA1	-	c.4183C>T	p.Gln1385X	Substitution	Nonsense	Pathogenic	1	2013-02-26 17:44
+BRCA2	-	c.6643delT		-	-			
+BRCA1	-	c.1863T>C	p.His621His	Substitution	Silent	Predicted Benign	4	2013-03-05 9:24
+BRCA2	-	c.5723_5724delTA		-	-			
+BRCA1	-	c.671-8A>G		-	-			
+BRCA1	-	c.811G>A	p.Val271Met	Substitution	Missense	Predicted Benign	4	2013-03-08 16:38
+BRCA1	-	c.2941ins16		-	-			
+BRCA1	-	c.4524G>A		-	-			
+BRCA2	-	c.700delT		-	-			
+BRCA2	-	c.9371A>T	p.Asn3124Ile	Substitution	Missense	VUS	3	2013-03-20 6:54
+BRCA2	-	c.5748T>G	p.His1916Gln	Substitution	Missense	Predicted Benign	4	2013-03-14 11:19
+BRCA1	-	c.-104_-100del		-	-			
+BRCA2	-	c.7777G>T	p.Gly2593X	Substitution	Nonsense	Pathogenic	1	2013-03-22 7:34
+BRCA2	-	c.7757G>A	Trp2586X	Substitution	Nonsense	Pathogenic	1	2013-04-05 15:36
+BRCA1	-	c.-9C>G		Substitution	Untranslated Region (Promoter)	VUS	3	2013-04-20 16:29
+BRCA1	-	c.984_988delTAATG		-	-			
+BRCA2	-	c.3318C>G	p.Ser1106Arg	Substitution	Missense	VUS	3	2013-04-16 14:05
+BRCA1	-	c.135-2A>G		Substitution	Intronic	Pathogenic	1	2013-04-05 15:54
+BRCA1	-	c.5090G>A	p.Cys1697Tyr	Substitution	Missense	VUS	3	2013-05-08 12:55
+BRCA1	-	c.3302G>A	p.Ser1101Asn	Substitution	Missense	Benign	5	2013-04-08 11:32
+BRCA2	-	c.9235delG	p.Val3079PhefsX4	Deletion	Frameshift - Out of Frame	Pathogenic	1	2013-06-05 11:16
+BRCA2	-	c.9253A>C	p.Thr3085Pro	Substitution	Missense	Predicted Benign	4	2013-06-05 11:18
+BRCA2	-	c.3873delA		-	-			
+BRCA1	-	c.4360G>A	p.Val1454Ile	Substitution	Missense	VUS	3	2013-04-23 10:49
+BRCA2	-	c.2751A>G	p.Val917Val	Substitution	Silent	Benign	5	2013-04-30 12:02
+BRCA1	-	c.5347A>C	p.Met1783Leu	Substitution	Missense	VUS	3	2013-04-30 11:23
+BRCA2	-	c.1332dupT		-	-			
+BRCA2	-	c.1333dupT	p.Ser445PhefsX7	Duplication	Frameshift - Out of Frame	Pathogenic	1	2013-04-19 14:25
+BRCA2	-	c.68-?_316+?del		Large Genomic Deletion	Frameshift - In-Frame	VUS	3	2013-04-18 12:25
+BRCA1	-	c.213+11C>T		-	-			
+BRCA2	-	c.9053G>A	p.Ser3018Asn	Substitution	Missense	VUS	3	2013-04-30 10:01
+BRCA2	-	c.4146_4148delAGA	p.Glu1382del	Deletion	Frameshift - In-Frame	VUS	3	2013-04-30 10:18
+BRCA2	-	c.198G>T	p.Gln66Gln	Substitution	Silent	Benign	5	2013-04-26 13:37
+BRCA1	-	c.5194-4T>C	r.(spl?)	Substitution	Intronic	Predicted Benign	4	2013-05-22 10:41
+BRCA1	-	c.2241delC	p.Asp749IlefsX4	Deletion	Frameshift - Out of Frame	Pathogenic	1	2013-05-08 12:39
+BRCA2	-	c.9076C>T	p.Gln3026X	Substitution	Nonsense	Pathogenic	1	2013-05-13 12:57
+BRCA2	-	c.5985C>T	p.Asn1995Asn	Substitution	Silent	Predicted Benign	4	2013-05-16 15:40
+BRCA1	-	c.2458A>G		-	-			
+BRCA1	-	c.5333-8C>T	r.spl(?)	Substitution	Intronic	VUS	3	2013-05-13 9:13
+BRCA2	-	c.10230C>A	p.Asp3410Glu	Substitution	Missense	VUS	3	2013-06-04 9:37
+BRCA2	-	c.2330A>G	p.Asp777Gly	Substitution	Missense	Predicted Benign	4	2013-06-05 12:21
+BRCA1	-	c.5106delA	p.Lys1702AsnfsX4	Deletion	Frameshift - Out of Frame	Pathogenic	1	2013-05-13 14:55
+BRCA1	-	c.5324T>G	p.Met1775Arg	Substitution	Missense	Pathogenic	1	2013-05-29 9:56
+BRCA2	-	c.426-2A>G	r.spl(?)	Substitution	Intronic	Pathogenic	1	2013-05-13 15:02
+BRCA2	-	c.4692dupC		-	-			
+BRCA2	-	c.4691dupC	p.Thr1566AspfsX9	Duplication	Frameshift - Out of Frame	Pathogenic	1	2013-05-13 13:21
+BRCA1	-	c.425C>A	p.Pro142His	Substitution	Missense	Predicted Benign	4	2013-06-05 12:25
+BRCA1	-	c.4636G>A		-	-			
+BRCA2	-	c.1564G>C	p.Gly522Arg	Substitution	Missense	VUS	3	2013-06-05 11:41
+BRCA2	-	c.6814delA		-	-			
+BRCA1	-	c.-20+11C>T	r.spl(?)	Substitution	Intronic	Predicted Benign	4	2013-06-05 10:09
+BRCA1	-	c.4485-2A>T	r.spl(?)	Substitution	Intronic	Pathogenic	1	2013-06-05 10:38
+BRCA2	-	c.5622_5625del		-	-			
+BRCA2	-	c.5621_5624del	p.Ile1874ArgfsX34	Deletion	Frameshift - Out of Frame	Pathogenic	1	2013-06-05 10:54
+BRCA1	-	c.1510C>T	p.Arg504Cys	Substitution	Missense			
+BRCA1	-	c.1-?_4986+?del		-	-			
+BRCA1	-	c.4327C>T	p.Arg1443X	Substitution	Nonsense	Pathogenic	1	2013-06-21 15:36
+BRCA1	-	c.5236C>T	p.His1746Tyr	Substitution	Missense	VUS	3	2013-07-05 10:31
+BRCA1	-	c.-192C>T		-	-			
+BRCA1	-	c.-192T>C	r.?	Substitution	Intronic	Benign	5	2013-06-24 13:47
+BRCA1	-	c.1-?_80+?dup		-	-			
+BRCA1	-	c.5194-?_5277+?del		-	-			
+BRCA1	-	c.5277+1G>A	r.?	Substitution	Intronic	Pathogenic	1	2013-06-12 9:48
+BRCA2	-	c.2949A>G		-	-			
+BRCA1	-	c.2634T>G		-	-			
+BRCA1	-	c.8332-?_8487+?del		-	-			
+BRCA1	-	c.2295G>A	p.Glu765Glu	Substitution	Silent	Predicted Benign	4	2013-06-24 13:04
+BRCA1	-	c.5578dupC	p.His1860ProfsX20	-	-			
+BRCA1	-	c.1396C>G	p.Arg466Gly	-	-			
+BRCA1	-	c.2074C>T	p.His692Tyr	-	-	VUS	3	
+BRCA1	-	c.4347A>G	p.=	-	-	VUS	3	
+BRCA2	-	c.8092G>A	p.Ala2698Thr	-	-	VUS	3	
+BRCA2	-	c.8755-14T>C	p.?	-	-	VUS	3	
+BRCA2	-	c.2957dupA	p.Asn986LysfsX2	Duplication	Frameshift - Out of Frame	Pathogenic	1	2013-06-20 16:25
+BRCA1	-	c.535T>C	p.Tyr179His	-	-	VUS	3	
+BRCA2	-	c.9104A>G	p.Tyr3035Cys	Substitution	Missense	VUS	3	2013-06-26 15:32
+BRCA1	-	c.2934T>G	p.Tyr978X	Substitution	Nonsense	Pathogenic	1	2013-06-24 10:19
+BRCA2	-	c.5618_5621delTAAT		-	-			
+BRCA1	-	c.5075-?_5193+?del		-	-			
+BRCA1	-	c.3607C>T	p.Arg1203X	Substitution	Nonsense	Pathogenic	1	2013-06-25 16:16
+BRCA2	-	c.9613G>C		-	-			
+BRCA2	-	c.9614C>T		-	-			
+BRCA1	-	c.4485-?_4675+?del	p.?	-	-	pathogenic	1	
+BRCA1	-	c.4399C>T		-	-			
+BRCA2	-	c.793+6T>C	r.(spl?)	Substitution	Intronic	VUS	3	2013-07-04 14:10
+BRCA2	-	c.5471dupA		-	-			
+BRCA2	-	c.10222A>T		-	-			
+BRCA1	-	c.-19-3A>G		-	-			
+BRCA1	-	c.2286A>T		-	-			
+BRCA1	-	"c.671-8A>G,"		-	-			
+BRCA1	-	c.1709C>A		-	-			
+BRCA2	-	c.9103dupT		-	-			
+BRCA2	-	c.574delAT	p.Met192Val	Deletion		Pathogenic	1	
+BRCA1	-	c.1010delA	p.Lys339ArgfsX2	Deletion				
+BRCA1	-	c.5243G>A	p.Gly1748Asp	-	-	VUS	3	
+BRCA2	-	c.1040A>G	p.Gln347Arg	-	-	VUS	3	
+BRCA2	-	c.7069_7070delCT	p.Leu2357Valfs	-	-			
+BRCA2	-	c.7878G>A	p.Trp2626X	-	-	Pathogenic	1	
+BRCA2	-	c.8954-5_8954-2delAACA		-	-	VUS	3	
+BRCA2	-	c.7102T>G	p.L2368V	-	-	VUS	3	
+BRCA2	-	c.2882G>A	p.Q961Q	Substitution		VUS	3	
+BRCA1	-	c.2766delA	p.Thr922fsX78	Deletion		Pathogenic	1	
+BRCA2	-	c.6530T>A	I2177N	-	-	VUS	3	
+BRCA2	-	c.6481+23C>T		-	-	VUS	3	
+BRCA1	-	c.4987-33C>T		-	-	VUS	3	
+BRCA2	-	c.9038C>T	TEST	-	-	VUS	3	

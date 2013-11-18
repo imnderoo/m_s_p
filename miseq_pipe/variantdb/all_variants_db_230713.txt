@@ -1,0 +1,1676 @@
+ID	Gene	Zygosity	DNA	AA	Region	Category	Dis	Reports	Molecular Pathology Variant database_Family	DNA Type	Amino Acid Type	Aliases	Source	Reference	Interpretation	Reference PubMed	ACMG	minor allele frequency	minor allele	SNP_ID	SNP Frequency	Ret seq	LatestCategory	LatestCategoryDate	PassReport	Family
+1	BRCA1		c.21C>T	p.Arg7Arg	EXON02	VUS	BREAST	0		Substitution	Silent	140C>T	BIC				3			rs149402012	0.004+/-0.044	NM_007294.3	Benign	2012/05/03 1:54:09 PM	0	0
+2	BRCA1		c.75C>T	p.=	EXON02	Benign		0		Substitution	Silent	194C>T	BIC				5					NM_007294.3			6	6
+3	BRCA1		c.114G>A	p.Lys38Lys	EXON03	Benign		0		Substitution	Silent	233G>A	BIC				5			rs1800062		NM_007294.3	Benign	2012/02/27 1:59:46 PM	10	10
+4	BRCA1		c.591C>T	p.=	EXON09	Benign	BREAST	0		Substitution	Silent	710C>T	BIC				5			rs1799965		NM_007294.3	Benign	2012/07/17 8:55:42 AM	5	5
+5	BRCA1		c.1067A>G	p.Gln356Arg	EXON11	Benign		0		Substitution	Missense	1186A>G	BIC				5					NM_007294.3	Benign	2012/06/14 12:42:05 PM	0	0
+6	BRCA1		c.2077G>A	p.=	EXON11	Benign		0		Substitution	Silent	2196G>A	BIC				5					NM_007294.3	Benign	2012/06/14 12:42:38 PM	0	0
+7	BRCA1		c.2082C>T	p.=	EXON11	Benign		0		Substitution	Silent	2201C>T	BIC				5					NM_007294.3	Benign	2012/06/14 12:43:10 PM	1	1
+8	BRCA1		c.2311T>C	p.=	EXON11	Benign		0		Substitution	Silent	2430T>C	BIC				5					NM_007294.3	Benign	2012/06/14 12:51:02 PM	2	1
+9	BRCA1		c.2612C>T	p.Pro871Leu	EXON11	Benign		0		Substitution	Missense	2731C>T	BIC				5					NM_007294.3	Benign	2012/06/14 12:51:43 PM	1	0
+10	BRCA1		c.3113A>G	p.Glu1038Gly	EXON11	Benign		0		Substitution	Missense	3232A>G	BIC				5					NM_007294.3	Benign	2012/06/14 12:52:12 PM	0	0
+11	BRCA1		c.3119G>A	p.Ser1040Asn	EXON11	Benign		0		Substitution	Missense	3238G>A	BIC				5					NM_007294.3	Benign	2012/06/14 12:52:35 PM	0	0
+12	BRCA1		c.3548A>G	p.Lys1183Arg	EXON11	Benign		0		Substitution	Missense	3667A>G	BIC				5					NM_007294.3	Benign	2012/06/14 12:53:32 PM	0	0
+13	BRCA1		c.1418A>G	p.Asn473Ser	EXON11	VUS		0		Substitution	Missense	1537A>G	BIC				3					NM_007294.3			0	0
+14	BRCA1		c.1911T>C	p.Thr637Thr	EXON11	VUS		0		Substitution	Silent	2030T>C	BIC				3					NM_007294.3	Benign	2012/03/30 6:44:05 PM	1	1
+15	BRCA1		c.2521C>T	p.Arg841Trp	EXON11	VUS		0		Substitution	Missense	2640C>T	BIC				3					NM_007294.3	Benign	2012/08/07 12:25:57 PM	11	11
+16	BRCA1		c.3739G>A	p.Val1247Ile	EXON11	VUS		0		Substitution	Missense	3858G>A	BIC				3					NM_007294.3			0	0
+17	BRCA1		c.4039A>G	p.Arg1347Gly	EXON11	Benign		0		Substitution	Missense	4158A>G	BIC				5			(rs28897689		NM_007294.3	Benign	2012/02/13 1:07:38 PM	12	12
+18	BRCA1		c.2428A>T	p.Asn810Tyr	EXON11	VUS		0		Substitution	Missense	2547A>T	BIC				3					NM_007294.3			0	0
+19	BRCA1		c.2712A>G	p.=	EXON11	VUS		0		Substitution	Silent	2831A>G	BIC				3					NM_007294.3			0	0
+20	BRCA1		c.4308T>C	p.=	EXON13	Benign		0		Substitution	Silent	4427T>C	BIC				5					NM_007294.3	Benign	2012/06/14 12:53:53 PM	0	0
+21	BRCA1		c.4385A>G	p.Glu1462Gly	EXON14	VUS		0		Substitution	Missense	4504A>G	BIC				3					NM_007294.3			0	0
+22	BRCA1		c.4535G>T	p.Ser1512Ile	EXON15	Benign		0		Substitution	Missense	4654G>T	BIC				5					NM_007294.3	Benign	2012/11/07 6:43:40 AM	8	8
+23	BRCA1		c.4837A>G	p.Ser1613Gly	EXON16	Benign		0		Substitution	Missense	4956A>G	BIC				5					NM_007294.3	Benign	2012/06/14 12:54:13 PM	2	2
+24	BRCA1		c.4956G>A	p.Met1652Ile	EXON16	Benign		0		Substitution	Missense	5075G>A	BIC				5					NM_007294.3	Benign	2012/06/14 12:54:33 PM	1	1
+25	BRCA1		c.5576C>G	p.Pro1859Arg	EXON24	VUS		0		Substitution	Missense	5695C>G	BIC				3					NM_007294.3			0	0
+26	BRCA1		c.390C>A	p.Try130X	EXON07	Pathogenic		0		Substitution	Nonsense	509C>A	BIC				1					NM_007294.3			0	0
+27	BRCA1		c.81-14C>T	p.?	EXON03	VUS		0		Substitution	Silent	IVS2-14C>T	BIC				3			rs80358006	0.0009	NM_007294.3	Benign	2013/05/17 4:39:06 PM	9	9
+28	BRCA1		c.5407-21C>G	p.?	EXON23	Predicted Benign		0		Substitution	Silent	IVS22-21C>G	BIC				4					NM_007294.3			0	0
+29	BRCA1		c.548-58delT	p.(=)	EXON09	Benign		0		Deletion	Silent	IVS8-58delT	BIC				5					NM_007294.3			1	1
+30	BRCA1		c.1487G>A	p.Arg496His	EXON11	Predicted Benign		0		Substitution	Missense	1606G>A	BIC				4					NM_007294.3			0	0
+31	BRCA1		c.5411T>A	p.Val1804Asp	EXON23	VUS		0		Substitution	Missense	5530T>A	BIC				3					NM_007294.3			2	2
+32	BRCA1		c.2668G>A	p.Gly890Arg	EXON11	Predicted Benign		0		Substitution	Missense	2787G>A	BIC				4					NM_007294.3			0	0
+33	BRCA1		c.3600G>T	p.Gln1200His	EXON11	Benign		0		Substitution	Missense	3719G>T	BIC				5					NM_007294.3			0	0
+35	BRCA1		c.3708T>G	p.Asn1236Lys	EXON11	VUS		0		Substitution	Missense	3827T>G	BIC				3					NM_007294.3	VUS	2012/11/14 12:44:19 PM	2	2
+36	BRCA2		c.125A>G	p.Tyr42Cys	EXON03	VUS		0		Substitution	Missense	353A>G	BIC				3			rs4987046	0.005+/-0.049	NM_00059.3	Benign	2012/08/30 8:05:17 AM	5	5
+37	BRCA2		c.620C>T	p.Thr207Ile	EXON07	VUS		0		Substitution	Missense	848C>T	BIC				3					NM_00059.3			0	0
+38	BRCA2		c.691A>G	p.Ser231Gly	EXON09	VUS		0		Substitution	Missense	919A>G	BIC				3					NM_00059.3			0	0
+39	BRCA2		c.1114A>C	p.His372Asn	EXON10	Benign		0		Substitution	Missense	1342A>C	BIC				5					NM_00059.3	Benign	2012/06/14 12:55:56 PM	0	0
+40	BRCA2		c.1365A>G	p.=	EXON10	Benign		0		Substitution	Silent	1593A>G	BIC				5					NM_00059.3	Benign	2012/06/14 12:56:24 PM	0	0
+41	BRCA2		c.1275A>G	p.=	EXON10	VUS		0		Substitution	Silent	1503A>G	BIC				3					NM_00059.3			0	0
+42	BRCA2		c.1340C>T	p.Pro447Leu	EXON10	VUS		0		Substitution	Missense	1568C>T	BIC				3					NM_00059.3			0	0
+43	BRCA2		c.1514T>C	p.Ile505Thr	EXON10	Benign		0		Substitution	Missense	1742T>C	BIC				5			rs28897708	0.004+/-0.042	NM_00059.3	Benign	2012/06/12 3:28:32 PM	4	4
+44	BRCA2		c.1593A>G	p.=	EXON10	VUS		0		Substitution	Silent	1821A>G	BIC				3					NM_00059.3			0	0
+45	BRCA2		c.1786G>C	p.Asp596His	EXON10	Benign		0		Substitution	Missense	2014G>C	BIC				5					NM_00059.3			3	3
+46	BRCA2		c.2229T>C	p.=	EXON11	Benign		0		Substitution	Silent	2457T>C	BIC				5					NM_00059.3	Benign	2012/06/14 12:56:44 PM	0	0
+47	BRCA2		c.2971A>G	p.Asn991Asp	EXON11	Benign		0		Substitution	Missense	3199A>G	BIC				5					NM_00059.3	Benign	2012/06/14 12:57:05 PM	0	0
+48	BRCA2		c.3396A>G	p.=	EXON11	Benign		0		Substitution	Silent	3624A>G	BIC				5					NM_00059.3	Benign	2012/06/14 12:57:22 PM	0	0
+49	BRCA2		c.3807T>C	p.=	EXON11	Benign		0		Substitution	Silent	4035T>C	BIC				5					NM_00059.3	Benign	2012/06/14 12:57:47 PM	0	0
+50	BRCA2		c.3516G>A	p.=	EXON11	VUS		0		Substitution	Silent	3744G>A	BIC				3			rs1799952	0.007+/-0.058	NM_00059.3	Benign	2012/03/30 1:38:08 PM	6	6
+51	BRCA2		c.3661T>C	p.Ser1221Pro	EXON11	VUS		0		Substitution	Missense	3889T>C	BIC				3					NM_00059.3			0	0
+52	BRCA2		c.4258G>T	p.Asp1420Tyr	EXON11	Benign	BREAST	0		Substitution	Missense	4486G>T	BIC				5			rs28897727	0.008+/-0.062	NM_00059.3	Benign	2012/03/30 1:16:30 PM	13	13
+53	BRCA2		c.4734A>G	p.=	EXON11	VUS		0		Substitution	Silent	4962A>G	BIC				3					NM_00059.3			0	0
+54	BRCA2		c.5199C>T	p.=	EXON11	Benign		0		Substitution	Silent	5427C>T	BIC				5			rs28897734	0.006+/-0.056	NM_00059.3	Benign	2012/05/04 4:00:06 PM	8	8
+55	BRCA2		c.5268A>G	p.=	EXON11	VUS		0		Substitution	Silent	5496A>G	BIC				3					NM_00059.3			0	0
+56	BRCA2		c.5744C>T	p.Thr1915Met	EXON11	 Benign		0		Substitution	Missense	5972C>T	BIC				5			rs4987117		NM_00059.3	Benign	2012/03/01 8:20:54 PM	62	62
+57	BRCA2		c.5885T>C	p.Ile1962Thr	EXON11	Predicted Benign		0		Substitution	Missense	6113T>C	BIC				4					NM_00059.3			0	0
+58	BRCA2		c.6100C>T	p.Arg2034Cys	EXON11	Benign		0		Substitution	Missense	6328C>T	BIC				5			rs1799954	0.001	NM_00059.3	Benign	2012/06/27 10:50:41 AM	10	10
+59	BRCA2		c.5312G>A	p.Gly1771Asp	EXON11	Benign		0		Substitution	Missense	5540G>A	BIC				5					NM_00059.3			3	3
+60	BRCA2		c.6231G>C	p.Lys2077Asn	EXON11	VUS		0		Substitution	Missense	6459G>C	BIC				3					NM_00059.3			1	1
+61	BRCA2		c.5455C>T	p.Pro1819Ser	EXON11	VUS		0		Substitution	Missense	5683C>T	BIC				3					NM_00059.3			0	0
+62	BRCA2		c.6618A>G	p.=	EXON11	VUS		0		Substitution	Silent	6846A>G	BIC				3					NM_00059.3			0	0
+63	BRCA2		c.7242A>G	p.=	EXON14	Benign		0		Substitution	Silent	7470A>G	BIC				5					NM_00059.3	Benign	2012/06/14 12:58:07 PM	0	0
+64	BRCA2		c.7057G>C	p.Gly2353Arg	EXON14	VUS		0		Substitution	Missense	7285G>C	BIC				3			rs80358935		NM_00059.3	VUS	2012/08/07 1:02:42 PM	10	10
+65	BRCA2		c.7480C>T	p.Arg2494X	EXON15	Pathogenic		0		Substitution	Nonsense	7708C>T	BIC				1					NM_00059.3			0	0
+66	BRCA2		c.7484T>C	p.Ile2495Thr	EXON15	VUS		0		Substitution	Missense	7712T>C	BIC				3					NM_00059.3			0	0
+67	BRCA2		c.7469T>C	p.Ile2490Thr	EXON15	VUS		0		Substitution	Missense	7697T>C	BIC				3			rs11571707		NM_00059.3	Benign	2012/07/30 7:56:24 AM	3	3
+68	BRCA2		c.7868A>G	p.His2623Arg	EXON17	VUS		0		Substitution	Missense	8096A>G	BIC				3					NM_00059.3			0	0
+69	BRCA2		c.7879A>T	p.Ile2627Phe	EXON17	Pathogenic		0		Substitution	Missense	8107A>T	BIC				1					NM_00059.3			0	0
+70	BRCA2		c.8182G>A	p.Val2728Ile	EXON18	Predicted Benign	BREAST	0		Substitution	Missense	8410G>A	BIC				4			rs28897749	0.008+/-0.063	NM_00059.3	Benign	2013/01/09 7:47:11 AM	6	6
+71	BRCA2		c.8687G>A	p.Arg2896His	EXON21	Predicted Benign	BREAST	0		Substitution	Missense	8915G>A	BIC				4			rs8035912		NM_00059.3	Predicted Benign	2012/04/05 5:06:51 PM	1	1
+72	BRCA2		c.8851G>A	p.Ala2951Thr	EXON22	Benign	BREAST	0		Substitution	Missense	9079G>A	BIC				5			rs11571769		NM_00059.3	Benign	2012/05/06 10:49:41 AM	9	9
+73	BRCA2		c.10362A>C	p.(=)	EXON27	Benign		0		Substitution	Silent	10590A>C	BIC				5					NM_00059.3	Benign	2012/06/14 12:58:53 PM	0	0
+74	BRCA2		c.10626A>G	p.(=)	EXON27	Benign		0		Substitution	Silent	10854A>G	BIC				5					NM_00059.3			0	0
+75	BRCA2		c.9976A>T	p.Lys3326X	EXON27	Benign	"BREAST, ESOPHOGEAL, PANCREATIC"	0		Substitution	Nonsense	10204A>T	BIC				5			rs11571833		NM_00059.3	Predicted Benign	2012/02/17 3:50:33 PM	52	51
+76	BRCA2		c.10110G>A	p.Arg3370Arg	EXON27	Predicted Benign		0		Substitution	Silent	10338G>A	BIC				4			rs28897762		NM_00059.3	Benign	2013/03/05 8:42:04 AM	4	4
+77	BRCA2		c.10234A>G	p.Ile3412Val	EXON27	 Benign	BREAST	0		Substitution	Missense	10462A>G	BIC				5			rs1801426	0.043	NM_00059.3	Benign	2012/02/23 5:26:58 PM	16	16
+78	BRCA1		c.1360_1361del	p.Ser454X	EXON11	Pathogenic		0		Deletion	Nonsense	1479delAG	BIC				1					NM_007294.3			1	1
+79	BRCA2		c.7806-14T>C	p.(=)	EXON17	Benign		0		Substitution	Silent	IVS16-14T>C	BIC				5					NM_00059.3	Benign	2012/06/14 12:58:29 PM	2	2
+80	BRCA2		c.68-17delA	p.?	EXON03	VUS		0		Deletion	Silent	IVS2-17delA	BIC				3					NM_00059.3			0	0
+81	BRCA2		c.8633-26A>G	p.?	EXON21	VUS		0		Substitution	Silent	IVS20-26A>G	BIC				3					NM_00059.3			0	0
+82	BRCA2		c.8755-66T>C	p.(=)	EXON22	Benign		0		Substitution	Silent	IVS21-66T>C	BIC				5					NM_00059.3			2	2
+83	BRCA2		c.425+67A>C	p.(=)	EXON04	Benign		0		Substitution	Silent	IVS4+67A>C	BIC				5					NM_00059.3			8	8
+84	BRCA2		c.426-89T>C	p.(=)	EXON05	Benign		0		Substitution	Silent	IVS4-89T>C	BIC				5					NM_00059.3			7	7
+85	BRCA2		c.681+56C>T	p.(=)	EXON08	Benign		0		Substitution	Silent	IVS8+56C>T	BIC				5					NM_00059.3			3	3
+86	BRCA2		c.-26G>A	p.(=)	EXON02	Benign		0		Substitution	Intronic	IVS1-26G>A	BIC				5					NM_00059.3	Benign	2013/01/15 11:29:47 AM	1	1
+87	BRCA2		c.5449T>C	p.Ser1817Pro	EXON11	VUS		0		Substitution	Missense	5677T>C	BIC				3					NM_00059.3			0	0
+88	BRCA2		c.5261A>G	p.Asp1754Gly	EXON11	VUS		0		Substitution	Missense	5489A>G	BIC				3					NM_00059.3			0	0
+89	BRCA2		c.5663A>G	p.Lys1888Arg	EXON11	Predicted Benign		0		Substitution	Missense	5891A>G	BIC				4					NM_00059.3			0	0
+90	BRCA2		c.6323G>A	p.Arg2108His	EXON11	Predicted Benign		0		Substitution	Missense	6551G>A	BIC				4			rs35029074		NM_00059.3			2	2
+91	BRCA2		c.6513C>G	p.Val2171Val	EXON11	Predicted Benign	BREAST	0		Substitution	Silent	6741G>C	BIC				4			 rs206076	0.061+/-0.164	NM_00059.3	Benign	2012/04/05 12:11:05 PM	8	8
+92	BRCA2		c.7397C>T	p.Ala2466Val	EXON14	Predicted Benign	BREAST	0		Substitution	Missense	7625C>T	BIC				4			rs80359128)	 0.022	NM_00059.3	Benign	2012/04/05 12:15:55 PM	6	6
+93	BRCA2		c.241T>G	p.Phe81Gly	EXON03	VUS		0		Substitution	Missense	469T>G	BIC				3					NM_00059.3			0	0
+94	BRCA2		c.517-2A>G	p.?	EXON07	Pathogenic		0		Substitution	Silent	IVS6-2A>G	BIC				1					NM_00059.3			0	0
+95	BRCA2		c.5785A>G	p.Ile1929Val	EXON11	Benign		0		Substitution	Missense	6013A>G	BIC				5			 rs79538375		NM_00059.3	Benign	2012/09/25 3:21:04 PM	3	3
+96	BRCA2		c.6322C>T	p.Arg2108Cys	EXON11	VUS		0		Substitution	Missense	6550C>T	BIC				3			rs55794205		NM_00059.3	Benign	2013/05/07 12:58:59 PM	3	3
+97	BRCA2		c.6347A>G	p.His2116Arg	EXON11	Benign		0		Substitution	Missense	6575A>G	BIC				5					NM_00059.3	Predicted Benign	2012/10/09 3:28:13 PM	5	5
+98	BRCA2		c.7504C>T	p.Arg2502Cys	EXON15	VUS		0		Substitution	Missense	7732C>T	BIC				3					NM_00059.3			0	0
+99	BRCA2		c.6412G>T	p.Val2138Phe	EXON11	Predicted Benign		0		Substitution	Missense	6640G>T	BIC				4			 rs11571659	0.001	NM_00059.3	Benign	2012/06/25 3:00:38 PM	1	1
+100	BRCA2		c.4068G>A	p.=	EXON11	VUS	BREAST	0		Substitution	Silent	4296G>A	BIC				3			rs28897724	0.001	NM_00059.3	Benign	2012/02/22 2:58:51 PM	8	8
+101	BRCA2		c.8850G>T	p.Lys2950Asn	EXON22	VUS		0		Substitution	Missense	9078G>T	BIC				3			rs28897754	0.005+/-0.050	NM_00059.3	Benign	2012/05/09 1:17:51 PM	0	0
+102	BRCA2		c.5752C>T	p.His1918Tyr	EXON11	VUS		0		Substitution	Missense	5980C>T	BIC				3					NM_00059.3			1	1
+103	BRCA2		c.7052C>G	p.Ala2351Gly	EXON14	Predicted Benign	BREAST	0		Substitution	Missense	7280C>G	BIC				4			rs80358932		NM_00059.3	Benign	2012/04/30 12:43:02 PM	1	1
+104	BRCA2		c.6886A>C	p.Ile2296Leu	EXON12	Predicted Benign		0		Substitution	Missense	7114A>C	BIC				4					NM_00059.3			0	0
+105	BRCA2		c.5986G>T	p.Ala1996Ser	EXON11	VUS		0		Substitution	Missense	6214G>T	BIC				3					NM_00059.3			0	0
+107	BRCA2		c.6191A>G	p.Lys2064Arg	EXON11	Predicted Benign		0		Substitution	Missense	6419A>G	BIC				4					NM_00059.3			0	0
+108	BRCA2		c.6706G>A	p.Glu2236Lys	EXON11	Predicted Benign		0		Substitution	Missense	6934G>A	BIC				4					NM_00059.3			0	0
+109	BRCA2		c.6748A>G	p.Thr2250Ala	EXON11	Predicted Benign		0		Substitution	Missense	6976A>G	BIC				4					NM_00059.3			0	0
+110	BRCA2		c.7017G>C	p.Lys2339Asn	EXON14	VUS	BREAST	0		Substitution	Missense	7245G>C	BIC				3			45574331	0.006	NM_00059.3	Benign	2012/11/05 10:05:38 AM	1	1
+111	BRCA2		c.7319A>G	p.His2440Arg	EXON14	VUS	BREAST	0		Substitution	Missense	7547A>G	BIC				3			4986860	0.007	NM_00059.3	Benign	2012/11/05 10:06:38 AM	1	1
+112	BRCA2		c.5612G>A	p.Ser1871Asn	EXON11	Predicted Benign		0		Substitution	Missense	5840G>A	BIC				4					NM_00059.3			0	0
+113	BRCA2		c.7733G>A	p.Gly2578Glu	EXON16	VUS		0		Substitution	Missense	7961G>A	BIC				3					NM_00059.3			0	0
+114	BRCA2		c.5640T>G	p.Asn1880Lys	EXON11	Predicted Benign	OVARIAN	0		Substitution	Missense	5868T>G	BIC				4			rs11571657	0.002	NM_00059.3	Benign	2012/08/17 2:36:10 PM	1	1
+115	BRCA2		c.6935A>T	p.Asp2312Val	EXON12	VUS		0		Substitution	Missense	7163A>T	BIC				3					NM_00059.3			0	0
+116	BRCA2		c.4094G>A	p.Cys1365Tyr	EXON11	Predicted Benign		0		Substitution	Missense	4322G>A	BIC				4					NM_00059.3			0	0
+117	BRCA2		c.2786T>C	p.Leu929Ser	EXON11	Benign	BREAST	0		Substitution	Missense	3014T>C	BIC				5					NM_00059.3	Benign	2013/06/24 1:37:14 PM	3	3
+118	BRCA2		c.5418A>G	p.Glu1806Glu	EXON11	VUS	BREAST	0		Substitution	Silent	5646A>G	BIC				3			 rs34351119	0.006	NM_00059.3	Benign	2012/11/05 9:52:02 AM	1	1
+119	BRCA2		c.4828G>A	p.Val1610Met	EXON11	VUS		0		Substitution	Missense	5056G>A	BIC				3					NM_00059.3			1	1
+120	BRCA2		c.8149G>T	p.Ala2717Ser	EXON18	Benign	BREAST	0		Substitution	Missense	8377G>T	BIC				5			rs28897747	0.004+/-0.046	NM_00059.3	Benign	2012/06/15 5:00:28 PM	8	8
+121	BRCA2		c.8243G>A	p.Gly2748Asp	EXON18	VUS		0		Substitution	Missense	8471G>A	BIC				3					NM_00059.3	Predicted Pathogenic	2012/09/26 10:56:59 AM	1	1
+122	BRCA2		c.8905G>A	p.Val2969Met	EXON22	Predicted Benign	BREAST	0		Substitution	Missense	9133G>A	BIC				4					NM_00059.3	VUS	2013/04/24 3:05:47 PM	1	1
+123	BRCA2		c.9257-16T>C	p.(=)	EXON25	Benign		0		Substitution	Silent	IVS24-16T>C	BIC				5			 rs11571818		NM_00059.3			19	19
+124	BRCA2		c.1662T>G	p.Cys554Trp	EXON10	VUS		0		Substitution	Missense	1890T>G	BIC				3					NM_00059.3			1	1
+125	BRCA2		c.7177A>G	p.Met2393Val	EXON14	VUS		0		Substitution	Missense	7405A>G	BIC				3					NM_00059.3			0	0
+126	BRCA2		c.1749G>A	p.=	EXON10	Predicted Benign		0		Substitution	Silent	1977G>A	BIC				4					NM_00059.3			0	0
+127	BRCA2		c.1792A>G	p.Thr598Ala	EXON10	Benign	OVARIAN	0		Substitution	Missense	2020A>G	BIC				5					NM_00059.3	Benign	2012/06/06 10:39:41 AM	10	10
+128	BRCA2		c.5722_5723delCT	p.Leu1908ArgfsX2	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	5950delCT	BIC				1					NM_00059.3	Pathogenic	2013/03/01 4:09:54 PM	5	4
+129	BRCA2		c.5909C>A	p.Ser1970X	EXON11	Pathogenic		0		Substitution	Nonsense	6137C>A	BIC				1					NM_00059.3			0	0
+130	BRCA2		c.5857G>T	p.Glu1953X	EXON11	Pathogenic		0		Substitution	Nonsense	6085G>T	BIC				1					NM_00059.3			1	1
+131	BRCA2		c.631+25C>T	p.?	EXON07	Predicted Benign		0		Substitution	Silent	IVS7+25C>T	BIC				4					NM_00059.3			2	2
+132	BRCA2		c.7618-21G>T	p.?	EXON16	VUS		0		Substitution	Silent	IVS15-21G>T	BIC				3					NM_00059.3			1	1
+133	BRCA1		c.68_69del	p.Glu23ValfsX17	EXON02	Pathogenic	"BREAST, OVARIAN"	0		Deletion	Frameshift - Out of Frame	185delAG	BIC				1					NM_007294.3	Pathogenic	2012/09/06 4:34:27 PM	26	21
+134	BRCA2		c.1888_1889dupA	p.Thr630fs	EXON10	Pathogenic		0		Duplication	Frameshift - Out of Frame	2116_2117dupA	BIC				1					NM_00059.3			1	1
+135	BRCA1		c.181T>G	p.Cys61Gly	EXON05	Pathogenic	OVARIAN	0		Substitution	Missense	300T>G	BIC				1			rs28897672		NM_007294.3	Pathogenic	2012/06/15 2:35:06 PM	7	7
+136	BRCA2		c.9085G>A	p.Ala3029Thr	EXON23	Predicted Benign		0		Substitution	Missense	9313G>A	BIC				4					NM_00059.3			0	0
+137	BRCA2		c.5704G>A	p.Asp1902Asn	EXON11	Benign		0		Substitution	Missense	5932G>A	BIC				5					NM_00059.3			3	3
+138	BRCA2		c.1151C>T	p.Ser384Phe	EXON10	Benign		0		Substitution	Missense	1379C>T	BIC				5					NM_00059.3	Benign	2013/01/04 10:34:50 AM	4	4
+139	BRCA2		c.8467A>C	p.Glu2856Ala	EXON20	Benign		0		Substitution	Missense	8795A>C	BIC				5					NM_00059.3			0	0
+140	BRCA2		c.1788T>C	p.=	EXON10	Benign	BREAST	0		Substitution	Silent	2016T>C	BIC				5			rs11571642	 0.013+/-0.079	NM_00059.3	Benign	2012/03/06 10:27:23 AM	5	5
+141	BRCA2		c.7521A>G	p.=	EXON15	Predicted Benign		0		Substitution	Silent	7749A>G	BIC				4					NM_00059.3	Predicted Benign	2013/02/18 1:22:01 PM	2	2
+142	BRCA1		c.199G>T	p.Asp67Tyr	EXON05	VUS		0		Substitution	Missense	318G>T	BIC				3					NM_007294.3			2	2
+143	BRCA2		c.7976+45G>C	p.?	EXON17	Predicted Benign		0		Substitution	Silent	IVS17+45G>C	BIC				4					NM_00059.3			4	4
+144	BRCA2		c.8332-41A>G	p.?	EXON19	Predicted Benign		0		Substitution	Silent	IVS18-41A>G	BIC				4					NM_00059.3			1	1
+145	BRCA2		c.7976+35C>A	p.?	EXON17	Predicted Benign		0		Substitution	Silent	IVS17+35C>A	BIC				4					NM_00059.3			2	2
+146	BRCA2		c.7544C>T	p.Thr2515Ile	EXON15	Benign		0		Substitution	Missense	7772C>T	BIC				5					NM_00059.3	Benign	2013/03/06 12:58:16 PM	5	5
+147	BRCA2		c.7626G>A	p.=	EXON16	Predicted Benign		0		Substitution	Silent	7854G>A	BIC				4					NM_00059.3			0	0
+148	BRCA2		c.9117G>A	p.=	EXON23	Pathogenic		0		Substitution	Silent	9345G>A	BIC				1					NM_00059.3			1	1
+149	BRCA2		c.10154G>A	p.Arg3385His	EXON27	Predicted Benign		0		Substitution	Missense	10382G>A	BIC				4					NM_00059.3			1	1
+150	BRCA2		c.9646-65ACTT	p.?	EXON27	Predicted Benign		0		Deletion	Silent	IVS25-65delACTT	BIC				4					NM_00059.3			0	0
+151	BRCA2		c.2411_2412delAG	p.Gln804fsX5	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	2639delAG	BIC				1					NM_00059.3			0	0
+152	BRCA1		c.3328_3330del	p.Lys1110del	EXON11	Predicted Benign		0		Deletion	Frameshift - In-Frame	3447delAAG	BIC				4					NM_007294.3			0	0
+153	BRCA2		c.8702G>A	p.Gly2901Asp	EXON21	VUS		0		Substitution	Missense	8930G>A	BIC				3					NM_00059.3			0	0
+154	BRCA1		c.5266dupC	p.Gln1756ProfsX74	EXON20	Pathogenic	BREAST	0		Insertion	Frameshift - Out of Frame	5382insC	BIC				1					NM_007294.3	Pathogenic	2012/03/13 12:27:51 PM	32	22
+155	BRCA2		c.10095delCins11	p.Val3365ValfsX4	EXON27	Benign		0		Indel	Frameshift - Out of Frame	10323delCins11	BIC				5					NM_00059.3			0	0
+156	BRCA1		c.1016dup	p.Val340GlyfsX6	EXON11	Pathogenic		0		Duplication	Frameshift - Out of Frame	1135insA	BIC				1					NM_007294.3			0	0
+157	BRCA1		c.4676-8C>G	p.?	EXON16	VUS		0		Substitution	Silent	IVS15-8C>G	BIC				3					NM_007294.3			0	0
+158	BRCA2		c.-36C>G	p.?	EXON02	Predicted Benign		0		Substitution	Intronic	IVS1-36C>G	BIC				4					NM_00059.3			0	0
+159	BRCA2		c.8487+47C>T	p.?	EXON19	Predicted Benign		0		Substitution	Silent	IVS19+47C>T	BIC				4					NM_00059.3			3	3
+160	BRCA1		c.4065_4068del	p.Asn1355fsX10	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	4184delTCAA	BIC				1					NM_007294.3			12	11
+161	BRCA2		c.1964C>G	p.Pro655Arg	EXON11	VUS		0		Substitution	Missense	2192C>G	BIC				3					NM_00059.3	Benign	2013/01/28 4:53:37 PM	3	3
+162	BRCA1		c.4964_4982del	p.Ser1655TyrfsX16	EXON16	Pathogenic	BREAST	0		Deletion	Frameshift - Out of Frame	5083del19	BIC				1					NM_007294.3	Pathogenic	2012/05/07 11:48:24 AM	12	11
+163	BRCA2		c.3847_3848delGT	p.Val1283LysfsX2	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	4075delGT	BIC				1					NM_00059.3			8	7
+165	BRCA2		c.2593G>T	p.Glu865X	EXON11	Predicted Pathogenic		0		Substitution	Nonsense	2821G>T	BIC				2					NM_00059.3			0	0
+166	BRCA2		c.2808_2811delACAA	p.Ala938ProfsX21	EXON11	Pathogenic	BREAST	0		Deletion	Frameshift - Out of Frame	3036delACAA	BIC				1					NM_00059.3	Pathogenic	2012/05/06 11:39:49 AM	6	6
+167	BRCA1		c.4120_4121del	p.Ser1374X	EXON12	Pathogenic		0		Deletion	Nonsense	4239delAG	BIC				1					NM_007294.3			0	0
+168	BRCA1		c.4035del	"p.Glu1346
+
+p.Glu1346LysfsX20"	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	4154delA	BIC				1					NM_007294.3			0	0
+170	BRCA2		c.7618-6G>T	p.?	EXON16	VUS		0		Substitution		IVS15-6G>T	BIC				3					NM_00059.3	VUS	2013/03/15 2:34:18 PM	0	0
+171	BRCA1		c.632-44A>C	p.?	EXON08	VUS		0		Substitution	Silent	IVS7-44A>C	BIC				3					NM_007294.3			0	0
+172	BRCA2		c.4079A>T	p.Asp1360Val	EXON11	VUS		0		Substitution	Missense	4307A>T	BIC				3					NM_00059.3	VUS	2012/03/05 9:31:06 AM	2	2
+173	BRCA2		c.6373delACinsG	p.Thr2125fs	EXON11	Predicted Pathogenic		0		Indel	Frameshift - Out of Frame	6601delACinsG	BIC				2					NM_00059.3			1	1
+174	BRCA2		c.5350_5351delAA	p.Asn1784fs	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	5578delAA	BIC				1					NM_00059.3			1	1
+175	BRCA2		c.7522G>A	p.Gly2508Ser	EXON15	VUS		0		Substitution	Missense	7750G>A	BIC				3					NM_00059.3			1	1
+176	BRCA2		c.4563G>A	p.=	EXON11	Benign		0		Substitution	Silent	4791G>A	BIC				5					NM_00059.3	Benign	2012/11/07 7:14:32 AM	6	6
+177	BRCA2		c.1550A>G	p.Asn517Ser	EXON11	Predicted Benign		0		Substitution	Missense	1778A>G	BIC				4					NM_00059.3			0	0
+178	BRCA2		c.7617+1G>A	p.?	EXON15	Pathogenic		0		Substitution	Silent	IVS15+1G>A	BIC				1					NM_00059.3			1	1
+179	BRCA2		c.5170A>G	p.Ile1724Val	EXON11	Predicted Benign		0		Substitution	Missense	5398A>G	BIC				4					NM_00059.3			0	0
+180	BRCA1		c.81-17C>G	p.?	EXON03	VUS		0		Substitution	Silent	IVS2-17C>G	BIC				3					NM_007294.3			1	1
+181	BRCA2		c.6853A>G	p.Ile2285Val	EXON12	Predicted Benign		0		Substitution	Missense	7081A>G	BIC				4					NM_00059.3	Predicted Benign	2013/06/20 4:32:33 PM	2	2
+182	BRCA2		c.6842-73T>A	p.?	EXON12	VUS		0		Substitution	Silent	IVS11-73T>A	BIC				3					NM_00059.3			1	1
+183	BRCA2		c.7805+6C>G	p.?	EXON16	VUS		0		Substitution	Silent	IVS16+6C>G	BIC				3					NM_00059.3			1	1
+184	BRCA1		c.5123C>A	p.Ala1708Glu	EXON18	Pathogenic		0		Substitution	Missense	5242C>A	BIC				1					NM_007294.3	Pathogenic	2012/09/11 4:36:53 PM	10	10
+185	BRCA2		c.*105A>C	p.(=)	EXON27	Benign		0		Substitution	Silent	10590A>C	BIC				5					NM_00059.3	Benign	2012/06/14 12:59:12 PM	0	0
+186	BRCA2		c.1265delA	p.Asn422fs	EXON10	Pathogenic		0		Deletion	Frameshift - Out of Frame	1493delA	BIC				1					NM_00059.3			0	0
+187	BRCA1		c.1974G>C	p.Met658Ile	EXON11	Predicted Benign		0		Substitution	Missense	2093G>C	BIC				4			rs55678461		NM_007294.3	Benign	2012/08/16 9:01:10 AM	3	3
+188	BRCA2		c.5862_5863del TT	p.Thr1954fs	EXON11	Predicted Pathogenic		0		Deletion	Frameshift - Out of Frame	6090delTT	BIC				2					NM_00059.3			1	1
+189	BRCA1		c.3433G>T	p.Val1145Phe	EXON11	VUS		0		Substitution	Missense	3552G>T	BIC				3					NM_007294.3			1	1
+190	BRCA2		c.517-19C>T	p.?	EXON07	VUS		0		Substitution	Silent	IVS6-19C>T	BIC				3					NM_00059.3			2	2
+191	BRCA2		c.8632+132_8632+133insC	p.?	EXON20	VUS		0		Insertion	Silent	IVS20+132insC	BIC				3					NM_00059.3			1	1
+192	BRCA2		c.4757C>T	p.Thr1586Ile	EXON11	VUS		0		Substitution	Missense	4985C>T	BIC				3					NM_00059.3			1	1
+194	BRCA1		c.5333A>G	p.Asp1778Gly	EXON22	VUS		0		Substitution	Missense	5452A>G	BIC				3					NM_007294.3			1	1
+195	BRCA2		c.5238_5239insT	p.Asn1747X	EXON11	Pathogenic		0		Insertion	Nonsense	5466insT	BIC				1					NM_00059.3			1	1
+196	BRCA1		c.536A>G	p.Tyr179Cys	EXON08	VUS	BREAST	0		Substitution	Missense	655A>G	BIC				3			rs56187033	0.002	NM_007294.3	Benign	2013/05/22 11:05:59 AM	2	2
+197	BRCA1		c.4883T>C	p.Met1628Thr	EXON16	VUS	BREAST	0		Substitution	Missense	5002T>C	BIC				3					NM_007294.3	Benign	2012/12/20 9:40:42 AM	2	2
+199	BRCA2		c.1744A>C	p.Thr582Pro	EXON10	VUS	BREAST	0		Substitution	Missense	1972A>C	BIC				3			 rs80358457	0.001	NM_00059.3	Predicted Benign	2012/08/02 7:18:39 AM	2	2
+201	BRCA2		c.9256+54T>A	p.?	EXON24	VUS		0		Substitution	Silent	IVS24+54T>A	BIC				3					NM_00059.3			1	1
+202	BRCA1		c.3433G>T	p.Val1145Phe	EXON11	VUS		0		Substitution	Missense	3552G>T	BIC				3					NM_007294.3			1	1
+203	BRCA1		c.3418A>G	p.Ser1140Gly	EXON11	Predicted Benign		0		Substitution	Missense	3537A>G	BIC				4			2227945	0.011	NM_007294.3	Benign	2013/06/06 3:07:49 PM	3	3
+204	BRCA1		c.571G>A	p.Val191Ile	EXON09	Predicted Benign		0		Substitution	Missense	690G>A	BIC				4					NM_007294.3			1	1
+205	BRCA1		c.4484G>T	p.Arg1495Met	EXON14	Pathogenic		0		Substitution	Missense	4603G>T	BIC				1			rs80357389		NM_007294.3			10	8
+206	BRCA2		c.2883G>A	p.=	EXON11	VUS		0		Substitution	Silent	3111G>A	BIC				3			rs11571655	0.002+/-0.029	NM_00059.3	Benign	2012/05/02 11:21:14 AM	5	5
+207	BRCA1		c.4987-20A>G	p.?	EXON16	VUS		0		Substitution	Silent	IVS15-20A>G	BIC				3					NM_007294.3			1	1
+208	BRCA2		c.6937+34C>T	p.?	EXON12	Predicted Benign		0		Substitution	Silent	IVS12+34C>T	BIC				4					NM_00059.3			1	1
+209	BRCA2		c.9649-19G>A	p.(=)	EXON27	Benign		0		Substitution	Silent	IVS26-19G>A	BIC				5					NM_00059.3			3	3
+210	BRCA2		c.516+18T>C	p.(=)	EXON06	Benign		0		Substitution	Silent	IVS6+18T>C	BIC				5					NM_00059.3			2	2
+211	BRCA1		c.442-34C>T	p.(=)	EXON08	Benign		0		Substitution	Silent	IVS7-34C>T	BIC				5					NM_007294.3			2	2
+212	BRCA2		c.7988A>T	p.Glu2663Val	EXON18	Pathogenic	OVARIAN	0		Substitution	Missense	8216A>T	BIC				1					NM_00059.3	Pathogenic	2013/05/16 8:37:54 AM	2	2
+213	BRCA1		c.3817C>T	p.Gln1273X	EXON11	Pathogenic		0		Substitution	Nonsense	3936C>T	BIC				1					NM_007294.3			1	1
+214	BRCA1		c.5335delC	p.Gln1779AsnfsX14	EXON22	Pathogenic	BREAST	0		Deletion	Frameshift - Out of Frame	5454delC	BIC				1					NM_007294.3	Pathogenic	2012/10/01 12:21:20 PM	8	8
+215	BRCA1		c.692C>T	p.Thr231Met	EXON11	VUS		0		Substitution	Missense	811C>T	BIC				3					NM_007294.3			1	1
+216	BRCA1		c.736T>G	p.Leu246Val	EXON11	Predicted Benign	BREAST	0		Substitution	Missense	855T>G	BIC				4			rs28897675	0.000+/-0.015	NM_007294.3	Benign	2012/04/25 5:52:31 PM	1	1
+217	BRCA1		c.4484+14A>G	p.?	EXON14	Predicted Benign	BREAST	0		Substitution	Silent	IVS14+14A>G	BIC				4			 rs80358022	 0.033+/-0.124	NM_007294.3	Benign	2012/06/05 4:48:57 PM	3	3
+218	BRCA1		c.5406+33A>T	p.?	EXON22	VUS		0		Substitution	Silent	IVS22+33A>T	BIC				3					NM_007294.3			3	3
+219	BRCA1		c.3713C>T	p.Pro1238Leu	EXON11	Predicted Benign		0		Substitution	Missense	3832C>T	BIC				4					NM_007294.3			1	1
+220	BRCA2		c.9256+28T>A	p.?	EXON24	VUS		0		Substitution	Silent	IVS24+28T>A	BIC				3					NM_00059.3			1	1
+221	BRCA1		c.1471C>T	p.Gln491X	EXON11	Pathogenic	BREAST	0		Substitution	Nonsense	1590C>T	BIC				1			rs62625303		NM_007294.3	Pathogenic	2012/03/11 1:48:11 PM	7	5
+222	BRCA1		c.4314C>G	p.=	EXON13	Pathogenic		0		Substitution	Silent	4433C>G	BIC				1					NM_007294.3			1	1
+223	BRCA2		c.2786delT	p.Lys929fs	EXON11	Predicted Pathogenic		0		Deletion	Frameshift - Out of Frame	3014delT	BIC				2					NM_00059.3			1	1
+224	BRCA2		c.9547A>G	p.Ile3183Val	EXON26	Predicted Benign		0		Substitution	Missense	9775A>G	BIC				4					NM_00059.3			1	1
+225	BRCA2		c.7436-4A>G	p.?	EXON15	VUS		0		Substitution	Silent	IVS14-4A>G	BIC				3					NM_00059.3			1	1
+226	BRCA1		c.1A>G	p.Met1?	EXON02	VUS		0		Substitution	Silent	120A>G	BIC				3					NM_007294.3			0	0
+227	BRCA1		c.669G>A	p.=	EXON10	VUS		0		Substitution	Silent	788G>A	BIC				3					NM_007294.3			7	7
+228	BRCA1		c.5521A>C	p.Ser1841Arg	EXON24	VUS		0		Substitution	Missense	5640A>C	BIC				3					NM_007294.3			1	1
+229	BRCA1		c.1175_1214del	p.Asn393MetfsX4	EXON11	Pathogenic		0		Deletion		1294del40	BIC				1					NM_007294.3			0	0
+231	BRCA2		c.3005A>C	p.Asn1002Thr	EXON11	VUS		0		Substitution	Missense	3233A>C	BIC				3					NM_00059.3			1	1
+232	BRCA2		c.1550A>G	p.Asn517Ser	EXON10	Predicted Benign		0		Substitution	Missense	1778A>G	BIC				4					NM_00059.3			0	0
+233	BRCA1		c.3636A>G	p.=	EXON11	VUS		0		Substitution	Silent	3755A>G	BIC				3					NM_007294.3			1	1
+234	BRCA1		c.3083G>A	p.Arg1028His	EXON11	Predicted Benign		0		Substitution	Missense	3202G>A	BIC				4			 rs80357459		NM_007294.3	Benign	2012/09/25 3:39:44 PM	3	3
+235	BRCA1		c.2733A>G	p.Gly911Gly	EXON11	Benign	OVARIAN	0		Substitution	Silent	2852A>G	BIC				5			rs1800740		NM_007294.3	Benign	2012/09/06 11:58:56 AM	4	4
+236	BRCA1		c.1510del	p.Arg504ValfsX28	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	1629delC	BIC				1					NM_007294.3			1	1
+237	BRCA2		c.2461G>C	p.Val821Leu	EXON11	Predicted Benign		0		Substitution	Missense	2689G>C	BIC				4					NM_00059.3			1	1
+238	BRCA2		c.1938C>T	p.=	EXON11	Benign		0		Substitution	Silent	2166C>T	BIC				5			rs28897711	 0.001+/-0.026	NM_00059.3	Benign	2012/06/21 4:02:16 PM	1	1
+239	BRCA2		c.3417G>A	p.=	EXON11	VUS	BREAST	0		Substitution	Silent	3645G>A	BIC				3			rs145625991		NM_00059.3	Predicted Benign	2013/04/30 10:43:50 AM	3	3
+240	BRCA1		c.4096+27C>T	p.?	EXON11	VUS		0		Substitution	Silent	IVS11+27C>T	BIC				3					NM_007294.3			1	1
+241	BRCA2		c.426-37T>A	p.?	EXON05	Predicted Benign		0		Substitution	Silent	IVS4-37T>A	BIC				4					NM_00059.3			2	2
+242	BRCA1		c.116G>A	p.Cys39Tyr	EXON03	Pathogenic		0		Substitution	Missense	235G>A	BIC				1					NM_007294.3			0	0
+243	BRCA1		c.2596C>T	p.Arg866Cys	EXON11	Benign		0		Substitution	Missense	2715C>T	BIC				5					NM_007294.3			3	3
+244	BRCA1		c.2580A>G	p.=	EXON11	VUS		0		Substitution	Silent	2699A>G	BIC				3					NM_007294.3			1	1
+245	BRCA1		c.5074+2T>C	p.?	EXON17	Pathogenic	BREAST	0		Substitution	Silent	IVS17+2T>C	BIC				1					NM_007294.3	Pathogenic	2013/02/28 10:37:04 AM	1	1
+246	BRCA2		c.5773C>T	p.Gln1925X	EXON11	Pathogenic		0		Substitution	Nonsense	6001C>T	BIC				1					NM_00059.3			1	1
+247	BRCA2		c.5925T>G	p.Cys1975Trp	EXON11	VUS		0		Substitution	Missense	6153T>G	BIC				3					NM_00059.3			1	1
+248	BRCA2		c.8427C>T	p.=	EXON19	Predicted Benign		0		Substitution	Silent	8655C>T	BIC				4					NM_00059.3			1	1
+249	BRCA2		c.9502-12T>G	p.?	EXON26	VUS		0		Substitution	Silent	IVS25-12T>G	BIC				3					NM_00059.3			6	6
+250	BRCA1		c.1846_1848del	p.Ser616del	EXON11	VUS		0		Deletion	Frameshift - In-Frame	1965delTCT	BIC				3					NM_007294.3			2	2
+251	BRCA2		c.7994A>G	p.Asp2665Gly	EXON18	Benign	BREAST	0		Substitution	Missense	8222A>G	BIC				5			rs28897745	0.002+/-0.030	NM_00059.3	Predicted Benign	2012/03/11 8:21:23 PM	2	1
+252	BRCA1		c.3596C>T	p.Ala1199Val	EXON11	Predicted Benign		0		Substitution	Missense	3715C>T	BIC				4					NM_007294.3			1	1
+253	BRCA2		c.516+14delC	p.?	EXON06	Predicted Benign		0		Deletion	Silent	IVS6+14delC	BIC				4					NM_00059.3			1	1
+254	BRCA2		c.2004G>A	p.=	EXON11	VUS		0		Substitution	Silent	2232G>A	BIC				3					NM_00059.3			7	7
+255	BRCA1		c.1648A>C	p.Asn550His	EXON11	VUS	BREAST	0		Substitution	Missense	1767A>C	BIC				3			rs56012641	0.0003	NM_007294.3	Benign	2013/05/22 12:13:29 PM	2	2
+256	BRCA1		c.1456T>C	p.Phe486Leu	EXON11	Benign		0		Substitution	Missense	1575T>C	BIC				5			rs55906931		NM_007294.3	Benign	2012/06/25 2:57:31 PM	1	1
+257	BRCA2		c.316+108A>G	p.?	EXON03	VUS		0		Substitution	Silent	IVS3+108A>G	BIC				3					NM_00059.3			1	1
+258	BRCA1		c.2722G>T	p.Glu908X	EXON11	Pathogenic		0		Substitution	Nonsense	2841G>T	BIC				1					NM_007294.3			0	0
+259	BRCA2		c.8470A>T	p.Arg2824X	EXON19	Predicted Pathogenic		0		Substitution	Nonsense	8698A>T	BIC				2					NM_00059.3			6	6
+260	BRCA2		c.7805+23G>A	p.?	EXON16	VUS		0		Substitution	Silent	IVS16+23G>A	BIC				3					NM_00059.3			1	1
+261	BRCA2		c.1460C>A	p.Ala487Glu	EXON10	Predicted Benign		0		Substitution	Missense	1688C>A	BIC				4					NM_00059.3			1	1
+262	BRCA2		c.4241C>T	p.Thr1414Met	EXON11	Benign		0		Substitution	Missense	4469C>T	BIC				5					NM_00059.3			3	3
+263	BRCA2		c.5171T>C	p.Ile1724Thr	EXON11	Predicted Benign	BREAST	0		Substitution	Missense	5399T>C	BIC				4			rs80358743		NM_00059.3	Predicted Benign	2012/03/15 9:34:02 AM	1	1
+264	BRCA2		c.7558C>T	p.Arg2520X	EXON15	Pathogenic	BREAST	0		Substitution	Nonsense	7786C>T	BIC				1			rs80358981		NM_00059.3	Pathogenic	2012/03/27 12:11:41 PM	8	8
+265	BRCA2		c.7806-15C>T	p.?	EXON17	VUS		0		Substitution	Silent	IVS16-15C>T	BIC				3					NM_00059.3			1	1
+266	BRCA2		c.3515C>T	p.Ser1172Leu	EXON11	VUS		0		Substitution	Missense	3743C>T	BIC				3			rs80358600	0.003	NM_00059.3	Benign	2012/06/11 2:08:45 PM	2	2
+267	BRCA2		c.68-7T>A	p.?	EXON03	VUS	BREAST	0		Substitution	Intronic	IVS2-7T>A; r.spl?	BIC				3			rs81002830	0	NM_00059.3	VUS	2012/02/17 11:01:19 AM	15	13
+268	BRCA2		c.9101A>G	p.Gln3034Arg	EXON23	VUS	BREAST	0		Substitution	Missense	9329A>G	BIC				3			rs80359164	0	NM_00059.3	VUS	2012/03/09 6:11:56 PM	1	1
+269	BRCA2		c.3869G>A	p.Cys1290Tyr	EXON11	Benign		0		Substitution	Missense	4097G>A	BIC				5			rs41293485	0.003	NM_00059.3	Benign	2012/04/12 5:34:26 PM	3	3
+270	BRCA1		c.3254_3255dup	p.Leu1085AspfsX2	EXON11	Pathogenic		0		Duplication	Frameshift - Out of Frame	3374insGA	BIC				1					NM_007294.3			0	0
+271	BRCA1		c.4516delG	p.Asp1506IlefsX42	EXON15	Predicted Pathogenic		0		Deletion	Frameshift - Out of Frame	4635delG	BIC				2					NM_007294.3			1	1
+272	BRCA1		c.4689C>G	p.Tyr1563X	EXON16	Pathogenic		0		Substitution	Nonsense	4808C>G	BIC				1					NM_007294.3			1	1
+273	BRCA1		c.3255_3256dupGA	p.Leu1085AspfsX2	EXON11	Pathogenic		0		Duplication	Frameshift - Out of Frame	3374insGA	BIC				1					NM_007294.3			0	0
+274	BRCA1		c.5468-10C>A	p.?	EXON24	Predicted Benign		0		Substitution	Silent	IVS23-10C>A	BIC				4					NM_007294.3			1	1
+275	BRCA1		c.981A>G	p.Thr327Thr	EXON11	Benign		0		Substitution	Silent	1100A>G	BIC				5			rs1800063		NM_007294.3	Benign	2012/09/06 4:44:02 PM	6	6
+276	BRCA1		c.3024G>A	p.Met1008Ile	EXON11	Benign	OVARIAN	0		Substitution	Missense	3143G>A	BIC				5					NM_007294.3	Benign	2012/09/06 12:05:51 PM	4	4
+277	BRCA1		c.1994delA	p.Asn665ThrfsX36	EXON11	Predicted Pathogenic		0		Deletion	Frameshift - Out of Frame	2113delA	BIC				2					NM_007294.3			1	1
+279	BRCA2		c.7806-40A>G	p.?	EXON17	VUS		0		Substitution	Silent	IVS16-40A>G	BIC				3					NM_00059.3			2	2
+280	BRCA2		c.223G>C	Ala75Pro	EXON03	Predicted Benign		0		Substitution	Missense	451G>C	BIC				4					NM_00059.3			2	2
+281	BRCA2		c.8460A>C	p.Val2820Val	EXON19	Predicted Benign		0		Substitution	Silent	8688A>C	BIC				4			rs9590940	0.062	NM_00059.3	Benign	2013/05/16 3:56:36 PM	2	2
+282	BRCA2		c.8567A>C	p.Glu2856Ala	EXON20	Benign		0		Substitution	Missense	8795A>C	BIC				5			 rs11571747	0.002+/-0.031	NM_00059.3	Benign	2012/03/09 2:45:44 PM	2	2
+283	BRCA2		c.8755-65A>G	p.?	EXON22	VUS		0		Substitution	Silent	IVS21-65A>G	BIC				3					NM_00059.3			1	1
+284	BRCA2		c.3170_3174delAGAAA	p.Lys1057ThrfsX8	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	3398delAGAAA	BIC				1					NM_00059.3			4	3
+285	BRCA2		c.2391G>A	p.=	EXON11	Predicted Benign		0		Substitution	Silent	2619G>A	BIC				4					NM_00059.3			1	1
+286	BRCA2		c.7509C>G	p.=	EXON15	Predicted Benign		0		Substitution	Silent	7737C>G	BIC				4					NM_00059.3			1	1
+287	BRCA2		c.7448G>A	Ser2483Asn	EXON15	Predicted Benign		0		Substitution	Missense	7676G>A	BIC				4					NM_00059.3			1	1
+288	BRCA2		c.8010G>A	p.=	EXON18	Predicted Benign		0		Substitution	Silent	8238G>A	BIC				4					NM_00059.3			1	1
+289	BRCA1		c.1227A>G	p.=	EXON11	VUS		0		Substitution	Silent	1346A>G	BIC				3					NM_007294.3			1	1
+290	BRCA1		c.2338C>T	p.Gln780X	EXON11	Pathogenic		0		Substitution	Nonsense	2457C>T	BIC				1					NM_007294.3			7	7
+291	BRCA1		c.5497G>A	p.Val1833Met	EXON24	VUS		0		Substitution	Missense	5616G>A	BIC				3					NM_007294.3			1	1
+292	BRCA2		c.317-15A>G	p.?	EXON04	VUS		0		Substitution	Silent	IVS3-15A>G	BIC				3					NM_00059.3			4	4
+293	BRCA2		c.771_775delTCAAA	p.Asn257LysfsX17	EXON09	Pathogenic		0		Deletion	Frameshift - Out of Frame	999delTCAAA	BIC				1					NM_00059.3			1	1
+294	BRCA2		c.1889C>T	p.Thr630Ile	EXON10	VUS		0		Substitution	Missense	2117C>T	BIC				3			rs80358479		NM_00059.3	Benign	2013/06/25 10:03:07 AM	2	2
+295	BRCA2		c.8351G>A	Arg2784Gln	EXON19	VUS		0		Substitution	Missense	8579G>A	BIC				3					NM_00059.3			1	1
+296	BRCA2		c.7435+53C>T	p.(=)	EXON14	Benign		0		Substitution	Silent	IVS14+53C>T	BIC				5					NM_00059.3			55	55
+297	BRCA2		c.865A>C	p.Asn289His	EXON10	Benign		0		Substitution	Missense	1093A>C	BIC				5					NM_00059.3	Benign	2012/06/14 12:55:33 PM	0	0
+298	BRCA1		c.135-?_441+?del		5-7	Pathogenic		0									1					NM_007294.3			0	0
+299	BRCA1		c.4386dupA	p.Tyr1463IlefsX13	EXON14			0		Duplication	Frameshift - Out of Frame	4505insA	BIC									NM_007294.3			0	0
+300	BRCA2		c.8953+98T>C	p.(=)	EXON22	Benign		0		Substitution	Silent	IVS22+98T>C	BIC				5					NM_00059.3			4	4
+301	BRCA2		c.5864C>A	p.Ser1955X	EXON11	Pathogenic		0		Substitution	Nonsense	6092C>A	BIC				1					NM_00059.3			1	1
+302	BRCA2		c.6154delT	p.Ser2052fsX18	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	6382delT	BIC				1					NM_00059.3			1	1
+303	BRCA2		c.8215G>A	p.Val2739Ile	EXON18	Predicted Benign		0		Substitution	Missense	8443G>A	BIC				4					NM_00059.3			1	1
+304	BRCA1		c.4600G>A	p.Val1534Met	EXON15	Predicted Benign		0		Substitution	Missense	4719G>A	BIC				4					NM_007294.3	Predicted Benign	2013/02/22 4:46:12 PM	2	2
+305	BRCA2		c.4046T>C	p.Ile1349Thr	EXON11	VUS		0		Substitution	Missense	4274T>C	BIC				3					NM_00059.3			7	7
+306	BRCA1		c.301+8T>C	p.?	EXON06	Predicted Benign		0		Substitution	Silent	IVS6+8T>C	BIC				4					NM_007294.3			7	7
+307	BRCA1		c.301+146A>C	p.?	EXON06	VUS		0		Substitution	Silent	IVS6+146A>C	BIC				3					NM_007294.3			1	1
+308	BRCA1		c.5592+36C>G	p.?	EXON24	VUS		0		Substitution	Silent	IVS24+36C>G	BIC				3					NM_007294.3			1	1
+309	BRCA2		c.5631C>T	p.=	EXON11	VUS		0		Substitution	Silent	5859C>T	BIC				3					NM_00059.3			1	1
+310	BRCA1		c.312C>A	p.Ser104Arg	EXON07	VUS		0		Substitution	Missense	431C>A	BIC				3					NM_007294.3			2	2
+311	BRCA1		c.80+5G>C	p.?	EXON02	VUS		0		Substitution	Silent	IVS2+5G>C	BIC				3					NM_007294.3			1	1
+312	BRCA1		c.3640G>A	p.Glu1214Lys	EXON11	VUS		0		Substitution	Missense	3759G>A	BIC				3					NM_007294.3			1	1
+313	BRCA1		c.4485-63C>G	p.(=)	EXON15	Benign		0		Substitution	Silent	IVS14-63C>G	BIC				5					NM_007294.3			215	215
+314	BRCA1		c.548-17G>T	p.?	EXON09	VUS		0		Substitution	Silent	IVS8-17G>T	BIC				3					NM_007294.3			1	1
+315	BRCA1		c.1961delA	p.Lys654SerfsX47	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	2080delA	BIC				1					NM_007294.3			6	6
+316	BRCA2		c.6037A>G	p.Lys2013Glu	EXON11	Predicted Benign		0		Substitution	Missense	6265A>G	BIC				4					NM_00059.3			1	1
+317	BRCA2		c.8487+19A>G	p.?	EXON19	VUS		0		Substitution	Silent	IVS19+19A>G	BIC				3					NM_00059.3			1	1
+318	BRCA2		c.8488-108C>T	p.?	EXON20	VUS		0		Substitution	Silent	IVS19-108C>T	BIC				3					NM_00059.3			1	1
+319	BRCA2		c.5728_5730delAAT	p.Asn1910del	EXON11	VUS		0		Deletion	Frameshift - In-Frame	5956delAAT	BIC				3					NM_00059.3			1	1
+320	BRCA2		c.2926_2927delinsAT	p.Ser976Ile	EXON11	VUS		0		Indel	Missense	3154TC>AT	BIC				3					NM_00059.3			2	2
+321	BRCA1		c.1113T>G	p.=	EXON11	VUS		0		Substitution	Silent	1232T>G	BIC				3					NM_007294.3			1	1
+322	BRCA1		c.1687C>T	p.Gln563X	EXON11	Pathogenic		0		Substitution	Nonsense	1806C>T	BIC				1					NM_007294.3			9	8
+323	BRCA2		c.67+62T>G	p.?	EXON02	VUS		0		Substitution	Silent	IVS2+62T>G	BIC				3					NM_00059.3			6	6
+324	BRCA2		c.1513A>G	p.Ile505Val	EXON10	Predicted Benign		0		Substitution	Missense	1741A>G	BIC				4					NM_00059.3			2	2
+325	BRCA2		c.8924delT	p.Val2975GlufsX13	EXON22	Predicted Pathogenic		0		Deletion	Frameshift - Out of Frame	9152delT	BIC				2					NM_00059.3			7	7
+326	BRCA2		c.9501+3A>T	p.?	EXON25	VUS		0		Substitution	Silent	IVS25+3A>T	BIC				3			rs61757642		NM_00059.3	VUS	2012/07/13 2:14:27 PM	4	4
+327	BRCA1		c.786G>A	p.=	EXON11	VUS		0		Substitution	Silent	905G>A	BIC				3					NM_007294.3	VUS	2013/02/04 4:16:40 PM	2	2
+328	BRCA1		c.895_896delGT	p.Val299ArgfsX5	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	1014delGT	BIC				1					NM_007294.3	Pathogenic		2	2
+329	BRCA2		c.5225A>G	p.Asn1742Ser	EXON11	Predicted Benign		0		Substitution	Missense	5453A>G	BIC				4					NM_00059.3			1	1
+330	BRCA2		c.7007G>A	p.Arg2336His	EXON13	Pathogenic		0		Substitution	Missense	7235G>A	BIC				1					NM_00059.3	Pathogenic	2013/01/22 3:30:35 PM	11	7
+331	BRCA2		c.1368_1369dupGA	p.Lys456ArgfsX4	EXON10	Predicted Pathogenic		0		Duplication	Frameshift - Out of Frame	1597insGA	BIC				2					NM_00059.3			1	1
+332	BRCA2		c.8585het_dupT		EXON20	Pathogenic		0		Duplication		8814insT					1					NM_00059.3			0	0
+333	BRCA2		c.4686A>G	p.=	EXON11	Predicted Benign		0		Substitution	Silent	4914A>G	BIC				4					NM_00059.3			1	1
+334	BRCA1		c.5075-2A>C	p.?	EXON18	Pathogenic		0		Substitution	Silent	IVS17-2A>C	BIC				1					NM_007294.3			1	1
+335	BRCA1		c.-110A>C	p.?	EXON02	VUS		0		Substitution	Intronic	IVS1-110A>C	BIC				3					NM_007294.3			3	3
+336	BRCA1		c.305C>G	p.Ala102Gly	EXON07	VUS		0		Substitution	Missense	424C>G	BIC				3					NM_007294.3			7	7
+337	BRCA1		c.4357+17A>G	p.?	EXON13	Predicted Benign		0		Substitution	Silent	IVS13+17A>G	BIC				4					NM_007294.3			3	3
+338	BRCA2		c.1385A>G	p.Glu462Gly	EXON10	VUS		0		Substitution	Missense	1613A>G	BIC				3					NM_00059.3			1	1
+339	BRCA2		c.7431T>C	p.=	EXON14	Predicted Benign		0		Substitution	Silent	7659T>C	BIC				4					NM_00059.3			1	1
+340	BRCA2		c.9155G>A	p.Arg3052Gln	EXON24	VUS		0		Substitution	Missense	9383G>A	BIC				3					NM_00059.3			7	7
+341	BRCA2		c.5095G>A	p.Asp1699Asn	EXON11	Predicted Benign		0		Substitution	Missense	5323G>A	BIC				4			rs80358731		NM_00059.3	Predicted Benign	2012/11/07 9:37:35 AM	2	2
+342	BRCA2		c.5682C>G	p.Tyr1894X	EXON11	Pathogenic		0		Substitution	Nonsense	5910C>G	BIC				1			 rs41293497		NM_00059.3	Pathogenic	2012/08/13 2:14:06 PM	2	2
+343	BRCA1		c.2834_2836delGTAinsC	p.Ser945ThrfsX6	EXON11	Pathogenic	BREAST	0		Indel	Frameshift - Out of Frame	2953delGTAinsC	BIC				1					NM_007294.3	Pathogenic	2012/10/30 10:52:25 AM	7	7
+344	BRCA1		c.1953_1956delGAAA	p.Lys651LisfsX50	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	2072delGAAA	BIC				1					NM_007294.3			1	1
+345	BRCA1		c.2634A>G	p.=	EXON11	VUS		0		Substitution	Silent	2753A>G	BIC				3					NM_007294.3			1	1
+346	BRCA1		c.5152+66G>A	p.(=)	EXON18	Benign		0		Substitution	Silent	IVS18+66G>A	BIC				5					NM_007294.3			238	238
+347	BRCA1		c.5075-53C>T	p.?	EXON18	VUS		0		Substitution	Silent	IVS17-53C>T	BIC				3					NM_007294.3			18	18
+348	BRCA2		c.2186T>C	p.Ile729Thr	EXON11	Predicted Benign		0		Substitution	Missense	2414T>C	BIC				4					NM_00059.3			1	1
+349	BRCA2		c.8830A>T	p.Ile2944Phe	EXON22	VUS		0		Substitution	Missense	9058A>T	BIC				3			rs4987047	0.008; 0.15	NM_00059.3	Benign	2012/08/10 3:07:53 PM	2	2
+350	BRCA2		c.2538A>C	p.=	EXON11	VUS		0		Substitution	Silent	2766A>C	BIC				3					NM_00059.3			2	2
+351	BRCA1		c.2352G>A	p.=	EXON11	VUS		0		Substitution	Silent	2471G>A	BIC				3					NM_007294.3			1	1
+352	BRCA2		c.956A>G	p.Asn319Ser	EXON10	Predicted Benign		0		Substitution	Missense	1184A>G	BIC				4					NM_00059.3	VUS	2013/01/08 4:20:45 PM	2	2
+353	BRCA2		c.6325G>A	p.Val2109Ile	EXON11	Predicted Benign		0		Substitution	Missense	6553G>A	BIC				4					NM_00059.3			1	1
+354	BRCA1		c.4987-92A>G	p.(=)	EXON17	Benign		0		Substitution	Silent	IVS16-92A>G	BIC				5					NM_007294.3			225	225
+355	BRCA1		c.4987-68A>G	p.(=)	EXON17	Benign		0		Substitution	Silent	IVS16-68A>G	BIC				5					NM_007294.3			232	232
+356	BRCA1		c.5074+65G>A	p.(=)	EXON17	Benign		0		Substitution	Silent	IVS17+65G>A	BIC				5					NM_007294.3			195	195
+357	BRCA1		c.3481_3491del11	p.Glu1161PhefsX3	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	3600delGAAGATACTAG	BIC				1					NM_007294.3			1	1
+358	BRCA1		c.134+111C>T	p.?	EXON03	Predicted Benign		0		Substitution	Silent	IVS3+111C>T	BIC				4					NM_007294.3			3	3
+359	BRCA2		c.1395A>C	p.=	EXON10	VUS		0		Substitution	Silent	1623A>C	BIC				3					NM_00059.3			3	3
+360	BRCA2		c.2240A>G	p.Glu747Gly	EXON11	VUS		0		Substitution	Missense	2468A>G	BIC				3					NM_00059.3			7	7
+361	BRCA2		c.631+183T>A	p.(=)	EXON07	Benign		0		Substitution	Silent	IVS7+183T>A	BIC				5					NM_00059.3			202	202
+362	BRCA2		c.9294C>G	p.Tyr3098X	EXON25	Pathogenic		0		Substitution	Nonsense	9522C>G	BIC				1					NM_00059.3			1	1
+363	BRCA1		c.5407-73A>C	p.?	EXON23	Predicted Benign		0		Substitution	Silent	IVS22-73A>C	BIC				4					NM_007294.3			2	2
+364	BRCA2		c.7007+126_134dup9	p.?	EXON13	Predicted Benign		0		Duplication	Silent	IVS13+134insTTATAAAAT	BIC				4					NM_00059.3			30	30
+365	BRCA1		c.75C>T	p.=	EXON02	Benign		0		Substitution	Silent	194C>T	BIC				5					NM_007294.3			6	6
+366	BRCA1		c.4484+61G>T	p.?	EXON14	Predicted Benign		0		Substitution	Silent	IVS14+61G>T	BIC				4					NM_007294.3			2	2
+367	BRCA1		c.4484+181_182delTA	p.?	EXON14	Predicted Benign		0		Deletion	Silent	IVS14+181delTA	BIC				4					NM_007294.3			1	1
+368	BRCA1		c.4675+53C>A	p.?	EXON15	Predicted Benign		0		Substitution	Silent	IVS15+53C>A	BIC				4					NM_007294.3			2	2
+369	BRCA2		c.440A>G	p.Gln147Arg	EXON05	Predicted Benign	BREAST	0		Substitution	Missense	668A>G	BIC				4					NM_00059.3	Benign	2013/04/04 4:50:46 PM	13	13
+370	BRCA2		c.6937+49A>G	p.?	EXON12	Predicted Benign		0		Substitution	Silent	IVS12+49A>G	BIC				4					NM_00059.3			1	1
+371	BRCA2		c.8680delC	p.Gln2894LysfsX15	EXON21	Predicted Pathogenic		0		Deletion	Frameshift - Out of Frame	8908delC	BIC				2					NM_00059.3			1	1
+372	BRCA2		c.4585G>A	p.Gly1529Arg	EXON11	Benign		0		Substitution	Missense	4813G>A	BIC				5					NM_00059.3			2	2
+373	BRCA1		c.5074+118C>T	p.?	EXON17	Predicted Benign		0		Substitution	Silent	IVS17+118C>T	BIC				4					NM_007294.3			1	1
+374	BRCA2		c.-51_-49delTCT	p.?	EXON02	VUS		0		Deletion	Intronic	IVS1-51delTCT	BIC				3					NM_00059.3			1	1
+375	BRCA2		c.267G>A	p.=	EXON03	Predicted Benign		0		Substitution	Silent	495G>A	BIC				4					NM_00059.3	Benign	2012/07/03 10:53:18 AM	1	1
+376	BRCA2		c.8487+47C>A	p.?	EXON19	Predicted Benign		0		Substitution	Silent	IVS19+47C>A	BIC				4					NM_00059.3			2	2
+377	BRCA2		c.5158dupT	p.Ser1720PhefsX7	EXON11	Pathogenic		0		Duplication	Frameshift - Out of Frame	5386insT	BIC				1					NM_00059.3			1	1
+378	BRCA2		c.5836T>C	p.Ser1946Pro	EXON11	Predicted Benign		0		Substitution	Missense	6064T>C	BIC				4					NM_00059.3			1	1
+379	BRCA1		c.4372C>T	p.Gln1458X	EXON14	Pathogenic		0		Substitution	Nonsense	4491C>T	BIC				1					NM_007294.3			7	7
+380	BRCA2		c.9373C>T	p.Leu3125Phe	EXON25	VUS		0		Substitution	Missense	9601C>T	BIC				3					NM_00059.3			1	1
+381	BRCA1		c.1775G>A	p.Ser592Asn	EXON11	Predicted Benign		0		Substitution	Missense	1894G>A	BIC				4					NM_007294.3			1	1
+382	BRCA1		c.765G>A	p.=	EXON11	VUS		0		Substitution	Silent	884G.A	BIC				3					NM_007294.3			1	1
+383	BRCA1		c.2109A>G	p.=	EXON11	VUS		0		Substitution	Silent	2228A>G	BIC				3					NM_007294.3	Benign	2012/11/07 7:07:43 AM	2	2
+384	BRCA1		c.4117G>T	p.Glu1373X	EXON12	Pathogenic		0		Substitution	Nonsense	4236G>T	BIC				1					NM_007294.3			1	1
+385	BRCA1		c.4508C>A	p.Ser1503X	EXON15	Pathogenic		0		Substitution	Nonsense	4627C>A	BIC				1					NM_007294.3			7	7
+386	BRCA1		c.5074+108G>A	p.?	EXON17	Predicted Benign		0		Substitution	Silent	IVS17+108G>A	BIC				4					NM_007294.3			4	4
+387	BRCA2		c.8535_8538delAGAG	p.Arg2845fsX17	EXON20	Pathogenic		0		Deletion	Frameshift - Out of Frame	8763delAGAG	BIC				1					NM_00059.3			7	7
+388	BRCA2		c.4631delA	p.Asn1544fsX24	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	4859delA	BIC				1					NM_00059.3			4	3
+389	BRCA1		c.5557T>A	p.Tyr1853Asn	EXON24	VUS		0		Substitution	Missense	5676T>A	BIC				3					NM_007294.3			7	7
+390	BRCA2		c.4779A>C	p.Clu1593Asp	EXON11	Predicted Benign		0		Substitution	Missense	5007A>C	BIC				4					NM_00059.3			1	1
+391	BRCA2		c.8632+132dupC	p.?	EXON20	VUS		0		Duplication	Silent	IVS20+132insC	BIC				3					NM_00059.3			1	1
+392	BRCA1		c.514delC	p.Gln172fsX62	EXON08	Pathogenic		0		Deletion	Frameshift - Out of Frame	633delC	BIC				1					NM_007294.3			8	8
+393	BRCA1		c.-104_100delCTTTA	p.?	EXON02	Predicted Benign		0		Deletion	Intronic	IVS1-104delCTTTA	BIC				4					NM_007294.3			1	1
+394	BRCA2		c.79A>G	p.Ile27Val	EXON03	Predicted Benign		0		Substitution	Missense	307A>G	BIC				4					NM_00059.3			1	1
+395	BRCA2		c.469_470delAA	p.Lys157ValfsX25	EXON05	Predicted Pathogenic		0		Deletion	Frameshift - Out of Frame	697delAA	BIC				2					NM_00059.3			1	1
+396	BRCA2		c.978C>A	p.Ser326Arg	EXON10	Benign		0		Substitution	Missense	1206C>A	BIC				5			rs28897706		NM_00059.3	Benign	2012/07/05	7	7
+397	BRCA2		c.6315A>G	p.Ile2105Met	EXON11	Predicted Benign		0		Substitution	Missense	6543A>G	BIC				4					NM_00059.3			1	1
+398	BRCA2		c.7008-62A>G	p.?	EXON14	Predicted Benign		0		Substitution	Silent	IVS13-62A>G	BIC				4					NM_00059.3			1	1
+399	BRCA1		c.301+55G>A	p.?	EXON06	Predicted Benign		0		Substitution	Silent	IVS6+55G>A	BIC				4					NM_007294.3			1	1
+400	BRCA2		c.7A>G	p.Ile3Val	EXON02	Predicted Benign		0		Substitution	Missense	235A>G	BIC				4					NM_00059.3			1	1
+402	BRCA2		c.6317T>C	p.Leu2106Pro	EXON11	Predicted Benign		0		Substitution	Missense	6545T>C	BIC				4					NM_00059.3			1	1
+403	BRCA1		c.1617G>A	p.=	EXON12	VUS		0		Substitution	Silent	1736G>A	BIC				3					NM_007294.3			1	1
+404	BRCA2		c.1362A>G	p.=	EXON10	VUS		0		Substitution	Silent	1590A>G	BIC				3					NM_00059.3	Benign	2012/12/28 10:18:40 AM	8	8
+405	BRCA1		c.2681_2682delAA	p.Lys894ThrfsX8	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	2800delAA	BIC				1					NM_007294.3	Pathogenic		2	2
+406	BRCA1		c.5332+20C>A	p.?	EXON21	VUS		0		Substitution	Silent	IVS21+20C>A	BIC				3					NM_007294.3			2	2
+407	BRCA2		c.516+21A>T	p.?	EXON06	Predicted Benign		0		Substitution	Silent	IVS6+21A>T	BIC				4					NM_00059.3			1	1
+408	BRCA2		c.9648+106delT	p.?	EXON26	Predicted Benign		0		Deletion	Silent	IVS26+106delT	BIC				4					NM_00059.3			1	1
+409	BRCA1		c.3748G>T	p.Glu1250X	EXON11	Pathogenic		0		Substitution	Nonsense	3867G>T	BIC				1			 rs28897686		NM_007294.3			3	2
+410	BRCA1		c.4357+1G>A	p.?	EXON13	Pathogenic		0		Substitution	Silent	IVS13+1G>A	BIC				1					NM_007294.3			6	6
+411	BRCA1		c.5278-96delG	p.?	EXON21	Predicted Benign		0		Deletion	Silent	IVS20-96delG	BIC				4					NM_007294.3			1	1
+412	BRCA2		c.317-137dupA	p.?	EXON04	Predicted Benign		0		Duplication	Silent	IVS3-137dupA	BIC				4					NM_00059.3			1	1
+413	BRCA2		c.793+1G>A	p.?	EXON09	Pathogenic		0		Substitution	Silent	IVS9+1G>A	BIC				1					NM_00059.3			6	6
+414	BRCA2		c.3328G>T	p.Glu1110X	EXON11	Predicted Pathogenic		0		Substitution	Nonsense	3556G>T	BIC				2					NM_00059.3			7	7
+415	BRCA2		c.5870T>C	p.Ile1957Thr	EXON11	Predicted Benign		0		Substitution	Missense	6098T>C	BIC				4					NM_00059.3			1	1
+416	BRCA2		c.5924G>C	p.Cys1975Ser	EXON11	VUS		0		Substitution	Missense	6152G>C	BIC				3					NM_00059.3			7	7
+417	BRCA2		c.517-105A>G	p.?	EXON07	VUS		0		Substitution	Silent	IVS6-105A>G	BIC				3					NM_00059.3			1	1
+418	BRCA2		c.2803G>A	p.Asp935Asn	EXON11	Benign		0		Substitution	Missense	3031G>A	BIC				5					NM_00059.3			1	1
+419	BRCA2		c.2870delA	p.Asn957IlefsX3	EXON11	Predicted Pathogenic		0		Deletion	Frameshift - Out of Frame	3098delA	BIC				2					NM_00059.3			1	1
+420	BRCA2		c.5070A>C	p.Lys1690Asn	EXON11	Predicted Benign	BREAST	0		Substitution	Missense	5298A>C	BIC				4					NM_00059.3	Benign	2013/01/31 11:49:54 AM	9	9
+421	BRCA2		c.1813dupA	p.Ile605Asn	EXON10	Pathogenic		0		Duplication	Missense	2041insA	BIC				1					NM_00059.3			1	1
+422	BRCA1		c.5406+46T>C	p.?	EXON22	Predicted Benign		0		Substitution	Silent	IVS22+46T>C	BIC				4					NM_007294.3			1	1
+423	BRCA2		c.943T>A	p.Cys315Ser	EXON10	VUS		0		Substitution	Missense	1171T>A	BIC				3					NM_00059.3			1	1
+424	BRCA2		c.516+14C>T	p.?	EXON06	VUS		0		Substitution	Silent	IVS6+14C>T	BIC				3			rs182828913		NM_00059.3	Predicted Benign	2012/06/30 2:22:18 PM	8	8
+425	BRCA2		c.9435_9436delGT	p. Val3145fsX4	EXON25	Pathogenic		0		Deletion	Frameshift - Out of Frame	9663delGT	BIC				1					NM_00059.3			2	2
+426	BRCA1		c.-134T>C	p.?	EXON02	Predicted Benign		0		Substitution	Intronic	IVS1-134T>C	BIC				4					NM_007294.3			2	2
+427	BRCA2		c.425+33A>G	p.?	EXON04	Predicted Benign		0		Substitution	Silent	IVS4+33A>G	BIC				4					NM_00059.3			1	1
+428	BRCA1		c.570C>T	p.=	EXON09	VUS		0		Substitution	Silent	689C>T	BIC				3					NM_007294.3			6	6
+429	BRCA1		c.3334delG	p.Glu1112AsnfsX5	EXON11	Predicted Pathogenic		0		Deletion	Frameshift - Out of Frame	3453delG	BIC				2					NM_007294.3			0	0
+430	BRCA1		c.3878C>T	p.Ala1293Val	EXON11	VUS		0		Substitution	Missense	3997C>T	BIC				3					NM_007294.3			1	1
+431	BRCA2		c.426-37dupT	p.?	EXON05	Predicted Benign		0		Duplication	Silent	IVS4-37insT	BIC				4					NM_00059.3			1	1
+432	BRCA2		c.4578A>G	p.=	EXON11	VUS		0		Substitution	Silent	4806A>G	BIC				3					NM_00059.3	Benign	2012/10/01 10:38:51 AM	2	2
+433	BRCA2		c.6275_6276delTT	p.Leu2092ProfsX7	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	6503delTT	BIC				1					NM_00059.3	Pathogenic	2012/08/13 10:15:10 AM	12	9
+434	BRCA1		c.3333delA	p.Gln1112AsnfsX5	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	3452delA	BIC				1					NM_007294.3			6	6
+435	BRCA1		c.1561G>A	p.Ala521Thr	EXON11	Predicted Benign		0		Substitution	Missense	1680G>A	BIC				4					NM_007294.3			7	7
+436	BRCA1		c.3448C>T	p.Pro1150Ser	EXON11	VUS		0		Substitution	Missense	3567C>T	BIC				3					NM_007294.3			1	1
+437	BRCA2		c.274C>T	p.Gln92X	EXON03	Pathogenic		0		Substitution	Nonsense	502C>T	BIC				1					NM_00059.3			7	7
+438	BRCA2		c.2716A>G	p.Thr906Ala	EXON11	Predicted Benign		0		Substitution	Missense	2944A>G	BIC				4					NM_00059.3			1	1
+439	BRCA2		c.2752A>G	p.Asn918Asp	EXON11	Predicted Benign		0		Substitution	Missense	2980A>G	BIC				4					NM_00059.3			1	1
+440	BRCA2		c.6683T>C	p.Val2228Ala	EXON11	VUS		0		Substitution	Missense	6911T>C	BIC				3					NM_00059.3			7	7
+441	BRCA1		c.4987-70G>A	p.?	EXON17	VUS		0		Substitution	Silent	IVS16-70G>A	BIC				3					NM_007294.3			1	1
+442	BRCA1		c.4816A>G	p.Lys1606Glu	EXON16	VUS		0		Substitution	Missense	4935A>G	BIC				3					NM_007294.3			1	1
+443	BRCA2		c.280C>T	p.Pro94Ser	EXON03	VUS		0		Substitution	Missense	508C>T	BIC				3					NM_00059.3			1	1
+444	BRCA2		c.2748delT	p.Cys916TrpfsX2	EXON11	Predicted Pathogenic		0		Deletion	Frameshift - Out of Frame	2976delT	BIC				2					NM_00059.3			6	6
+445	BRCA2		c.7301A>C	p.Lys2434Thr	EXON14	Predicted Benign		0		Substitution	Missense	7529A>C	BIC				4					NM_00059.3			7	7
+446	BRCA1		c.4484+1G>A	p.?	EXON14	Pathogenic		0		Substitution	Silent	IVS14+1G>A	BIC				1					NM_007294.3			1	1
+447	BRCA1		c.5074+124T>G	p.?	EXON17	Predicted Benign		0		Substitution	Silent	IVS17+124T>G	BIC				4					NM_007294.3			1	1
+448	BRCA1		c.5153-31A>G	p.?	EXON19	Predicted Benign		0		Substitution	Silent	IVS18-31A>G	BIC				4					NM_007294.3			2	2
+449	BRCA1		c.5152+85delT	p.?	EXON18	Predicted Benign		0		Deletion	Silent	IVS18+85delT	BIC				4					NM_007294.3			2	2
+450	BRCA2		c.7617+39G>A	p.?	EXON15	VUS		0		Substitution	Silent	IVS15+39G>A	BIC				3					NM_00059.3			1	1
+451	BRCA2		c.8954-40C>A	p.?	EXON23	Predicted Benign		0		Substitution	Silent	IVS22-40C>A	BIC				4					NM_00059.3			1	1
+452	BRCA2		c.8954-28T>G	p.?	EXON23	Predicted Benign		0		Substitution	Silent	IVS22-28T>G	BIC				4					NM_00059.3			1	1
+453	BRCA2		c.9302T>G	p.Leu3101Arg	EXON25	VUS		0		Substitution	Missense	9530T>G	BIC				3					NM_00059.3			7	7
+454	BRCA2		c.4071A>C	p.=	EXON11	VUS		0		Substitution	Silent	4299A>C	BIC				3					NM_00059.3			1	1
+455	BRCA2		c.6937+74C>G	p.?	EXON12	Predicted Benign		0		Substitution	Silent	IVS12+74C>G	BIC				4					NM_00059.3			1	1
+456	BRCA1		c.4987-2A>G	p.?	EXON17	Predicted Pathogenic		0		Substitution	Silent	IVS16-2A>G	BIC				2					NM_007294.3			7	7
+457	BRCA1		c.3541G>A	p.Val1181Ile	EXON11	Predicted Benign		0		Substitution	Missense	3660G>A	BIC				4					NM_007294.3			7	7
+458	BRCA2		c.7150C>A	p.Gln2384Lys	EXON14	Predicted Benign		0		Substitution	Missense	7378C>A	BIC				4					NM_00059.3			1	1
+459	BRCA2		c.4552delG	p.Glu1518AsnfsX25	EXON11	Predicted Pathogenic		0		Deletion	Frameshift - Out of Frame	4780delG	BIC				2					NM_00059.3			6	6
+460	BRCA2		c.8633-21A>G	p.?	EXON21	VUS		0		Substitution	Silent	IVS20-21A>G	BIC				3					NM_00059.3			1	1
+461	BRCA2		c.1670T>G	p.Leu557X	EXON10	Pathogenic		0		Substitution	Nonsense	1898T>G	BIC				1					NM_00059.3			1	1
+462	BRCA2		c.9564T>C	p.=	EXON26	Predicted Benign		0		Substitution	Silent	9792T>C	BIC				4					NM_00059.3			2	2
+463	BRCA1		c.985A>T	p.Asn329Tyr	EXON11b	VUS		0		Addition	Missense	1104A>T	BIC				3					NM_007294.3			7	7
+464	BRCA1		c.5251C>T	p.Arg1751X	EXON20	Pathogenic		0		Substitution	Nonsense	5370C>T	BIC				1			rs80357123		NM_007294.3	Pathogenic	2012/08/21 4:17:11 PM	8	8
+465	BRCA2		c.9292T>C	p.Tyr3098His	EXON25	Predicted Benign	BREAST	0		Substitution	Missense	9520T>C	BIC				4					NM_00059.3	Predicted Benign	2012/11/07 9:32:57 AM	2	2
+466	BRCA2		c.2233A>G	p.Lys745Glu	EXON11	VUS		0		Substitution	Missense	2461A>G	bic				3					NM_00059.3			1	1
+467	BRCA2		c.1568A>G	p.His523Arg	EXON10	VUS		0		Substitution	Missense	1796A>G	BIC				3					NM_00059.3			1	1
+468	BRCA2		c.6209A>G	p.Glu2070Gly	EXON11	VUS		0		Substitution	Missense	6437A>G	BIC				3					NM_00059.3			1	1
+469	BRCA1		c.3783A>G	p.Leu1261Leu	EXON11	Predicted Benign		0		Substitution	Silent	3902A>G	BIC				4					NM_007294.3			1	1
+470	BRCA1		c.2389G>T	p.Glu797X	EXON11	Predicted Pathogenic		0		Substitution	Nonsense	2508G>T	BIC				2					NM_007294.3			1	1
+471	BRCA1		c.5277+48_5277+59dup	p.?	EXON20	Predicted Benign		0		Duplication	Silent	IVS20+48ins	BIC				4					NM_007294.3			1	1
+472	BRCA2		c.6591_6592delTG	p.Glu2198AsnfsX4	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	6819delTG	BIC				1					NM_00059.3			2	2
+473	BRCA2		c.5390C>G	p.Ala1797Gly	EXON11	VUS		0		Substitution	Missense	5618C>G	BIC				3			rs80358760		NM_00059.3			7	7
+474	BRCA2		c.793+46_793+48delGT	p.?	EXON09	Predicted Benign		0		Deletion	Silent	IVS9+46delGT	BIC				4					NM_00059.3			1	1
+475	BRCA1		c.5277+78G>A	p.?	EXON20	Predicted Benign		0		Substitution	Silent	IVS20+78G>A	BIC				4					NM_007294.3			1	1
+476	BRCA2		c.516+102T>C	p.?	EXON06	Predicted Benign		0		Substitution	Silent	IVS6+102T>C	BIC				4					NM_00059.3			1	1
+477	BRCA2		c.2397_2422dup	p.Leu809ValfsX10	EXON11	Predicted Pathogenic		0		Duplication	Frameshift - Out of Frame	2625dup26	BIC				2					NM_00059.3			1	1
+478	BRCA1		c.548-34T>C	p.?	EXON09	Predicted Benign		0		Substitution	Silent	IVS8-34T>C	BIC				4					NM_007294.3			1	1
+479	BRCA1		c.212+4T>C	p.?	EXON05	VUS		0		Substitution	Silent	IVS5+4T>C	BIC				3					NM_007294.3			1	1
+481	BRCA1		c.68_69delAG	p.Glu23ValfsX17	EXON02	Pathogenic		0		Deletion	Frameshift - Out of Frame	185delAG	BIC				1					NM_007294.3	Pathogenic	2013/05/24 12:13:56 PM	3	3
+483	BRCA2		c.5946delT	 p.Ser1982ArgfsX22	EXON11	Pathogenic	OVARIAN	0		Deletion	Frameshift - Out of Frame	6174delT	BIC				1					NM_00059.3	Pathogenic	2012/08/16 12:50:06 PM	25	18
+485			c.835C>G	p.Lys279Val	5	Polymorphism		0																	0	0
+486			c.1293G>A	p.Met431Ile	9	VUS		0																	0	0
+487	MLH1		c.1852_1853delinsGC	p.Lys618Ala	16	VUS		0														NM_000249.2	Predicted Benign		3	3
+488			c.4384_4385del	"p.Lys1462GlyfsX11 ""TAA"" [STOP] at n.4415_4417"	15	Pathogenic		0																	0	0
+489	MUTYH		c.1014G>C	p.Gln338His	EXON12	VUS	FAP	0		Substitution	Missense	"c.972G>C, p.Gln324His"								rs3219489		NM_001128425.1	Benign	2012/02/04 5:05:22 PM	0	0
+490	MUTYH		c.1585C>A	p.Leu529Met	16	VUS		0														NM_001128425.1			0	0
+491	MUTYH		c.64G>A	p.Val22Met	EXON04	Polymorphism	COLON	0		Substitution	Missense									rs3219484		NM_001128425.1	Benign	2012/04/20 12:13:52 PM	0	0
+492	MUTYH		c.536A>G	p.Tyr179Cys	EXON07	Pathogenic	COLON	0		Substitution	Missense	"c.494A>G, p.Tyr165Cys"								rs34612342		NM_001128425.1	Pathogenic	2012/03/31 4:48:20 PM	14	12
+493	MUTYH		c.1187G>A	p.Gly396Asp	EXON13	Pathogenic	COLON	0		Substitution	Missense	"c.1145G>A, p.Gly382Asp"	NM_001048171.1				1			rs36053993	0.009+/-0.065	NM_001128425.1	Pathogenic	2012/03/06 6:12:38 PM	14	11
+494	MUTYH		c.586G>T	p.Glu196X	8	Pathogenic		0														NM_001128425.1			1	1
+495	APC		c.423-16del		4	Polymorphism		0														NM_000038.4			0	0
+496	APC		c.2895-2896del	"p.Asn965LysfsX4""TAG""[STOP]at nt:2904-2906"""	15	Pathogenic		0														NM_000038.4			1	1
+498	APC		c.1635G>A	Ala545Ala	13	Polymorphism	COLON	0		Substitution	Silent									rs351771	0.479+/-0.099	NM_000038.4	Benign	2012/04/20 7:50:02 AM	0	0
+499	APC		c.994C>T	p.Arg332X	9	Pathogenic		0														NM_000038.4	Pathogenic		4	4
+500	MSH6		c.540T>C	p.=	EXON03	Polymorphism		0		Substitution	Silent											NM_000179.2	Benign	2012/09/14 2:24:46 PM	37	37
+501	MSH6		c.642C>T	p.=	EXON04	Polymorphism	COLON	0		Substitution	Missense									 rs1800937	0.050	NM_000179.2	Benign	2012/11/05 10:35:58 AM	13	13
+502	MSH6		c.3439+14A>T		5	Polymorphism		0														NM_000179.2			0	0
+503	APC		c.3927_3931del	"p.Glu1309AspfsX4""TAG""[STOP]at nt:3939_3941"	EXON15	Pathogenic		0		Deletion	Frameshift - Out of Frame											NM_000038.4	Pathogenic	2013/01/18 12:14:30 PM	11	8
+508	APC		1467_147	"T489Xfs ""TAA"" [STOP] at nucleotides 1490_1492"		Pathogenic		0														NM_000038.4			1	1
+509	APC		1495C>A 	R499X		Pathogenic		0														NM_000038.4			1	1
+510	APC		1495C>T 	R499X		Pathogenic		0														NM_000038.4			2	2
+511	APC		1605_1606del	"S535Xfs ""TGA"" [STOP] at nucleotides 1611_1613"		Pathogenic		0														NM_000038.4			3	3
+512	APC		1620_162	"Q541Xfs ""TAG"" [STOP] at nucleotides 1674_1676"		Pathogenic		0														NM_000038.4			1	1
+513	APC		1673_168	"N558Xfs ""TAA"" [STOP] at nucleotides 1737_1739"		Pathogenic		0														NM_000038.4			1	1
+514	APC		1692C>T 	R564X		Pathogenic		0														NM_000038.4			1	1
+515	APC		1779G>A 	W593X		Pathogenic		0														NM_000038.4			1	1
+516	APC		1866C>T 	Y622X		Pathogenic		0														NM_000038.4			1	1
+517	APC		190G>T 	G64X		Pathogenic		0														NM_000038.4			1	1
+518	APC		c.1959G>A	p.Arg653Arg	EXON15	Pathogenic	COLON	0		Substitution	Silent									 rs72541809		NM_000038.4	Benign	2013/01/21 10:39:36 AM	2	2
+519	APC		2093T>G	L698X		Pathogenic		0														NM_000038.4			1	1
+520	APC		2292_229	"L764Xfs ""TGA"" [STOP] at nucleotides 2319_2321"		Pathogenic		0														NM_000038.4			1	1
+521	APC		2413C>T 	R805X		Pathogenic		0														NM_000038.4			1	1
+522	APC		2543_254	"K848Xfs ""TAG"" [STOP] at nucleotides 2547_2549"		Pathogenic		0														NM_000038.4			1	1
+523	APC		2547_255	"N849Xfs, ""TAG"" [STOP] at nucleotides 2579_2581"		Pathogenic		0														NM_000038.4			1	1
+524	APC		2626C>T 	R876X		Pathogenic		0														NM_000038.4			5	5
+525	APC		2802_280	"T934Xfs ""TAG"" [STOP] at nucleotides 2861_2863"		Pathogenic		0														NM_000038.4			1	1
+526	APC		c.2805C>A	p.Tyr935X	15	Pathogenic		0														NM_000038.4			2	1
+527	APC		2805C>G 	Y935X		Pathogenic		0														NM_000038.4			2	2
+528	APC		2819delC	"S940Xfs ""TAG"" [STOP] at nucleotides 2861_2863"		Pathogenic		0														NM_000038.4			1	1
+529	APC		c.288T>A	p.Tyr96X		Pathogenic		0														NM_000038.4	Pathogenic	2012/05/28 10:14:29 AM	13	12
+530	APC		2995C>T 	Q999X		Pathogenic		0														NM_000038.4			2	2
+531	APC		3124_312	"S1042Xfs, ""TGA"" [STOP] at nucleotides 3138_3140"		Pathogenic		0														NM_000038.4			1	1
+532	APC		3141_314	"E1047Xfs, ""TAA"" [STOP] at nucleotides 3164_3166"		Pathogenic		0														NM_000038.4			1	1
+533	APC		3183_3187	"K1061Xfs ""TGA"" [STOP] at nucleotides 3189_3191"		Pathogenic		0														NM_000038.4			0	0
+534	APC		c.3183_3187delACAAA	p.Gln1062X	EXON18	Pathogenic	COLON	0		Deletion	Frameshift - Out of Frame											NM_000038.4	Pathogenic	2012/04/19 9:41:36 AM	5	5
+535	APC		3263_326	"K1088Xfs ""TAA"" [STOP] at nucleotides 3351_3353"		Pathogenic		0														NM_000038.4			1	1
+536	APC		3454C>T 	Q1152X		Pathogenic		0														NM_000038.4			1	1
+537	APC		3497_350	"Y1166Xfs ""TGA"" [STOP] at nucleotides 3496_3503"		Pathogenic		0														NM_000038.4			1	1
+538	APC		3542T>A 	L1181X		Pathogenic		0														NM_000038.4			1	1
+539	APC		3544_354	"K1182Xfs, ""TAA"" [STOP] at nucleotides 3618_3620"		Pathogenic		0														NM_000038.4			1	1
+540	APC		3577_357	"Q1193Xfs, ""TAA"" [STOP] at nucleotides 3618_3620"		Pathogenic		0														NM_000038.4			1	1
+541	APC		3595_359	"K1199Xfs, ""TAA"" [STOP] at nucleotides 3616_3618"		Pathogenic		0														NM_000038.4			1	1
+542	APC		3766C>T 	Q1256X		Pathogenic		0														NM_000038.4			1	1
+543	APC		3771_377	"Q1257Xfs, ""TAG"" [STOP] at nucleotides 3822_3824"		Pathogenic		0														NM_000038.4			1	1
+544	APC		3807_380	"I1269Xfs, ""TAG"" [STOP] at nucleotides 3822_3824"		Pathogenic		0														NM_000038.4			1	1
+545	APC		392_393	"T131Xfs ""TGA"" [STOP] at nucleotides 411_413"		Pathogenic		0														NM_000038.4			1	1
+546	APC		3926_393	"G1309Xfs ""TAG"" [STOP] at nucleotides 3939_3941"		Pathogenic		0														NM_000038.4			7	7
+547	APC		3926_393	"G1309Xfs, ""TAG"" [STOP] at nucleotides 3939_3941"		Pathogenic		0														NM_000038.4			7	7
+548	APC		3927_393	"E1309Xfs ""TAG"" [STOP] at nucleotides 3939_3941"		Pathogenic		0														NM_000038.4			5	5
+549	APC		3927_3931delAAAGA	"G1309Xfs ""TAG"" [STOP] at nucleotides 3939_3941"		Pathogenic		0														NM_000038.4			1	1
+550	APC		3927_393	"G1309Xfs,  ""TAG"" [STOP] at nucleotides 3939_3944"		Pathogenic		0														NM_000038.4			5	5
+551	APC		3927_3931del	Glu1309Asp fsX4	15	Pathogenic		0														NM_000038.4			3	3
+552	APC		3927_393	"Q1309Xfs, ""TAG"" [STOP] at nucleotides 3939_3941"		Pathogenic		0														NM_000038.4			5	5
+553	APC		4022_402	"S1341Xfs, ""TGA"" [STOP] at nucleotides 4056_4058"		Pathogenic		0														NM_000038.4			1	1
+554	APC		4164T>A 	C1388X		Pathogenic		0														NM_000038.4			1	1
+555	APC		423_729de	"R141Xfs ""TGA"" [STOP] at nucleotides 875_877"		Pathogenic		0														NM_000038.4			3	3
+556	APC		426_427	"S142Xfs ""TGA"" [STOP] at nucleotides 438_440"		Pathogenic		0														NM_000038.4			1	1
+557	APC		4353del 	"E1451Xfs, ""TAA"" [STOP] at nucleotides 4415_4417"		Pathogenic		0														NM_000038.4			1	1
+558	APC		4391_439	"Q1464Xfs, ""TAA"" [STOP] at nucleotides 4415_4417"		Pathogenic		0														NM_000038.4			1	1
+559	APC		4396_4397delAG	"S1466fs ""TAA"" [STOP] at nucleotides 4404_4406"		Pathogenic		0														NM_000038.4			1	1
+560	APC		4404_441	"K1468Xfs ""TGA"" [STOP] at nucleotides 4455_4457"		Pathogenic		0														NM_000038.4			1	1
+561	APC		4405C>T 	Q1469X		Pathogenic		0														NM_000038.4			1	1
+562	APC		4609G>T 	E1537X		Pathogenic		0														NM_000038.4			1	1
+563	APC		4660G>T 	E1554X		Pathogenic		0														NM_000038.4			3	3
+564	APC		4670_467	"T1557Xfs ""TGA"" [STOP] at nucleotides 4674_4676"		Pathogenic		0														NM_000038.4			1	1
+565	APC		4671del 	"I1557Xfs ""TAG"" [STOP] at nucleotides 4691_4693"		Pathogenic		0														NM_000038.4			3	2
+566	APC		4671del 	"I1557Xfs, ""TAG"" [STOP] at nucleotides 4691_4693"		Pathogenic		0														NM_000038.4			3	2
+567	APC		4699_470	"S1567Xfs, ""TGA"" [STOP] at nucleotides 4704_4706"		Pathogenic		0														NM_000038.4			1	1
+568	APC		4726G>T 	E1576X		Pathogenic		0														NM_000038.4			1	1
+569	APC		4735_4736del	"C1579Xfs ""TAA"" [STOP] at nucleotides 4770_4772"		Pathogenic		0														NM_000038.4			1	1
+570	APC		487C>T 	Gln163X		Pathogenic		0														NM_000038.4			2	2
+571	APC		502del 	"R168Xfs ""TAG"" [STOP] at nucleotides 506_508"		Pathogenic		0														NM_000038.4			1	1
+572	APC		539T>A 	L180X		Pathogenic		0														NM_000038.4			2	2
+573	APC		5541del 	"T1847Xfs, ""TGA"" [STOP] at nucleotides 5585_5587"		Pathogenic		0														NM_000038.4			2	2
+574	APC		562C>T 	Q188X		Pathogenic		0														NM_000038.4			1	1
+575	APC		56bp ins (at cDNA level only; Exon 4/5	"N177Xfs ""TGA"" [STOP] at nucleotides 551_553"		Pathogenic		0														NM_000038.4			1	1
+576	APC		6061_606	"C2021Xfs ""TAA"" [STOP] at nucleotides 6131_6133"		Pathogenic		0														NM_000038.4			1	1
+577	APC		646C>T 	R216X		Pathogenic		0														NM_000038.4			3	3
+578	APC		667C>T 	Q223X		Pathogenic		0														NM_000038.4			1	1
+579	APC		694C>T 	R232X		Pathogenic		0														NM_000038.4			5	5
+580	APC		839C>G 	S280X		Pathogenic		0														NM_000038.4			1	1
+581	APC		847C>T 	R283X		Pathogenic		0														NM_000038.4			2	2
+582	APC		937_938	"E313Xfs ""TGA"" [STOP] at nucleotides 975_977"		Pathogenic		0														NM_000038.4			1	1
+583	APC		937_938del	"E313Xfs ""TGA"" [STOP] at nucleotides 975_977"		Pathogenic		0														NM_000038.4			1	1
+584	APC		c.1-?_1408+?del	Promoter 1A to Exon 10 deleted		Pathogenic		0														NM_000038.4			2	2
+585	APC		c.1213C	p.Arg405X		Pathogenic		0														NM_000038.4			1	1
+586	APC		c.1312+	"p.Val312CysfsX16 ""TAA"" [STOP] at n. 1358_1360"		Pathogenic		0														NM_000038.4			1	1
+587	APC		c.1495C>	p.Arg499X		Pathogenic		0														NM_000038.4			1	1
+588	APC		c.1787C>G	p.Ser596X	14	Pathogenic		0														NM_000038.4			7	7
+589	APC		c.1959-6			Pathogenic		0														NM_000038.4			1	1
+590	APC		c.1973_1	"p.Glu658GlufsX14 ""TAG"" [STOP] at n.2016_2018"		Pathogenic		0														NM_000038.4			1	1
+591	APC		c.1993_1	"p.Leu665IlefsX8 ""TAG"" [STOP] at n.2016_2018"		Pathogenic		0														NM_000038.4			1	1
+592	APC		c.2031_2	"p.Asn679MetfsX38 ""TGA"" [STOP] at n.2150_2152"		Pathogenic		0														NM_000038.4			1	1
+593	APC		c.221-2	Predicted splice site mutation		Pathogenic		0														NM_000038.4			1	1
+594	APC		c.2344A>	p.Lys782X		Pathogenic		0														NM_000038.4			2	2
+595	APC		c.2394_2	"p.Tyr799LeufsX4 ""TGA"" [STOP] at n.2403_2405"		Pathogenic		0														NM_000038.4			1	1
+596	APC		c.288T>A	p.Tyr96X	3	Pathogenic		0														NM_000038.4	Pathogenic	2012/05/28 10:14:29 AM	13	12
+597	APC		c.2895_2896del	"p.Asn965LysfsX3 ""TAG"" [STOP] at n.2904_2906"		Pathogenic		0														NM_000038.4			5	5
+598	APC		c.3067_3068insA	"p.Thr1023AsnfsX5 ""TAG"" [STOP] at n.3081_3083"		Pathogenic		0														NM_000038.4			1	1
+599	APC		c.3147G>	p.Trp1049X		Pathogenic		0														NM_000038.4			1	1
+600	APC		c.3181_3	"p.Lys1061delfsX3 ""TGA"" [STOP] at n. 3189_3191"		Pathogenic		0														NM_000038.4			1	1
+601	APC		c.3471in	"p.Arg1158GlufsX6 ""TAG"" [STOP] at n.3486_3488"		Pathogenic		0														NM_000038.4			1	1
+602	APC		c.3682C>	p.Gln1228X		Pathogenic		0														NM_000038.4			1	1
+603	APC		c.3827_3829delinsA	"p.Ser1276TyrfsX8 ""TGA"" [STOP] at n. 3849_3851"		Pathogenic		0														NM_000038.4			2	2
+604	APC		c.387in	"p.Ser130LysfsX9 ""TGA"" [STOP] at n.411_413"		Pathogenic		0														NM_000038.4			1	1
+605	APC		c.3920T>	p.Ile1307Lys		Pathogenic		0														NM_000038.4			1	1
+606	APC		c.3925_3	"p.Glu1309AspfsX4 ""TAG"" [STOP] at n.3939_3941"		Pathogenic		0														NM_000038.4			1	1
+607	APC		c.3927_3931delAAAGA	p.p.Glu1309AspfsX4	15F	Pathogenic		0														NM_000038.4			4	4
+608	APC		c.423	"p.Arg141SerfsX8 ""TGA"" [STOP] at n.551_553"		Pathogenic		0														NM_000038.4			2	2
+609	APC		c.423	Predicted splice defect		Pathogenic		0														NM_000038.4			2	2
+610	APC		c.423-1	"p.Arg141SerfsX7 ""TGA"" [STOP] at n.551_553"		Pathogenic		0														NM_000038.4			2	2
+611	APC		c.426_4	"p.Ser1425SerfsX5 ""TGA"" [STOP] at n. 438_440"		Pathogenic		0														NM_000038.4			3	3
+612	APC		c.426_4	"p.Ser142SerfsX3, ""TGA"" [STOP] at n.438_440"		Pathogenic		0														NM_000038.4			3	3
+613	APC		c.449_4	"p.Lys147ArgfsX17 ""TAA"" [STOP] at n.498_500"		Pathogenic		0														NM_000038.4			1	1
+614	APC		c.4645C>	p.Gln1549X		Pathogenic		0														NM_000038.4			1	1
+615	APC		c.5017G>T	p.Glu1673X		Pathogenic		0														NM_000038.4			7	6
+616	APC		c.547_5	"p.Ser183TyrfsX9 ""TGA"" [STOP] at n.573_575"		Pathogenic		0														NM_000038.4			1	1
+617	APC		c.637C>	p.Arg213X		Pathogenic		0														NM_000038.4			1	1
+618	APC		c.646C>	p.Arg216X		Pathogenic		0														NM_000038.4			1	1
+619	APC		c.730-1G>C	"p.Arg244ValfsX7 ""TGA"" [STOP] at n.750_752"		Pathogenic		0														NM_000038.4			6	6
+620	APC		Deletion in promoter region			Pathogenic		0														NM_000038.4			1	1
+621	APC		EX11del	Deletion of Exon 11		Pathogenic		0														NM_000038.4			1	1
+622	APC		EX4_5del	Deletion of Exons 4 and 5		Pathogenic		0														NM_000038.4			1	1
+623	APC		EX7_15del	Deletion of Exons 7 to 15		Pathogenic		0														NM_000038.4			1	1
+624	APC		IVS14+3A>T	Splice site defect		Pathogenic		0														NM_000038.4			2	2
+625	APC		IVS3-1G>A	"EX4del; R141Xfs ""TGA"" [STOP] at n. 551_553"		Pathogenic		0														NM_000038.4			20	20
+626	APC		IVS3-1G>A	"EX4del; R141Xfs ""TGA""[STOP] at nucleotides 551_553"		Pathogenic		0														NM_000038.4			20	20
+627	APC		IVS3-1G>A	Predicted Exon 4 deletion		Pathogenic		0														NM_000038.4			20	20
+628	APC		IVS4+1G>A	Splice donor site mutation		Pathogenic		0														NM_000038.4			1	1
+629	APC		IVS6-1G>C	"R244Xfs, [TGA] STOP at nucleotides 750_752"		Pathogenic		0														NM_000038.4			2	2
+630	APC		Promoter 1A deleted			Pathogenic		0														NM_000038.4			1	1
+631	APC		Promoter 1A to  Exon 10 deleted			Pathogenic		0														NM_000038.4			1	1
+632	EPCAM		 8_9 and downstream deletion		"8, 9 and downstream"	Pathogenic		0																	2	2
+633	MUTYH		c.[1014G>C]	p.Gln338His	12	VUS		0														NM_001128425.1			0	0
+634	MUTYH		c.1012C>T	p.Gln338X	12	Pathogenic		0														NM_001128425.1			1	1
+636	MYH		c.1147del	p.Ala385ProfsX23	EXON12	Pathogenic	COLON	0		Deletion	Frameshift - Out of Frame	"c.1105delC, p.Ala371ProfsX23"										NM_001128425.1	Pathogenic	2012/09/24 12:27:48 PM	1	1
+637	MUTYH		c.1186+1G>A	Splice site defect		Pathogenic		0														NM_001128425.1			0	0
+640	MUTYH		c.309G>A	p.Trp103X		Pathogenic		0														NM_001128425.1			1	1
+641	MUTYH		c.509G>A	p.Trp170X		Pathogenic		0														NM_001128425.1			0	0
+644	MUTYH		c.616A>G	p.Ala220Thr		VUS		0														NM_001128425.1			0	0
+645	MYH		c.643G>A	p.Val215Met		Pathogenic		0														NM_001128425.1			1	1
+647	MYH		c.713A>G	p.Asn238Ser	EXON09	VUS	COLON	0		Substitution	Missense											NM_001128425.1	Predicted Pathogenic	2012/10/23 1:57:54 PM	1	1
+648	MUTYH		c.721C>T	p.Arg241Trp		Pathogenic		0														NM_001128425.1			0	0
+649	MUTYH		c.734G>A	p.Arg245His		Pathogenic		0														NM_001128425.1			1	1
+650	MUTYH		c.884C>T	p.Pro295Leu		Pathogenic		0														NM_001128425.1			1	1
+654	APC		c.2895-2896del	"p.Asn965LysfsX4""TAG""[STOP]at nt:2904-2906"""	15	Pathogenic		0														NM_000038.4			1	1
+656	APC		c.4384_4385del	"p.Lys1462GlyfsX11 ""TAA"" [STOP] at n.4415_4417"	15	Pathogenic		0														NM_000038.4			2	2
+657	MLH1		c.1852_1853delinsGC	p.Lys618Ala	16	VUS		0														NM_000249.2	Predicted Benign		3	3
+658	MLH1		c.1852_1853delinsGC	p.Lys618Ala	EXON16	VUS	COLON	0		Indel	Missense											NM_000249.2	Predicted Benign		3	3
+659	MUTYH		c.1585C>A	p.Leu529Met	16	VUS		0														NM_001128425.1			0	0
+660	MLH1		c.2174G>A	p.Arg725His	19	VUS		0														NM_000249.2			3	3
+663	APC		c.423-16del		4	Polymorphism		0														NM_000038.4			0	0
+664	MSH6		c.3438+14A>T		EXON05	Polymorphism		0		Substitution	Intronic											NM_000179.2	Benign	2012/09/14 2:26:10 PM	51	51
+665	MSH6		c.3439+14A>AT		5	Polymorphism		0														NM_000179.2			0	0
+666	MSH6		c.3439+14A>T		5	Polymorphism		0														NM_000179.2			0	0
+668	MLH1		c.655A>G	p.Ile219Val	EXON08	Polymorphism		0		Substitution	Missense									rs1799977		NM_000249.2	Benign	2012/04/05 7:23:26 PM	36	36
+669	MUTYH		c.586G>T	p.Glu196X	8	Pathogenic		0														NM_001128425.1			1	1
+670	APC		c.1293G>A	p.Met431Ile	9	VUS		0														NM_000038.4			0	0
+671	APC		c.1293G>A	p.Met431Ile	9	VUS		0														NM_000038.4			0	0
+672	APC		c.994C>T	p.Arg332X	EXON09	Pathogenic	COLON	0		Substitution	Nonsense											NM_000038.4	Pathogenic		4	4
+673	MLH1		c.1668-19A>G		IVS14	Polymorphism		0														NM_000249.2			0	0
+674	MSH2		c.942+3A>T	p.Val265_Gln314del	EXON05	Pathogenic	COLON	0		Deletion	Frameshift - In-Frame	Inframe deletion of Exon 5										NM_000251.1	Pathogenic	2012/03/18 1:23:03 PM	19	16
+675	MSH2		c.835C>G	p.Leu279Val	5	VUS		0														NM_000251.1			1	1
+676	APC		c.120G>GA	p.Glu40GluGlu	1	VUS		0														NM_000038.4			0	0
+677	APC		c.423-?_729+?del	"p.Arg142GlyfsX58""TAG""[STOP] at nt:875_877"	4_6			0														NM_000038.4			2	2
+679	MLH1		c.1558+1G.A	splice site defect	IVS13	Pathogenic		0														NM_000249.2			0	0
+680	MSH6		c.116G>A	p.Gly39Glu	EXON01	VUS	COLON	0		Substitution	Missense						4			rs1042821	0.307+/-0.243	NM_000179.2	Benign	2012/04/22 11:16:21 AM	38	38
+681	MLH1		c.790+1G>A	predicted splice defect	9	Pathogenic		0														NM_000249.2			2	2
+682	MLH1		c.2001C>T	p.Asp667Asp	18	Polymorphism		0														NM_000249.2			0	0
+683	MUTYH		c.1544C>T	p.Ser515Phe	16	VUS	FAP	0		Substitution	Missense									rs140118273		NM_001128425.1	Benign	2012/01/31 10:52:42 AM	1	1
+684			C.687_688insA	p.Asp231X 'TGA' nt690_692	4	Pathogenic		0																	0	0
+685	MSH2		c.687_688insA	p.Asp231X 'TGA' nt 690_692	4	Pathogenic		0														NM_000251.1			3	2
+686	MLH1		c.2038T>C	p.Cys680Arg	EXON18	VUS	COLON	0		Substitution	Missense											NM_000249.2	Pathogenic	2012/05/08 9:51:02 AM	1	1
+687	MSH2		c.731T>C	p.Leu244Ser	4	VUS		0														NM_000251.1			1	1
+688	MSH2		c.984C>T	p.Ala328Ala	6	Polymorphism		0														NM_000251.1			3	0
+689	MSH2		c.1661+12G>A	r.?	EXON10	Polymorphism	ENDOMETRIAL	0		Substitution	Intronic									rs3732183		NM_000251.1	Benign	2012/08/13 8:47:57 AM	32	32
+690	MUTYH		c.718G>A	p.Ala240Thr	9	VUS		0														NM_001128425.1			1	1
+691	MSH2		c.211+9C>G		EXON01	Polymorphism	COLON	0		Substitution	Intronic									rs2303426	0.488+/-0.075	NM_000251.1	Benign	2012/09/14 2:18:59 PM	47	47
+692	MSH2		c.1511-9A>T		EXON10	Polymorphism	COLON	0		Substitution										rs12998837	~10%	NM_000251.1	Benign	2012/10/24 11:52:03 AM	16	16
+693	MLH1		c.2268del+38_+40 CTT		19	Polymorphism		0														NM_000249.2			0	0
+694	MSH6		c.3519_3522dupGTTT	p.Thr1175ValfsX 'TGA' nt 3525_3527	6	Pathogenic		0														NM_000179.2			1	1
+695	MLH1		c.116+3A>G	predicted splice site defect	1	Pathogenic	COLON	0		Substitution												NM_000249.2	Predicted Pathogenic	2012/11/13 1:49:50 PM	3	2
+696	MSH6		c.3439-16C>T		6	Polymorphism		0														NM_000179.2			0	0
+697	APC		c.841A>AG	p.T281TA	Exon 8	Polymorphism		0														NM_000038.4			0	0
+698			c.793C>T	p.Arg265Cys	10	Pathogenic		0																	0	0
+699	MLH1		c.793C>T	p.Arg265Cys	EXON10	Pathogenic	COLON	0		Substitution	Missense									rs63751194		NM_000249.2	Pathogenic	2012/10/17 3:03:37 PM	6	6
+700	MLH1		c.2103+1G>A	predicted splice defect	18	Pathogenic		0														NM_000249.2			2	2
+702	APC		C.156delA	p.Gly53GlnfsX17	2			0														NM_000038.4			1	1
+703	MLH1		c.1852_1854delAAG	p.Lys618del	16	Pathogenic		0														NM_000249.2			4	4
+704	MSH2		c.943-?_1076+?del	p.Gly315_Arg359del>IlefsX29 TAA nt.1161-1163	6	Pathogenic		0														NM_000251.1			2	1
+705	MSH2		c.1-?_1386+?del	p.?	EXON01_EXON08	Pathogenic	COLON	0		Deletion	Frameshift - Out of Frame	p.Met1_Gln462del	Alamut									NM_000251.1	Pathogenic	2012/06/26 5:22:37 PM	10	6
+706	MSH2		c.2075G>T	p.Gly692Val	13	VUS		0		Substitution	Missense									 rs63751432		NM_000251.1	Pathogenic	2012/02/15 4:48:25 PM	6	5
+707	MSH2		c.2425G>T	p.Glu809X	14	Pathogenic		0														NM_000251.1			2	2
+708	MLH1		c.1769T>G	p.Leu590X	16	Pathogenic		0														NM_000249.2			4	4
+709	APC		c.2950G>T	p.Glu984X		Pathogenic		0														NM_000038.4			2	2
+710	MLH1		c.826_830delATAGA	p.Thr278AsnXfs 'TAA' nt.915_917	10	Pathogenic		0														NM_000249.2			1	1
+711	APC		c.705A>G	p.Leu235Leu	EXON06	VUS	COLON	0		Substitution	Missense											NM_000038.4	Benign	2013/02/04 1:07:44 PM	1	1
+712	MUTYH		c.998-27G>A	p.=	12	VUS		0														NM_001128425.1			0	0
+713	MUTYH		c.505-4A>G	? Splice defect	7	VUS		0														NM_001128425.1			1	1
+714	MLH1		c.908_909delTG	p. Asp654Cys fsX2 TAA nt. 915_917	11	Pathogenic		0														NM_000249.2			1	1
+715	MSH2		c.1760-?_2458+?del	r.(?)	EXON12_14	Pathogenic	COLON	0		Deletion		p.Gly587_Gly820delinsGly	Alamut									NM_000251.1	Pathogenic	2013/05/07 2:52:31 PM	2	2
+716	MLH1		c.544A>G	p.Val153Val fsX9 TAG nt.570_572	6	Pathogenic		0														NM_000249.2			3	3
+717	MLH1		c.2041G>A	p.Ala681Thr	18	VUS		0		Substitution	Missense									 rs.63750217		NM_000249.2	Predicted Pathogenic	2012/11/12 1:21:12 PM	4	3
+718	MLH1		c.1989G>T	p.Glu663Asp	EXON17	VUS		0														NM_000249.2			1	1
+719	MSH6		c.3439-1G>T	predicted splice site defect	IVS5	Pathogenic		0														NM_000179.2			1	1
+720	MSH6		c.186C>A	Arg62Arg	EXON01	Polymorphism		0		Substitution	Silent											NM_000179.2	Benign	2012/09/14 2:22:10 PM	23	23
+721	MSH6		c.276A>G	Pro92Pro	EXON02	Polymorphism		0		Substitution	Silent											NM_000179.2	Benign	2012/09/14 2:23:19 PM	26	26
+722	MSH6		c.2731C>T	Arg911X	4	Pathogenic	COLON	0		Substitution	Nonsense											NM_000179.2	Pathogenic	2012/10/23 10:12:53 AM	4	3
+723	MSH6			Ala1320Ser fsX11 TGA nt.3988_3990	9	Pathogenic		0														NM_000179.2			0	0
+724	MSH6		c.10C>T	Gln4X	1	Pathogenic		0														NM_000179.2			1	1
+725	MSH6		c.3801+52insT		IVS8	Polymorphism		0														NM_000179.2			0	0
+726	MSH6		c.3717A>T	Ile1239Ile	8	Polymorphism		0														NM_000179.2			0	0
+727	MSH6		c.2633T>C	p.Val878Ala	EXON04	VUS	COLON	0		Substitution	Missense									rs2020912		NM_000179.2	Predicted Benign	2012/11/29 4:32:06 PM	5	5
+728	MSH2		c.2152 C>T	p.Gln718X	13	Pathogenic		0														NM_000251.1			1	1
+729	MSH2		c.1165 C>T	p.Arg389X	7	Pathogenic	COLON	0		Substitution	Nonsense											NM_000251.1	Pathogenic	2013/05/08 11:53:56 AM	6	5
+730	MSH2		c.573 C>T	p.Leu191Leu	3	Polymorphism		0														NM_000251.1			0	0
+731	MSH2		c.965G>A	p.Gly322Asp	EXON06	VUS	COLON	0		Substitution	Missense									 rs4987188		NM_000251.1	Benign	2012/04/10 9:37:17 AM	3	3
+732	MSH2		c.2006-6T>C		13	Polymorphism		0		Substitution										rs2303428	0.368+/-0.220	NM_000251.1	Benign	2012/11/12 10:36:43 AM	10	10
+733	MSH6		c.1-?_260+?del	exon 1 deletion	1	Pathogenic		0														NM_000179.2			4	2
+734	MSH6		c.260+22C>G		1	Polymorphism		0														NM_000179.2			0	0
+735	MSH6		c.3557-18delG		7			0														NM_000179.2			0	0
+736	MSH6		c.3556+146G>A		6			0														NM_000179.2			0	0
+737	MSH6		c.3646+29_32delCTAT		7			0														NM_000179.2			0	0
+738	MSH6		c.4002-27delT		10	Polymorphism		0														NM_000179.2			0	0
+739	MSH6		c.3802-40C>G		8	Polymorphism		0														NM_000179.2			0	0
+740	MSH2		c.1882G>T	p.Gly628X	12	Pathogenic		0														NM_000251.1			2	1
+741	MLH1		c.306G>T	p.Glu102Asp	EXON03	Pathogenic	COLON	0		Substitution	Missense											NM_000249.2	Pathogenic	2012/05/01 5:16:31 PM	8	6
+742	MSH2		c.1705_1706delGA	"p.Glu569IlefsX2""TGA""[STP]at nt:c17110_1712"	11	Pathogenic		0														NM_000251.1			1	1
+743	MLH1		c.760+4A>G	Splicing defect	9	Pathogenic		0														NM_000249.2			0	0
+744	MSH2		c.2005+3del11	Splice Defect of Exon 12	12			0														NM_000251.1			0	0
+745	MUTYH		c.1145delC	"p.Ala385Profsx23""TGA""[STP]at c.1220_1222	Negative"	12			0														NM_001128425.1			0	0
+746	MLH1		c.1219C>T	p.Gln407X	12	Pathogenic		0														NM_000249.2			2	2
+747	MLH1		c.1355_1356insA	"p.Thr455Aspfsx24""TGA""[STP]at nt:1431_1433"	12	Pathogenic		0														NM_000249.2			1	1
+748	MLH1		c.298C>T	p.Arg100STP	3	Pathogenic		0														NM_000249.2			2	2
+749	MSH2		c.1277-?_1386+?del	p.Lys427GlyfsX4	8	Pathogenic		0														NM_000251.1			28	22
+750	MLH1		c.1831_1832delAT	"p.Ile611CysfsX2:TGA""[STP]nt:1836_1838"	16	Pathogenic		0														NM_000249.2			3	3
+751	MLH1		c.1975C>T	p.Arg659X	17	Pathogenic		0														NM_000249.2			4	3
+752	MSH2		c.645+1G>A	p.Ala123_Gln215del	3	Pathogenic		0														NM_000251.1			3	3
+753	MLH1		c.1217_23dupGTCAGCC	"p.Gln409fsX11""TAA"" [STP] at nt:1245_1247"	12	Pathogenic		0														NM_000249.2			1	1
+754	MSH6		c.3557-16delT		7	polymorphism		0														NM_000179.2			0	0
+755	MSH6		c.2910G>A	p.Trp970X	4	Pathogenic		0														NM_000179.2			4	2
+756	MSH2		c.1680_1681insGA	p.Glu561Met fsX TAG nt. 1766_1768	11	Pathogenic		0														NM_000251.1			1	1
+757	MLH1		c.995insA	p.Lys333Gln fsX29 TAA nt. 1080-1082	11	Pathogenic		0														NM_000249.2			1	1
+758	APC		c.1409-?_1626+?del	p.Gly470_Gln542>Gly fsX17 TAG nt.1676_1678	11	Pathogenic		0														NM_000038.4			3	3
+759	MSH2		c.339G>A	p.Lys113Lys	2	Polymorphism		0		Substitution										rs35898375		NM_000251.1			0	0
+760	MSH2		c.1-?_366+?del	p.?	EXON01_EXON02	Pathogenic		0		Deletion	Frameshift - Out of Frame	p.Met1_Lys122del; EX1_EX2del										NM_000251.1	Pathogenic	2012/11/08 2:29:41 PM	1	1
+761	MLH1		c.588delA	p.Lys196AsnfsX6	7	Pathogenic		0														NM_000249.2			1	1
+762	MLH1		c.1918C>T	p.Pro640Ser	EXON17	VUS	COLON	0		Substitution	Missense											NM_000249.2	Pathogenic	2012/04/10 11:26:43 AM	8	8
+764	APC		c.5034G>A	p.Gly1678Gly	15	Polymorphism	COLON	0		Substitution	Silent									 rs42427		NM_000038.4	Benign	2012/04/19 9:37:16 AM	0	0
+765	APC		c.5880G>A	p.Pro1960Pro	15	Polymorphism	COLON	0		Substitution	Silent									 rs465899	0.33	NM_000038.4	Benign	2012/04/20 12:03:32 PM	0	0
+766	APC		c.7201C>T	p.Leu2401Leu	EXON15	Polymorphism	COLON	0		Substitution	Silent									 rs2229994		NM_000038.4	Benign	2013/02/27 3:31:43 PM	2	2
+767	APC		c.3386T>C	p.Leu1129Ser	15	Polymorphism		0														NM_000038.4			0	0
+768	APC		c.685delCinsTT	p.Arg230Ser fsX 22 TGA nt750_752	6	Pathogenic		0														NM_000038.4			2	2
+769	APC		c.1957A>G	predicted splice site defect	14	Pathogenic		0														NM_000038.4			1	1
+770	APC		c.904C>T	p.Arg302X	8	Pathogenic		0														NM_000038.4			4	4
+771	MLH1		c.350C>T	p.Thr117Met	4	Pathogenic		0														NM_000249.2			8	7
+773	MLH1		c.2009_2013delAGGAA	"p.Lys670MetfsX3""TGA""STPat nt:2019_2021"	18	Pathogenic		0														NM_000249.2			1	1
+774	MSH2		c.2228C>G	p.Ser743Stp	14	Pathogenic		0														NM_000251.1			6	5
+775	MSH2		c.659G>A	p.Gly220Glu	4	VUS		0														NM_000251.1			1	1
+776	MSH2		c.2656G>T	p.Glu886X	16	Pathogenic		0														NM_000251.1			4	4
+777	APC		c.2694delT	p.Thr899Pro fsX 17 TGA nt.2744_2746	15	Pathogenic		0														NM_000038.4			2	2
+778	MUTYH		c.312C>T	p.Tyr104Tyr	EXON03	VUS	COLON	0		Substitution	Silent	c.270C>T p.(Tyr90Tyr)										NM_001128425.1	Predicted Benign	2012/06/07 10:52:37 AM	3	3
+779	MSH2		c.1662-?_1759+?del	p.Ser554ArgfsX11	11	Pathogenic		0														NM_000251.1			2	2
+780	MSH2		c.2662C>T	p=	16	Polymorphism		0														NM_000251.1			0	0
+781	MUTYH		c.129C>T	p.Asn43Asn	2	Polymorphism		0														NM_001128425.1			0	0
+782	MSH2		c.1906G>C	p.Ala636Pro	12	Pathogenic	COLON	0		Substitution	Missense									 rs63750875		NM_000251.1	Pathogenic	2012/03/16 1:58:44 PM	5	2
+783	MLH1		c.1731G>A	p.=	15	Pathogenic		0														NM_000249.2			1	1
+784	MSH6		c.3682G>C	p.Ala1228Pro	8	VUS		0														NM_000179.2			2	2
+785	MSH6		c.3354G>A	p.=	5	Polymorphism		0														NM_000179.2			0	0
+786	MSH6		c.3557-17delA		7	Polymorphism		0														NM_000179.2			0	0
+787	APC		c.7525C>T	p.Pro2509Ser	15	Polymorphism		0														NM_000038.4			0	0
+788	MUTYH		c.-127C>T		5' UTR	Polymorphism		0														NM_001128425.1			0	0
+789	MUTYH		c.1276C>T	p.Arg426Cys	EXON13	VUS	COLON	0		Substitution	Missense	"c.1234C>T, R412C"								rs150792276		NM_001128425.1	VUS	2012/04/12 6:27:25 PM	2	2
+790	APC		c.7504G>A	p.Gly2502Ser	15	Polymorphism	COLON	0		Substitution	Missense									rs2229995	0.020	NM_000038.4	Benign	2013/05/09 4:44:30 PM	2	2
+791	APC		c.3529A>G	p.Ile1177Val	15	Polymorphism		0														NM_000038.4			0	0
+792	APC		c.5274T>A	p.Ser1758Ser	15	Polymorphism		0														NM_000038.4			0	0
+793	APC		c.6921G>A	p.Ser2307Ser	EXON15	Polymorphism	COLON	0		Substitution	Silent	EXON18								 rs2229993		NM_000038.4	Predicted Benign	2012/07/19 11:22:41 AM	1	1
+794	APC		c.3725del	p.Gln1242Arg fsX23	15	Pathogenic		0														NM_000038.4			1	1
+795	MSH6		c.3439-2A>G	p.Ala1147Valfsx9	6	Pathogenic		0														NM_000179.2			6	5
+796	MSH2		c.1226_1227delAG	p.Gln409GlufsX7	7	Pathogenic		0														NM_000251.1			1	1
+797	MLH1		c.1963A>G	p.Ile655Val	17	VUS		0														NM_000249.2			1	1
+798	MSH2		c.211+1G>T	r.?	EXON01	Pathogenic		0		Substitution	Silent											NM_000251.1	Pathogenic	2012/11/08 2:28:07 PM	2	1
+799	MSH6		c.3958_3959ins26	p.Ala1320Glu fsX16	9	Pathogenic		0														NM_000179.2			2	2
+800	MLH1		c.794G>C	p.Arg265Pro	10	VUS		0														NM_000249.2			1	1
+801	MSH2		c.1937A>G	p.Asp646Gly	EXON12	VUS	COLON	0		Substitution	Missense									 rs41295290		NM_000251.1	VUS	2012/12/03 1:04:10 PM	1	1
+802	MLH1		c.55A>T	p.Ile19Phe	EXON01	VUS	"COLON, ENDOMETRIAL"	0		Substitution	Missense									 rs63750648		NM_000249.2	Pathogenic	2012/03/07 9:02:14 AM	18	10
+803	MSH2		c.367-?_645+?del	p.?	EXON03	Pathogenic	COLON	0		Deletion	Frameshift - Out of Frame	p.Ala123_Gln215del	Predicted by Alamut									NM_000251.1	Pathogenic	2013/02/27 12:13:36 PM	5	5
+804	MSH6		c.3332_3335dup	p.Asp1112GlufsX2	5	Pathogenic		0														NM_000179.2			2	2
+805	MSH2		p.475dup	p.Arg159Lysfsx19	3	Pathogenic		0														NM_000251.1			2	2
+806	MLH1		c.1459C>T	p.Arg487X	13	Pathogenic		0														NM_000249.2			2	2
+807	MLH1		c.2194A>T	p.Lys732X	19	Pathogenic		0														NM_000249.2			3	3
+808	MLH1		c.1401C>T	p.=	12	Polymorphism		0														NM_000249.2			0	0
+809	MUTYH		c.733C>T	p.Arg245Cys	9	VUS		0														NM_001128425.1			0	0
+811	APC		c.7960del	p.Thr2654GlnfsX6	15	Pathogenic		0														NM_000038.4			4	4
+812	MLH1		c.194G>T	p.Gly65Val	2	VUS		0														NM_000249.2			1	1
+813	MLH1		c.195C>T	p.=	2	Polymorphism		0														NM_000249.2			0	0
+814	MLH1		c.1190del	p.Leu397ArgfsX4	12	Pathogenic		0														NM_000249.2			1	1
+815	APC		c.7514G>A	p.Arg2505Gln	15	VUS		0														NM_000038.4			0	0
+816	APC		c.4326T>A	p.Pro1442Pro	EXON18	Polymorphism	COLON	0		Substitution	Silent									rs67622085		NM_000038.4	Benign	2012/10/25 3:20:33 PM	1	1
+817	APC		c.6694C>G	p.His2232Asp	15	VUS		0														NM_000038.4			0	0
+818	MSH2		c.475dupA	p.Arg159LysfsX19	EXON03	Pathogenic		0		Duplication	Frameshift - Out of Frame											NM_000251.1	Pathogenic	2013/03/05 4:52:56 PM	17	14
+819	MUTYH		c.734G>A	p.Arg245His	9	Pathogenic		0														NM_001128425.1			1	1
+820	MSH2		c.212_366del	p.Ala72PhefsX9	2	Pathogenic		0														NM_000251.1			1	1
+821	MSH6		c.3335_3336insATGA	p.Ile1113MetfsX7	5	Pathogenic		0														NM_000179.2			1	0
+822	MLH1		c.3G>A	p.Met1?	1	Pathogenic		0														NM_000249.2			2	2
+823	MSH2		c.1534_1543del	p.Lys512ProfsX11	10	Pathogenic		0														NM_000251.1			3	2
+824	MSH2		c.1661G>C	p.Gly504_Ser554>AlafsX3	10	Pathogenic		0														NM_000251.1			1	1
+825	MLH1		c.198C>T	p.Thr66Thr	2	Polymorphism		0														NM_000249.2			0	0
+826	MLH1		c.1039-8T>A	p.?	EXON12	VUS	ENDOMETRIAL	0		Substitution	Intronic											NM_000249.2	VUS	2012/12/19 6:13:10 PM	2	2
+827	MLH1		c.1558+14G>A	p.?	EXON13	VUS	COLON	0		Substitution	Intronic									41562513	0.05	NM_000249.2	Benign	2012/11/30 3:45:43 PM	12	12
+828	MLH1		c.1151T>A	p.Val384Asp	12	VUS		0		Substitution	Missense											NM_000249.2	Predicted Benign	2012/11/12 1:31:48 PM	2	2
+829	MLH1		c.2048_2050delTCT	p.Phe683del	EXON18	VUS	"COLON, ENDOMETRIAL, OVARIAN, BREAST"	0		Deletion	Frameshift - In-Frame											NM_000249.2	VUS	2012/11/13 6:10:51 PM	2	2
+831	MSH2		c.1656delC	p.Asn553ThrfsX4	10	Pathogenic		0														NM_000251.1			1	1
+832	MSH2		c.2633_2634del	p.Glu878Ala	15	Pathogenic		0														NM_000251.1			1	1
+833	MSH6		c.3220_3221del	p.Met1074ValfsX18	5	Pathogenic		0														NM_000179.2			1	1
+834	MSH2		c.1557del	p.Phe519LeufsX7	10	Pathogenic		0														NM_000251.1			3	2
+835	MSH2		c.2087C>T	p.Pro696Leu	EXON13	VUS		0														NM_000251.1			1	1
+836	MSH2		c.1661+6C>A		10	Polymorphism		0														NM_000251.1			0	0
+837	MSH2		c.998G>A	p.Cys333Tyr	6	VUS		0		Substitution	Missense											NM_000251.1			1	1
+838	MUTYH		c.791G>T	p.Gly264Val	10	VUS		0														NM_001128425.1			0	0
+839	MLH1		c.244A>G	p.Thr82Ala	EXON03	VUS	COLON	0		Substitution	Missense											NM_000249.2	Pathogenic	2012/11/07 9:47:00 AM	6	2
+840	MLH1		c.1959G>T	p.=	17	VUS	COLON	0		Substitution	Silent	p.Leu653Leu	HGVS				5			rs1800146	0.022+/-0.102	NM_000249.2	Benign	2012/02/23 6:54:04 PM	3	3
+841	MSH6		c.458-?_3556+?del	p.Gly153_Gly1186del	3_6	Pathogenic		0														NM_000179.2			1	1
+842	MSH2		c.367-?_1276+?del	p.Ala123GlufsX12	3-7	Pathogenic		0														NM_000251.1			1	1
+843	MSH6		c.3312dupT	p.Gly1105TrpfsX3	5	Pathogenic		0														NM_000179.2			1	1
+844	MSH2		c.1760-?_2802+?del	p.Gly587_Thr934del	12_16	Pathogenic		0														NM_000251.1			1	1
+845	MLH1		c.322_335delAGCCATGTGGCTCA	p.Ser108CysfsX9	EXON04	Pathogenic	COLON	0		Deletion	Frameshift - Out of Frame											NM_000249.2	Pathogenic	2012/11/27 12:54:28 PM	2	2
+846	MSH2		c.1277_2458del	p.Lys427_Gly820del	8-14	Pathogenic		0														NM_000251.1			1	1
+847	MSH2		c.229_230delAG	p.Ser77CysfsX4	2	Pathogenic		0														NM_000251.1			1	1
+848	MSH2		c.387_388delTC	p.Gln130ValfsX2	EXON03	Pathogenic	"OVARIAN, COLON"	0		Deletion	Frameshift - Out of Frame											NM_000251.1	Pathogenic	2012/07/18 4:51:34 PM	3	2
+849	MLH1		c.1196C>T	p.Pro399Leu	12	VUS		0		Substitution	Missense											NM_000249.2			1	1
+850	MSH6		c.3964G>T	p.Glu1322X	EXON09	Pathogenic		0														NM_000179.2			5	5
+851	MSH6		c.3306T>A	Thr1102Thr	EXON05	Polymorphism	COLON	0		Substitution	Silent									 rs2020910	0.053+/-0.154	NM_000179.2	Benign	2012/04/27 7:15:39 AM	4	4
+852	MSH6		c.2342C>T	p.Pro781Leu	4G	VUS		0		Substitution	Missense											NM_000179.2			1	1
+853	MLH1		c.883A>G	p.Ser295Gly	EXON10	VUS	COLON	0		Substitution	Missense											NM_000249.2	Pathogenic	2012/03/30 9:09:17 AM	13	7
+854	MLH1		c.1217G>A	p.Ser406Asn	EXON12	VUS	"ENDOMETRIAL, COLON"	0		Substitution	Missense									rs41294980		NM_000249.2	VUS	2012/12/19 6:35:30 PM	2	2
+855	MLH1		c.307-29C>A		4			0														NM_000249.2			0	0
+856	MLH1		C.677G>A	P.Arg226Leu	8	VUS		0														NM_000249.2			1	1
+857	APC		c.3202_3205delTCAA	p.Ser1068GlyfsX57	EXON15	Pathogenic	COLON	0		Deletion	Frameshift - Out of Frame											NM_000038.4	Pathogenic	2013/01/15 9:50:43 AM	4	3
+858	APC		c.5978delC	p.Pro1993LeufsX51	EXON18	Pathogenic	COLON	0		Deletion	Frameshift - Out of Frame											NM_000038.4	Pathogenic	2012/11/02 12:39:42 PM	4	2
+859	MLH1		c.790+2T>C	r.spl?	EXON09	Pathogenic	COLON	0		Substitution	Intronic	IVS9+2T>C; p.Glu227_Ser295del										NM_000249.2	Pathogenic	2013/03/12 2:38:37 PM	5	3
+861	MUTYH		c.346C>T	p.Arg116Trp	EXON03	VUS	COLON	0		Substitution	Missense											NM_001128425.1	VUS	2012/04/20 12:26:40 PM	0	0
+862	APC		c.5465T>A	p.Val1822Asp	15I	VUS	FAP	0		Substitution	Missense									rs459552	0.140	NM_000038.4	Benign	2012/01/31 11:48:44 AM	21	21
+863	APC		c.423-17_423-16_delTA	p.?	4	Polymorphism		0														NM_000038.4			0	0
+864	MSH2		c.2633_2634delAG	p.Glu878AlafsX3	EXON15	Pathogenic		0				 c.2629_2630delAG	Incorrect nomenclature used previously									NM_000251.1	Pathogenic	2012/11/28 8:55:30 AM	1	1
+865	MSH2		c.2472_2473delAA	p.Ser825PhefsX10	15	Pathogenic		0														NM_000251.1			1	1
+866	MSH6		c.2805dupT	p.Asp936X	4 I	Pathogenic		0														NM_000179.2			0	0
+867	MLH1		c.731G>A	p.Gly244Asp	9	Pathogenic		0														NM_000249.2			2	2
+868	BRCA1		c.4812A>G	p.=	EXON16	VUS		0		Substitution	Silent	4931A>G	BIC				3			rs28897693		NM_007294.3	VUS	2012/01/20 2:10:51 PM	2	2
+869	BRCA1		c.2685_2686delAA	p.Pro897LysfsX5	EXON11	pathogenic		0		Deletion	Frameshift - Out of Frame	2804delAA	BIC				1					NM_007294.3	Pathogenic	2012/01/17 5:53:56 PM	1	1
+870	BRCA2		C.					0														NM_00059.3			0	0
+871	BRCA2	HETEROZYGOUS	c.8673_8674delAA	p.Arg2892ThrfsX14	EXON 21	Pathogenic		0		Deletion	Frameshift - Out of Frame	8901delAA	BIC				1					NM_00059.3			6	6
+872	BRCA1		c.3327A>C	p.Lys1109Asn	EXON11	VUS		0		Substitution	Missense	3446A>C	BIC				4			rs41293449		NM_007294.3	VUS	2012/02/03 12:28:19 PM	1	1
+873	BRCA1		c.4046C>T	p.Thr1349Met	EXON11	VUS		0		Substitution	Missense	4165C>T	BIC				4			rs80357345		NM_007294.3	VUS	2012/02/03 8:57:04 AM	1	1
+874	BRCA2		c.4314C>T	p.(=)	EXON11	Benign		0		Substitution	Silent	4542C>T	BIC				5					NM_00059.3	Benign	2012/02/03 9:05:33 AM	1	1
+875	BRCA2		c.9097dupA	p.Thr3033AsnfsX11	EXON23	Pathogenic		0		Duplication	Frameshift - Out of Frame	9326insA	BIC				1					NM_00059.3	Pathogenic	2012/02/03 9:10:43 AM	12	10
+876	BRCA1		c.843_846delCTCA	p.Ser282TyrfsX15	EXON11	Pathogenic		0		Deletion	Frameshift - Out of Frame	962delCTCA	BIC				1					NM_007294.3	Pathogenic	2012/02/03 10:33:50 AM	1	1
+877	BRCA1		c.2566T>C	p.Tyr856His	EXON11			0		Substitution	Missense	2685T>C	BIC				4			rs80356892		NM_007294.3	Benign	2013/03/11 8:26:26 AM	6	6
+878	BRCA1		c.81-?_134+?del	p.?	EXON03			0		Deletion	Silent						1					NM_007294.3	Pathogenic	2012/02/08 11:43:05 AM	1	0
+879	BRCA1		c.2681_2682delAA	p.Lys894ThrfsX8	EXON11			0		Deletion	Frameshift - Out of Frame	2800delAA	BIC				1					NM_007294.3	Pathogenic		2	2
+880	BRCA2		c.9382C>T	p.Arg3128X	EXON25			0		Substitution	Nonsense	9610C>T	BIC				1					NM_00059.3	Pathogenic	2012/02/09 3:48:33 PM	2	2
+881	BRCA1		c.528G>A	p.Thr176Thr	EXON 08	Predicted Benign	BREAST	0		Substitution	Silent	647G>A	BIC				4			 rs34545365	0.002+/-0.032	NM_007294.3	Predicted Benign	2012/02/17 9:40:03 AM	1	1
+883	BRCA2		c.8633-14T>C	p.?	EXON21		BREAST	0		Substitution	Silent	IVS20-14T>C	BIC				4					NM_00059.3	Predicted Benign	2012/02/22 5:05:55 PM	1	1
+884	BRCA2		c.4187A>G	p.Gln1396Arg	EXON11	Predicted Benign	BREAST	0		Substitution	Missense	4415A>G	BIC				4			rs55969723	0.004+/-0.043	NM_00059.3	Predicted Benign	2012/02/23 1:41:13 PM	1	1
+885	BRCA2		c.5218_5223del	p.Leu1740_Ser1741del	EXON11	VUS	BREAST	0		Deletion	Frameshift - In-Frame	5446delTTAAGT	BIC				3					NM_00059.3	VUS	2012/02/27 2:22:48 PM	0	0
+887	BRCA1		c.2263delG	p.Glu755Lysfs*10	EXON11		BREAST	0		Deletion	Frameshift - Out of Frame	2382delG	BIC									NM_007294.3			4	1
+888	BRCA2		c.8187G>T	p.Lys2729Asn	EXON18	Predicted Binign	BREAST	0		Substitution	Missense	8415G>T	BIC				4			 rs80359065		NM_00059.3	Benign	2013/03/25 10:16:46 AM	6	5
+889	BRCA2		c.6868T>C	p.Leu2290Leu	EXON12	Predicted Benign	BREAST	0		Substitution	Silent	7096T>C					4			rs34545365	0.002+/-0.032	NM_00059.3	Predicted Benign	2012/03/06 10:35:04 AM	7	7
+890	BRCA1		c.2006T>C	p.Met669Thr	EXON11	VUS	OVARIAN	0		Substitution	Missense	2125T>C	BIC				3			rs80356895		NM_007294.3	VUS	2012/03/06 5:39:26 PM	2	1
+891	BRCA1		c.5357T>C	p.Leu1786Pro	EXON22	VUS	BREAST	0		Substitution	Missense						3					NM_007294.3	VUS	2012/03/06 6:35:40 PM	1	0
+892	BRCA2		c.6468_6469dupTC	p.Gln2157LeufsX12	EXON11	Pathogenic	BREAST	0		Duplication	Frameshift - Out of Frame	6696dupTC	BIC				1					NM_00059.3	Pathogenic	2012/03/09 2:17:31 PM	1	1
+893	BRCA1		c.5100A>G	p.Thr1700Thr	EXON18	Predicted Benign	BREAST	0		Substitution	Silent	5219A>G	BIC				4			rs45519437		NM_007294.3	Predicted Benign	2012/03/10 3:57:23 PM	1	0
+894	BRCA1		c.1486C>T	p.Arg496Cys	EXON11	Predicted Benign	BREAST	0		Substitution	Missense	1605C>T	BIC				4			 rs28897676	0.000+/-0.015	NM_007294.3	Predicted Benign	2012/03/11 8:32:58 PM	1	1
+895	BRCA2		c.8167G>C	p.Asp2723His	EXON18	Pathogenic	BREAST	0		Substitution	Missense	8395G>C	BIC				1			rs41293511		NM_00059.3	Pathogenic	2012/03/13 6:03:31 PM	3	3
+896	BRCA1		c.5278-6T>C	p.?	EXON21	Predicted Benign	OVARIAN	0		Substitution	Intronic	IVS20-6T>C	BIC				3					NM_007294.3	VUS	2012/03/14 2:12:23 PM	1	0
+897	MSH2		c.1387-8G>T	r.spl(?)	EXON09		OTHER	0		Substitution	Intronic		Research Case Sultan Al-Onazi									NM_000251.1	Benign	2013/05/27 3:59:51 PM	2	2
+898	MSH2		c.2145delT	p.Asp716ThrfsX4	EXON13			0		Deletion	Frameshift - Out of Frame		CB4826									NM_000251.1	Pathogenic	2012/11/12 10:06:28 AM	6	1
+899	MSH2		c.211G>C	p.Gly71Arg	EXON01		COLON	0		Substitution	Missense	r.?										NM_000251.1	Predicted Pathogenic	2012/03/18 2:26:53 PM	2	1
+900	MSH6		c.2569_2572del	p.Asp857PhefsX10	EXON04		COLON	0		Deletion	Frameshift - Out of Frame											NM_000179.2	Pathogenic	2012/03/18 3:39:40 PM	1	1
+901	BRCA2		c.5729A>T	p.Asn1910Ile	EXON11		FALLOPIAN	0		Substitution	Missense	5957A>T	BIC									NM_00059.3	VUS	2012/03/20 5:34:53 PM	2	2
+902	BRCA1		c.5327C>A	p.Pro1776His	EXON21	VUS	BREAST	0		Substitution	Missense	5446C>A	BIC				3					NM_007294.3	VUS	2012/03/22 3:53:46 PM	2	1
+903	BRCA1		c.1971A>G	p.Gln657Gln	EXON11	Benign	BREAST	0		Substitution	Silent	2090A>G	BIC				5			rs28897679	0.021+/-0.100	NM_007294.3	Benign	2012/03/27 12:30:32 PM	0	0
+904	BRCA2		c.6803G>A	p.Arg2268Lys	EXON11	Predicted Benign	BREAST	0		Substitution	Missense	7031G>A	BIC				3			rs80358906	0.002+/-0.028	NM_00059.3	VUS	2012/03/27 6:39:31 PM	1	1
+905	MLH1		c.2035G>T	p.Glu679*	EXON18		COLON	0		Substitution	Nonsense											NM_000249.2	Pathogenic	2012/03/28 3:48:34 PM	4	3
+906	MLH1		c.104T>G	p.Met35Arg	EXON01		COLON	0		Substitution	Missense											NM_000249.2	Pathogenic	2012/03/30 2:55:51 PM	1	1
+909	BRCA2		c.4183G>T	p.Ala1395Ser	EXON11	VUS	BREAST	0		Substitution	Missense	4411G>T	BIC				3					NM_00059.3	VUS	2012/03/30 3:18:42 PM	2	2
+910	MLH1		c.304G>A	p.Glu102Lys	EXON03		COLON	0		Substitution	Missense									 rs63750453		NM_000249.2	Predicted Pathogenic	2012/03/30 3:26:59 PM	2	0
+911	BRCA1		c.4493delC	p.Pro1498LeufsX7	EXON15	Pathogenic	BREAST	0		Deletion	Frameshift - Out of Frame	4612delC	BIC				1					NM_007294.3	Pathogenic	2012/03/30 4:16:59 PM	1	1
+913	BRCA1		c.436T>C	p.Ser146Pro	EXON07	VUS	BREAST	0		Substitution	Missense	555T>C	BIC				3					NM_007294.3	VUS	2012/04/03 10:07:48 AM	1	1
+914	BRCA2		c.1627C>A	p.His543Asn	EXON10C	VUS	BREAST	0		Substitution	Missense	1855C>A	BIC				3			 rs80358446		NM_00059.3	Predicted Benign	2012/04/05 1:53:51 PM	1	1
+915	BRCA2		c.9097het_dupA		EXON23			0														NM_00059.3			0	0
+920	MSH2		c.1786_1788delAAT	p.Asn596del	EXON12		COLON	0		Deletion	Frameshift - In-Frame											NM_000251.1	Pathogenic	2012/04/22 11:01:22 AM	5	3
+923	BRCA1		c.4083G>A	p.Met1361Ile	EXON11K	VUS	BREAST	0		Substitution	Missense	4202G>A	BIC				3					NM_007294.3	VUS	2012/04/06 11:15:13 AM	1	1
+924	BRCA2		c.7908T>A	p.Cys2636X	EXON17	Pathogenic	PANCREATIC	0		Substitution	Nonsense	8136T>A	BIC				1			rs80359016		NM_00059.3	Pathogenic	2012/04/06 11:29:17 AM	3	1
+925	BRCA1		c.154C>T	p.Leu52Phe	EXON05	VUS	OVARIAN	0		Substitution	Missense	273C>T	BIC				3			 rs80357084		NM_007294.3	VUS	2012/04/06 11:57:11 AM	6	6
+926	APC		c.6830C>G	p.Ser2277Cys	EXON18		COLON	0		Substitution	Missense											NM_000038.4	VUS	2012/04/20 12:41:27 PM	0	0
+927	APC		c.6724A>G	p.Ser2242Gly	EXON18		COLON	0		Substitution	Missense											NM_000038.4	VUS	2012/04/10 5:39:36 PM	1	1
+930	MSH2		c.1-?_1276+?del	p.?	EXON01_EXON07	Pathogenic		0		Deletion							1					NM_000251.1	Pathogenic	2012/04/11 11:57:40 AM	2	2
+931	MLH1		c.1732-?_1896+?	p.?	EXON16	PATHOGENIC	COLON	0		Deletion							1					NM_000249.2	Pathogenic	2012/04/11 1:21:32 PM	1	1
+933	MLH1		c.1732-?_1896+?del	p.?	EXON1_8	Pathogenic		0									1					NM_000249.2	Pathogenic	2012/04/11 1:34:58 PM	0	0
+934	MSH2		c.646-?_2805+?	p.?	EXON4_16	Pathogenic		0									1					NM_000251.1	Pathogenic	2012/04/11 3:58:58 PM	2	2
+936	MSH6		c.3573dupT	p.Val1192CysfsX2	EXON07		COLON	0		Duplication	Frameshift - Out of Frame											NM_000179.2	Pathogenic	2012/10/17 2:05:15 PM	7	4
+937	BRCA2		c.9333G>A	p.Glu3111Glu	EXON25	Predicted Benign		0		Substitution	Silent	9561G>A	BIC				4					NM_00059.3	Predicted Benign	2012/04/12 11:06:33 AM	1	1
+938	MSH2		c.2575G>T		EXON15			0														NM_000251.1			0	0
+940	MLH1		c.104T>G	p.Met35Arg	EXON01	Pathogenic	COLON	0		Substitution	Missense						1					NM_000249.2	Pathogenic	2012/03/30 2:55:51 PM	1	1
+941	MSH2		c.1737A>G	p.Lys579Lys	EXON11		COLON	0		Substitution	Silent									rs61756467		NM_000251.1	Benign	2012/04/27 7:22:59 AM	2	2
+942	MSH6		c.1186C>G	p.Leu396Val	EXON04		COLON	0		Substitution	Missense									rs2020908		NM_000179.2	Predicted Benign	2012/05/02 9:37:02 AM	4	4
+943	BRCA2		c.4563A>G	p.Leu1521Leu	EXON11	Benign	BREAST	0		Substitution	Silent	4791A>G	BIC				5			 rs206075	0.026	NM_00059.3	Benign	2012/04/16 3:11:21 PM	0	0
+945	BRCA2		c.4656T>C	p.Gly1552Gly	EXON11	Benign	BREAST	0		Substitution	Silent	4884T>C	BIC				5			rs41293491	0.000+/-0.015	NM_00059.3	Benign	2012/04/18 10:25:46 AM	0	0
+946	APC		c.5250C>G	p.Val1750Val	EXON16	Benign		0		Substitution	Silent						5			rs2229997	0.016+/-0.089	NM_000038.4	Benign	2012/04/18 12:18:08 PM	0	0
+948	MSH2		c.1661+5G>C	p.Gly504_Ser554>AlafsX3	EXON10		"COLON, ENDOMETRIAL"	0		Substitution	Frameshift - Out of Frame		Kurzawski 2002									NM_000251.1	Pathogenic	2012/04/24 10:53:36 AM	11	1
+949	APC		c.1904G>C	p.Gly635Ala	EXON14		COLON	0		Substitution	Missense											NM_000038.4	VUS	2012/05/02 2:45:47 PM	1	0
+950	APC		c.1458T>C	p.Tyr486Tyr	EXON11		COLON	0		Substitution	Silent									rs2229992	0.46	NM_000038.4	Benign	2012/04/20 7:32:29 AM	2	1
+953	APC		c.5268T>G	p.Ser1756Ser	EXON15		COLON	0		Substitution	Silent									rs866006	 0.478+/-0.104	NM_000038.4	Benign	2012/04/20 11:50:38 AM	0	0
+956	APC		c.70C>T	p.Arg24X	EXON04	Pathogenic	COLON	0		Substitution	Nonsense											NM_000038.4	Pathogenic	2012/04/19 9:45:43 AM	4	4
+957	BRCA1		c.1065G>A	p.Lys355Lys	EXON11		BREAST	0		Substitution	Silent	1184G>A	BIC							rs41286292		NM_007294.3	Predicted Benign	2012/04/19 11:55:35 AM	2	2
+958	BRCA2		c.5652T>C	p.Ile1884Ile	EXON11		BREAST	0		Substitution	Silent	5880T>C	BIC									NM_00059.3	Predicted Benign	2012/04/19 11:59:22 AM	1	1
+959	BRCA2		c.231T>G	p.Thr77Thr	EXON03		BREAST	0		Substitution	Silent	459T>G	BIC							rs114446594	 0.005+/-0.051	NM_00059.3	Benign	2012/04/19 12:50:55 PM	0	0
+960	BRCA2		c.6513C>G		EXON11O			0														NM_00059.3	Benign	2012/04/05 12:11:05 PM	8	8
+961	APC		c.847C>T	p.Arg283X	EXON08		COLON	0		Substitution	Nonsense											NM_000038.4	Pathogenic	2012/04/20 7:08:08 AM	2	2
+962	APC		c.1047_1140del	p.Ser350ProfsX73	EXON12		COLON	0		Deletion	Frameshift - Out of Frame											NM_000038.4	Pathogenic	2012/04/20 7:16:25 AM	0	0
+963	APC		c.1370C>A	p.Ser457X	EXON10		COLON	0		Substitution	Nonsense											NM_000038.4	Pathogenic	2012/04/20 7:23:43 AM	1	1
+964	APC		c.1548G>C	p.Lys516Asn	EXON11		COLON	0		Substitution	Missense											NM_000038.4	Pathogenic	2012/04/20 7:45:27 AM	2	2
+965	APC		c.1744-4C>G		EXON17		COLON	0		Substitution	Intronic											NM_000038.4	Unknown Significance-4	2012/04/20 7:53:18 AM	0	0
+966	APC		c.2322C>T	p.Asp774Asp	EXON18		COLON	0		Substitution	Silent											NM_000038.4	Benign	2012/04/20 8:00:36 AM	0	0
+967	APC		c.2570delG	p.Gly857GlyfsX4	EXON15		COLON	0		Deletion	Frameshift - Out of Frame											NM_000038.4	Pathogenic	2012/04/20 8:20:28 AM	0	0
+968	APC		c.3920T>A	p.Ile1307Lys	EXON15		COLON	0		Substitution	Missense											NM_000038.4	Predicted Benign	2012/04/20 8:25:09 AM	0	0
+969	APC		c.3415A>C	p.Lys1139Gln	EXON15		COLON	0		Substitution	Missense											NM_000038.4	Unknown Significance-4	2012/04/20 8:29:41 AM	0	0
+970	APC		c.3949G>C	P.Glu1317Gln	EXON18		COLON	0		Substitution	Missense									rs1801166		NM_000038.4	Predicted Benign	2013/03/12 1:40:54 PM	1	1
+973	APC		c.4393_4394del	p.Ser1465TrpfsX3	EXON15		COLON	0		Deletion	Frameshift - Out of Frame											NM_000038.4	Pathogenic	2012/04/20 10:52:19 AM	0	0
+974	BRCA1		c.2998_3003delGAGGAA	p.Glu1000_Glu1001del	EXON11			0		Deletion	Frameshift - In-Frame	3117del	BIC									NM_007294.3	VUS	2012/05/02 11:15:06 AM	2	2
+975	BRCA2		c.2765T>G	p.Phe922Cys	EXON11			0		Substitution	Missense	2993T>G	BIC									NM_00059.3	VUS	2012/05/02 11:19:16 AM	1	1
+979	APC		c.5268T>G	p.Ser1756Ser	EXON15	Polymorphism	COLON	0		Substitution	Silent									rs866006	0.478+/-0.104	NM_000038.4	Benign	2012/04/20 11:50:38 AM	0	0
+980	BRCA2		c.4656T>C	p.Gly1552Gly	EXON11		PANCREATIC	0		Substitution	Silent	4884T>C	BIC							rs41293491	 0.000+/-0.015	NM_00059.3	Benign	2012/04/18 10:25:46 AM	0	0
+981	APC		c.1458T>C	p.Tyr486Tyr	EXON11		COLON	0		Substitution	Silent									rs2229992	0.46	NM_000038.4	Benign	2012/04/20 7:32:29 AM	2	1
+987	APC		c.4479G>A	p.Thr1493Thr	EXON15		COLON	0		Substitution	Silent									rs41115		NM_000038.4	Benign	2012/04/27 10:50:54 AM	0	0
+988	MLH1		c.1236_1237delCA		EXON12			0														NM_000249.2			1	1
+989	BRCA2		c.5120C>T	p.Thr1707Ile	EXON11		BREAST	0		Substitution	Missense	5348C>T	BIC									NM_00059.3	VUS	2012/04/30 11:29:03 AM	1	1
+990	BRCA1		c.505C>T	p.Gln169X	EXON08		BREAST	0		Substitution	Nonsense	624C>T	BIC							rs80357133		NM_007294.3	Pathogenic	2012/05/02 10:42:42 AM	1	1
+991	BRCA2		c.8904delC	p.Val2969CysfsX7	EXON22			0		Deletion	Frameshift - Out of Frame	9132delC	BIC									NM_00059.3	Pathogenic	2012/05/09 1:29:03 PM	2	2
+992	BRCA2		c.8332-2A>G	r.spl?	EXON19		BREAST	0		Substitution	Intronic	IVS18-2A>G	BIC									NM_00059.3	Pathogenic	2012/05/04 2:28:55 PM	3	2
+993	BRCA1		c.4964_4982delCTGGCCTGACCCCAGAAGA		EXON16			0														NM_007294.3			2	1
+994	BRCA2		c.8954-5A>G	p.Val2985AspfsX34	EXON23			0		Substitution	Intronic	r.8953_8954ins8953-4_8954-1										NM_00059.3	Pathogenic	2012/05/07 6:08:21 PM	1	1
+996	MUTYH		"c.1325T>G, p.Val442Gly"		EXON14			0														NM_001128425.1			0	0
+997	MSH2		c.2228C>A		EXON14			0														NM_000251.1			2	0
+1000	MSH2		c.616_617dupGAGA	p.Thr206ArgfsX27	EXON03		COLON	0		Deletion	Frameshift - Out of Frame	THIS IS THE CORRECT NOMENCLATURE: c.613_616dupGAGA										NM_000251.1	Pathogenic	2012/05/10 1:51:42 PM	5	1
+1001	BRCA2		c.517-?_631+?del		EXON07		BREAST	0		Deletion	Frameshift - Out of Frame	"r.?, p.Gly173_Ile210del ???"	BIC									NM_00059.3	Pathogenic	2012/05/08 12:33:46 PM	4	1
+1002	APC		c.262C>T	p.Arg88Trp	EXON06		COLON	0		Substitution	Missense						3					NM_000038.4	VUS	2012/05/22 10:00:27 AM	1	1
+1005	MLH1		c.1039-?_1558+?del	p.?	EXON12		COLON	0		Deletion	Frameshift - Out of Frame	"prediction only: p.Thr347Phefs*15, and EXON 13"										NM_000249.2	Pathogenic	2012/05/11 9:53:34 AM	0	0
+1006	APC		c.620G>A	p.Cys207Tyr	EXON05		COLON	0		Substitution	Missense											NM_000038.4	Predicted Benign	2013/01/21 10:45:46 AM	4	2
+1007	MUTYH		c.536					0														NM_001128425.1			0	0
+1010	APC		c.3028delA	p.Ser1010ValfsX12	EXON15		COLON	0		Deletion	Frameshift - Out of Frame											NM_000038.4	Pathogenic	2012/05/17 2:53:01 PM	3	0
+1012	BRCA2		c.9118-1G>C	p.?	EXON24		BREAST	0		Substitution	Intronic	IVS23-1G>C	BIC									NM_00059.3	Pathogenic	2012/05/18 2:08:16 PM	3	2
+1013	BRCA1		c.3247_3251delATGCT	p.Met1083X	EXON11		BREAST	0		Deletion	Frameshift - Out of Frame	3366delATGCT	BIC									NM_007294.3	Pathogenic	2012/05/21 9:44:08 AM	2	1
+1015	BRCA1		c.1865C>T	p.Ala622Val	EXON11			0		Substitution	Missense	1984C>T	BIC									NM_007294.3	VUS	2012/05/21 11:08:16 AM	1	1
+1016	BRCA2		c.8503T>C	p.Ser2835Pro	EXON20		OVARIAN	0		Substitution	Missense	8731T>C	BIC							rs11571746		NM_00059.3	Benign	2013/06/20 10:25:15 AM	2	2
+1017	APC		c.458delA	p.Lys153ArgfsX17	EXON07		COLON	0		Deletion	Frameshift - Out of Frame											NM_000038.4	Pathogenic	2012/05/22 5:21:04 PM	1	0
+1018	BRCA1		c.4997dupA	p.Tyr1666X	EXON17		OVARIAN	0		Duplication	Frameshift - Out of Frame	5116insA	BIC									NM_007294.3	Pathogenic	2012/05/29 11:49:53 AM	3	2
+1019	BRCA2		c.8572C>T	p.Gln2858X	EXON20		BREAST	0		Substitution	Nonsense	8800C>T	BIC							rs80359112		NM_00059.3	Pathogenic	2012/05/28 3:28:57 PM	1	1
+1020	APC		c.646-1G>C		EXON06			0				EXON09										NM_000038.4	Pathogenic	2012/06/01 10:07:38 AM	1	1
+1021	BRCA2		c.7992T>A	p.Ile2664Ile	EXON18		BREAST	0		Substitution	Silent	8220T>A	BIC							rs80359800	0.001	NM_00059.3	VUS	2012/05/29 10:45:50 AM	2	2
+1022	BRCA1		c.2477C>A	p.Thr826Lys	EXON11		OVARIAN	0		Substitution	Missense	2596C>A	BIC							rs28897683	0.018+/-0.093	NM_007294.3	Benign	2012/05/29 11:05:13 AM	0	0
+1024	MLH1		c.790+4A>G	p.?	EXON09	PATHOGENIC	COLON	0		Substitution	Frameshift - Out of Frame	IVS9+4A>G; p.Glu227SerfsX42										NM_000249.2	Pathogenic	2012/05/31 10:17:06 AM	7	5
+1025	BRCA2		c.7808T>A		EXON17			0														NM_00059.3			1	0
+1026	MUTYH		c.739C>T	p.Arg247X	EXON09		COLON	0		Substitution	Nonsense	"c.697C>T, p.Arg233X"										NM_001128425.1	Pathogenic	2012/06/07 3:29:58 PM	1	1
+1027	MUTYH		c.890G>T	p.Cys297Phe	EXON12		COLON	0		Substitution	Missense	"c.848G>T, p.Cys283Phe"										NM_001128425.1	VUS	2012/06/08 2:56:00 PM	1	1
+1028	BRCA2		c.538_539dupAT	p.Ser181PhefsX5	EXON07		OVARIAN	0		Duplication	Frameshift - Out of Frame	767insAT	BIC							rs80359511		NM_00059.3	Pathogenic	2012/06/06 10:32:51 AM	7	7
+1029	BRCA2		c.2746delT		EXON11C			0														NM_00059.3			2	1
+1032	APC		c.1904G>A	p.Gly635Glu	EXON14		COLON	0		Substitution	Missense	Exon 17										NM_000038.4	VUS	2012/06/15 12:09:22 PM	1	1
+1037	APC		c.3471G>A	p.Glu1157Glu	EXON15E		COLON	0		Substitution	Silent									 rs143927847	0.011+/-0.074	NM_000038.4	Benign	2012/12/13 2:57:02 PM	1	1
+1038	BRCA1		c.693G>A	p.Thr231Thr	EXON11b		BREAST	0		Substitution	Silent	812G>A	BIC							rs62625298		NM_007294.3	VUS	2012/06/14 8:22:43 AM	2	2
+1039	BRCA2		c.6599T>C	p.Phe2200Ser	EXON11		BREAST	0		Substitution	Missense	6827T>C	BIC									NM_00059.3	VUS	2012/06/14 8:51:39 AM	1	1
+1040	BRCA2		c.3858_3860delAAA	p.Lys1286del	EXON11		BREAST	0		Deletion	Frameshift - In-Frame	4086delAAA	BIC							 rs80359407		NM_00059.3	VUS	2012/06/25 3:07:29 PM	1	1
+1041	BRCA2		c.4535G>A	p.Arg1512His	EXON11J		BREAST	0		Substitution	Missense	4763G>A	BIC							rs80358685		NM_00059.3	VUS	2012/06/25 3:10:31 PM	1	1
+1042	BRCA2		c.7976+12G>A	p.?	EXON17		BREAST	0		Substitution	Intronic	IVS17+12G>A	BIC							 rs81002827		NM_00059.3	Predicted Benign	2012/06/25 3:14:15 PM	1	1
+1044	BRCA2		c.9381G>A		EXON25			0														NM_00059.3			1	1
+1045	BRCA2		c.9380G>A		EXON25			0														NM_00059.3			1	1
+1048	MUTYH		c.312C>A	p.Tyr90X	EXON03		COLON	0		Substitution	Missense											NM_001128425.1	Pathogenic	2012/06/20 3:09:57 PM	1	1
+1049	BRCA2		c.8926A>G		EXON22			0														NM_00059.3			0	0
+1051	APC		c.2626C>T	p.Arg876X	EXON15B		COLON	0		Substitution	Nonsense	(Alamut Exon 18)										NM_000038.4	Pathogenic	2012/06/28 1:28:20 PM	1	1
+1053	BRCA2		c.8673_8674het_delAA	p.Arg2892ThrfsX14	EXON21			0														NM_00059.3			1	0
+1054	BRCA1		c.516delA	p.Gln172HisfsX62	EXON08		OVARIAN	0		Deletion	Frameshift - Out of Frame	635delA	BIC									NM_007294.3	Pathogenic	2012/06/27 4:23:27 PM	3	1
+1055	BRCA1		c.671-6T>G	p.?	EXON11		BREAST	0		Substitution	Intronic	IVS10-6T>G	BIC									NM_007294.3	VUS	2012/06/29 9:04:09 AM	1	1
+1056	BRCA1		c.3113A>C	p.Glu1038Ala	EXON11		BREAST	0		Substitution	Missense	3232A>C	BIC									NM_007294.3	Predicted Benign	2012/06/29 9:10:41 AM	2	2
+1057	BRCA2		c.3545_3546delTT	p.Phe1182X	EXON11		BREAST	0		Deletion	Frameshift - Out of Frame	3773delTT	BIC							rs80359388		NM_00059.3	Pathogenic	2012/06/27 3:50:15 PM	3	3
+1058	MSH2		c.1662-?_2805+?del	p.?	EXON11_EXON16		COLON	0		Deletion	Frameshift - Out of Frame											NM_000251.1	Pathogenic	2012/06/29 6:22:38 AM	3	2
+1060	BRCA1		c.4986+6T>G	p.?	EXON16		BREAST	0		Substitution	Intronic	r.spl?								rs80358086	0	NM_007294.3	Pathogenic	2012/07/23 4:16:56 PM	1	0
+1062	APC		c.1958+8T>C	r.?	EXON14		COLON	0		Substitution	Intronic									rs#:62626346		NM_000038.4	Benign	2013/03/04 11:21:48 AM	2	2
+1064	MSH2		c.793-?_2805+?del	p.?	EXON05_EXON16			0		Deletion	Frameshift - Out of Frame											NM_000251.1	Pathogenic	2012/06/30 1:53:18 PM	1	0
+1065	MSH2		c.1387-?_2805+?del	p.?	EXON09_EXON16			0		Deletion	Frameshift - Out of Frame											NM_000251.1	Pathogenic	2012/06/30 3:34:27 PM	0	0
+1066	BRCA2		c.3073A>G	p.Lys1025Glu	EXON11E		BREAST	0		Substitution	Missense	3301A>G	BIC							rs80358550		NM_00059.3	VUS	2012/07/10 1:45:26 PM	2	2
+1067	MLH1		c.883A>C	p.Ser295Arg	EXON10		COLON	0		Substitution	Missense											NM_000249.2	Pathogenic	2012/07/05 5:44:40 PM	3	0
+1068	MLH1		c.199G>A	p.Gly67Arg	EXON02		COLON	0		Substitution	Missense									63750206		NM_000249.2	Pathogenic	2012/07/09 8:31:48 AM	2	2
+1069	MICROSATELLITE		MSS					0																	0	0
+1070	MICROSATELLITE		MSI					0																	0	0
+1072	BRCA2		c.7762_7764delATAinsTT		EXON16			0														NM_00059.3			6	6
+1073	BRCA2		c.-15A>C		5'UTR		BREAST	0		Substitution	Intronic	IVS1-15A>C								 rs138705202		NM_00059.3	VUS	2012/07/19 6:08:24 PM	1	1
+1074	BRCA1		c.3037G>A	p.Glu1013Lys	EXON11H		BREAST	0		Substitution	Missense	3156G>A	BIC									NM_007294.3	VUS	2012/07/17 4:16:34 PM	1	1
+1075	APC		c.1005A>G	p.Leu335Leu	EXON12	Predicted Benign	COLON	0		Substitution	Silent									3797704		NM_000038.4	Predicted Benign	2012/07/09 1:23:39 PM	1	1
+1076	MLH1		c.250A>G	p.Lys84Glu	EXON03		COLON	0		Substitution	Missense									rs63750641		NM_000249.2	Predicted Pathogenic	2012/07/13 2:13:27 PM	1	1
+1077	MSH6				EXON01			0														NM_000179.2			0	0
+1079	MSH6		c.663A>C	p.Glu221Asp	EXON04		COLON	0		Substitution	Missense									rs.41557217		NM_000179.2	Predicted Benign	2012/07/13 5:29:48 PM	1	1
+1080	MSH2		c.1790_1792delATG		EXON12			0														NM_000251.1			0	0
+1081	BRCA1		c.1-?_80+?del	p.?	EXON01_EXON2		"BREAST, OVARIAN"	0		Deletion	Frameshift - Out of Frame											NM_007294.3	Pathogenic	2012/07/10 5:00:49 PM	6	2
+1082	MSH6		c.866G>A		EXON04A			0														NM_000179.2			1	0
+1083	MSH6		c.867C>A		EXON04A			0														NM_000179.2			0	0
+1084	BAT25				NED			0																	0	0
+1085	BAT25				NED			0																	0	0
+1086	APC		c.190G>T		EXON02			0														NM_000038.4			1	1
+1087	APC		c.487C>T		EXON04			0														NM_000038.4			1	1
+1088	APC		c.562C>T		EXON05			0														NM_000038.4			1	1
+1089	APC		c.694C>T	p.Gln232X	EXON06			0														NM_000038.4	Pathogenic	2012/10/24 9:31:44 AM	3	3
+1090	APC		c.1213C>T	p.Arg405X	EXON09			0		Substitution	Nonsense											NM_000038.4	Pathogenic	2012/08/17 2:08:01 PM	4	2
+1091	APC		c.1495C>T		EXON11			0														NM_000038.4			4	2
+1092	APC		c.1690C>T		EXON13			0														NM_000038.4			2	2
+1093	APC		c.2093T>G	p.Leu698X	EXON15A			0		Substitution	Nonsense	EXON16										NM_000038.4	Pathogenic	2013/01/24 10:20:02 AM	4	4
+1094	APC		c.2995C>T		EXON15C			0														NM_000038.4			2	2
+1095	APC		c.3147G>A		EXON15D			0														NM_000038.4			2	2
+1096	APC		c.3766C>T		EXON15E			0														NM_000038.4			2	2
+1097	APC		c.4161T>A		EXON15F			0														NM_000038.4			1	1
+1098	APC		c.4606G>T		EXON15G			0														NM_000038.4			2	2
+1099	APC		c.4645C>T		EXON15H			0														NM_000038.4			3	3
+1100	MSH6		c.866_867delinsAA	p.Gly289Glu	EXON04		"COLON, ENDOMETRIAL, BCC"	0		Indel	Missense	c.866_867GC>AA										NM_000179.2	VUS	2012/07/11 5:12:41 PM	0	0
+1101	MSH6		c.1483C>T	p.Arg495X	EXON04		COLON	0		Substitution	Nonsense											NM_000179.2	Pathogenic	2012/07/11 4:55:36 PM	1	1
+1103	BAT25				NED			0																	0	0
+1104	BAT25				NED			0																	0	0
+1105	BAT25				NED			0																	0	0
+1106	BAT25				NED			0																	0	0
+1107	BAT25				NED			0																	0	0
+1108	BAT26				HEX			0																	0	0
+1109	BAT26				HEX			0																	0	0
+1110	BRCA2		c.891_899delAACAGTTGTins10	p.Thr298IlefsX7	EXON10		BREAST	0		Indel	Frameshift - Out of Frame	1119del9insGATACTTCAG	BIC									NM_00059.3	Pathogenic	2012/08/17 7:12:33 AM	1	1
+1111	APC		c.1825G>A	p.Val609Ile	EXON17		COLON	0		Substitution	Missense	EXON14										NM_000038.4	Predicted Benign	2013/01/17 10:28:45 AM	1	1
+1112	APC		c.4336G>A	 p.Ala1446Thr	EXON18		COLON	0		Substitution	Missense	EXON15										NM_000038.4	Predicted Benign	2013/01/17 9:21:11 AM	1	1
+1113	APC		c.4385_4388het_delAGAG		EXON15F			0														NM_000038.4			0	0
+1114	APC		c.4391_4394delAGAG	p.Glu1464ValfsX8	EXON18		COLON	0		Deletion	Frameshift - Out of Frame	EXON15										NM_000038.4	Pathogenic	2013/01/17 10:05:10 AM	1	1
+1115	APC		c.4391_4394het_delAGAG		EXON15G			0														NM_000038.4			0	0
+1116	APC		c.387insT		EXON03			0														NM_000038.4			2	2
+1117	APC		c.423-1G>A		EXON04			0														NM_000038.4			7	7
+1118	APC		c.547_548del		EXON05			0														NM_000038.4			2	2
+1119	APC		c.1467_1479del		EXON11			0														NM_000038.4			1	1
+1120	APC		c.1779G>A		EXON14			0														NM_000038.4			1	1
+1121	APC		c.2031_2034del		EXON15A			0														NM_000038.4			3	3
+1122	APC		c.2395insT		EXON15B			0														NM_000038.4			1	1
+1123	APC		c.2895_2896delTA		EXON15C			0														NM_000038.4			1	1
+1124	APC				EXON15E			0														NM_000038.4			0	0
+1125	APC		c.4022_4026del		EXON15F			0														NM_000038.4			3	3
+1126	APC		c.4525_4526insTT		EXON15G			0														NM_000038.4			5	5
+1127	APC		4699insT		EXON15H			0														NM_000038.4			1	1
+1128	APC		c.6057_6058dupTT		EXON15J			0														NM_000038.4			2	2
+1129	MUTYH				EXON10			0														NM_001128425.1			0	0
+1130	APC				EXON08			0														NM_000038.4			0	0
+1131	APC				EXON08			0														NM_000038.4			0	0
+1132	APC				EXON15B			0														NM_000038.4			0	0
+1133	APC				EXON15E			0														NM_000038.4			0	0
+1134	APC				EXON15J			0														NM_000038.4			0	0
+1135	APC				EXON15M			0														NM_000038.4			0	0
+1136	MUTYH				EXON10			0														NM_001128425.1			0	0
+1137	MUTYH				EXON12			0														NM_001128425.1			0	0
+1138	BRCA2		c.6220C>A	p.His2074Asn	EXON11		BREAST	0		Substitution	Missense	6448C>A	BIC							rs34309943		NM_00059.3	Benign	2012/07/27 2:25:30 PM	0	0
+1139	MLH1		c.1667+2T>C		EXON14			0		Substitution												NM_000249.2	Pathogenic	2012/11/13 11:35:55 AM	1	0
+1140	MSH2		c.381_382het_delTC		EXON03			0														NM_000251.1			0	0
+1141	BRCA2		c.9383G>A	p.Arg3128Gln	EXON25		BREAST	0		Substitution	Missense	9611G>A	BIC									NM_00059.3	VUS	2012/07/18 9:50:18 AM	1	1
+1143	APC		c.594het_dupT		EXON05			0														NM_000038.4			0	0
+1144								0																	0	0
+1145	APC		c.4241delT	p.Val1414GlufsX5	EXON15		COLON	0		Deletion	Frameshift - Out of Frame	EXON18										NM_000038.4	Pathogenic	2012/07/19 10:41:05 AM	3	2
+1146	APC		c.594dupT	p.Ala199CysfsX53	EXON08		COLON	0		Duplication	Frameshift - Out of Frame	EXON08										NM_000038.4	Pathogenic	2012/07/25 8:42:58 AM	3	1
+1147	BRCA2				EXON11I			0														NM_00059.3			0	0
+1148	BRCA2				EXON11I			0														NM_00059.3			0	0
+1149	APC		c.4385_4388delAGAG		EXON15F			0														NM_000038.4			1	1
+1150	BRCA1		c.1255G>C	p.Val419Leu	EXON11B		BREAST	0		Substitution	Missense	1374G>C	BIC									NM_007294.3	VUS	2012/08/03 12:24:31 PM	1	1
+1151	CKIT		c.1669T>TA		EXON11			0																	1	1
+1152	BRCA2		c.6466_6469delTCTC	p.Ser2156AsnfsX11	EXON11		BREAST	0		Deletion	Frameshift - Out of Frame	6694delTCTC	BIC							 rs80359584		NM_00059.3	Pathogenic	2012/07/30 11:08:26 AM	1	1
+1153	HFE			p.His63Asp				0														NM_139009			0	0
+1155	CKIT		c.1676T>TC		EXON11			0																	1	1
+1156	cKIT		c.2459A>AG		EXON17			0														NM_000222.2			1	1
+1157	MSH6		c.3261del		EXON05			0														NM_000179.2			1	1
+1160	MLH1		c.1238_1239delCA	p.Thr413ArgfsX3	EXON12		COLON	0		Deletion	Frameshift - Out of Frame											NM_000249.2	Pathogenic	2012/07/30 2:56:02 PM	1	0
+1161	BRCA1		c.2083G>T	p.Asp695Tyr	EXON11		BREAST	0		Substitution	Missense	2202G>T	BIC							 rs28897681		NM_007294.3	Predicted Benign	2012/07/27 1:54:23 PM	1	1
+1162	BRCA1		c.3454G>A	p.Asp1152Asn	EXON11		BREAST	0		Substitution	Missense	3573G>A	BIC							rs80357175		NM_007294.3	VUS	2012/07/30 11:33:33 AM	1	1
+1163	MSH2		c.1215C>G	p.Tyr405X	EXON07	Pathogenic	COLON	0		Substitution	Nonsense						1					NM_000251.1	Pathogenic	2012/07/31 11:17:23 AM	2	2
+1164	BRCA2		c.9606G>A	Pro3202Pro	EXON26			0		Substitution												NM_00059.3	Benign	2012/08/03 12:16:14 PM	1	1
+1165	BRCA2		c.2908G>A	p.Asp970Asn	EXON11		BREAST	0		Substitution	Missense	3136G>A	BIC									NM_00059.3	VUS	2012/08/02 7:59:53 AM	3	3
+1431	BRCA1		c.3700_3704delGTAAA	p.Val1234GlnfsX8	EXON11J		BREAST	0		Deletion	Frameshift - Out of Frame	3819delGTAAA										NM_007294.3	Pathogenic	2012/12/21 1:01:11 PM	1	1
+1432	BRCA1				EXON20			0														NM_007294.3			0	0
+1433	BRCA1				EXON21			0														NM_007294.3			0	0
+1434	BRCA2		c.5073dupA	p.Trp1692MetfsX3	EXON11K			0		Duplication	Frameshift - Out of Frame											NM_00059.3	Pathogenic	2012/12/28 10:24:11 AM	1	1
+1435	BRCA1				EXON20			0														NM_007294.3			0	0
+1436	APC		c.3114_3115delTG	p.Gly1039LysfsX8	EXON15D		COLON	0		Deletion	Frameshift - Out of Frame											NM_000038.4	Pathogenic	2013/01/02 11:12:08 AM	1	1
+1437	KRAS		c.34G>T		FN			0																	13	13
+1438	KRAS		c.34G>A		FN			0																	13	13
+1439	MLH1				EXON13			0														NM_000249.2			0	0
+1440	MLH1				EXON13			0														NM_000249.2			0	0
+1441	MUTYH		c.1214C>T	p.Pro405Leu	EXON13		COLON	0		Substitution	Missense	p.Pro391Leu	NM_012222.2									NM_001128425.1	Pathogenic	2013/01/02 11:41:01 AM	2	1
+1442	CKIT		c.1669T>A		EXON11			0																	4	4
+1443	BRCA2		c.3454_3455delTT	p.Leu1152LysfsX5	EXON11		BREAST	0		Deletion	Frameshift - Out of Frame	3682delTT	BIC									NM_00059.3	Pathogenic	2012/12/28 3:30:21 PM	3	1
+1444	BRCA2		c.1810A>G	p.Lys604Glu	EXON10D		BREAST	0		Substitution	Missense	BIC 2038A>G										NM_00059.3	VUS	2013/01/11 10:33:59 AM	1	1
+1445	MSH6				EXON04H			0														NM_000179.2			0	0
+1446	MSH6				EXON04I			0														NM_000179.2			0	0
+1447	MLH1		c.346delA	p.Thr116GlnfsX20	EXON04		COLON	0		Deletion	Frameshift - Out of Frame											NM_000249.2	Pathogenic	2013/01/18 9:56:16 AM	1	1
+1448	MLH1		c.67delG	p.Glu23LysfsX13	EXON01		ENDOMETRIAL	0		Deletion	Frameshift - Out of Frame											NM_000249.2	Pathogenic	2013/01/03 3:38:00 PM	1	1
+1449	BRCA2		c.6131G>C	p.Gly2044Ala	EXON11N		BREAST	0		Substitution	Missense	6359G>C	BIC							rs56191579		NM_00059.3	VUS	2013/01/16 10:51:57 AM	1	1
+1166	MSH6		c.3946G>A	p.Gly1316Arg	EXON09		COLON	0		Substitution	Frameshift - Out of Frame											NM_000179.2	VUS	2012/08/02 1:39:12 PM	1	1
+1167	BRCA1		c.5068A>C	p.Lys1690Gln	EXON17		BREAST	0		Substitution	Missense	BIC 5187A>C										NM_007294.3	VUS	2012/08/08 9:21:33 AM	1	1
+1168	BRCA2		c.8505A>G	p.Ser2835Ser	EXON20		BREAST	0		Substitution	Silent	BIC 8733A>G										NM_00059.3	Predicted Benign	2012/08/09 1:27:11 PM	2	2
+1169	MSH2		c.1277-12T>A		EXON08			0		Substitution												NM_000251.1			0	0
+1170	MSH2		c.1277-13T>A		EXON08			0		Substitution	Intronic											NM_000251.1			11	10
+1171	MSH6		c.2768A>G		EXON04I			0														NM_000179.2			0	0
+1172	F5		c.1691G>A		EXON10			0																	28	28
+1173	MTHFR		c.677C>T		EXON4			0																	23	23
+1174	F2		g.20210G>A		EXON14			0																	8	8
+1175	F5				EXON10			0																	0	0
+1176	BRCA2		c.8537_8538delAG	p.Glu2846GlyfsX22	EXON20		BREAST	0		Deletion	Frameshift - Out of Frame	8765delAG	BIC							 rs80359714		NM_00059.3	Pathogenic	2012/08/13 8:48:27 AM	3	3
+1177	BRCA1		c.557C>A	p.Ser186Tyr	EXON09		BREAST	0		Substitution	Missense	676C>A	BIC							rs55688530	0.007+/-0.058	NM_007294.3	Benign	2012/08/15 11:46:20 AM	1	1
+1178	BRCA1		c.5406+8T>C	p.?	EXON22		BREAST	0		Substitution	Intronic	IVS23+8T>C	BIC							rs55946644	0.500+/-0	NM_007294.3	Benign	2012/08/15 11:43:07 AM	1	1
+1179	APC				EXON15A			0														NM_000038.4			0	0
+1180	APC				EXON15A			0														NM_000038.4			0	0
+1181	APC				EXON15A			0														NM_000038.4			0	0
+1182	MLH1		c.380+1G>A		EXON04		COLON	0		Substitution												NM_000249.2	Pathogenic	2012/11/12 2:01:26 PM	2	1
+1183	APC		c.1596A>G	Gln532Gln	EXON15			0														NM_000038.4			1	1
+1184	BRCA1		c.5137delG	p.Val1713X	EXON18		BREAST	0		Deletion	Silent											NM_007294.3			1	1
+1185	APC		c.3067dupA	p.Thr1023AsnfsX6	EXON15C		COLON	0		Duplication	Frameshift - Out of Frame											NM_000038.4			1	1
+1186	MLH1		c.793C>A	p.Arg265Ser	EXON10		COLON	0		Substitution	Missense											NM_000249.2	Pathogenic	2012/08/23 4:35:13 PM	5	5
+1187	CKIT		c.1670_1675het_delGGAAGG		EXON11			0																	1	1
+1188	PDGFRA		c.2472C>CT		EXON18			0																	1	1
+1189	CKIT		c.2285G>GA		EXON17			0																	1	1
+1190	BRCA1		c.1556delA	p.Lys519ArgfsX13	EXON11		OVARIAN	0		Deletion	Frameshift - Out of Frame	1675delA	BIC							rs80357662	0.003	NM_007294.3	Pathogenic	2012/08/27 9:22:00 AM	1	1
+1191	BRCA2		c.793+12G>A	p.?	EXON09		BREAST	0		Substitution	Intronic	IVS9+12G>A	BIC									NM_00059.3	Predicted Benign	2012/09/05 8:29:13 AM	1	1
+1192	BRCA1		c.3756_3759del	p.Ser1253ArgfsX10	EXON11		BREAST	0		Deletion	Frameshift - Out of Frame	3875delGTCT								 rs80357868		NM_007294.3	Pathogenic	2013/07/12 10:54:59 AM	2	2
+1193	MLH1		c.207+1G>A		EXON02			0		Substitution												NM_000249.2	Pathogenic	2012/11/13 10:55:31 AM	3	1
+1194	BRCA1		c.4666C>T	p.Gln1556X	EXON15		OVARIAN	0		Substitution	Nonsense	4785C>T	BIC									NM_007294.3	Pathogenic	2012/09/04 3:25:34 PM	1	1
+1195	BRCA2		c.3581G>A	p.Gly1194Asp	EXON11		OVARIAN	0		Substitution	Missense	3809G>A	BIC							rs28897721		NM_00059.3	Benign	2012/09/05 2:20:40 PM	1	1
+1196	BRCA2		c.262_263delCT		EXON03			0														NM_00059.3			1	1
+1197	BRCA2		c.198A>G	p.Gln66Gln	EXON03		BREAST	0		Substitution	Silent	426A>G	BIC							rs28897700	0.001+/-0.021	NM_00059.3	Benign	2012/09/04 3:01:58 PM	0	0
+1198	MSH6				EXON02			0														NM_000179.2			0	0
+1199	MSH6				EXON05			0														NM_000179.2			0	0
+1200	MSH6				EXON02			0														NM_000179.2			0	0
+1201	MSH6				EXON05			0														NM_000179.2			0	0
+1202	MLH1		c.2152C>T		EXON19			0														NM_000249.2			1	1
+1203	APC		c.4479G>A	p.Thr1493Thr	EXON15F		COLON	0		Substitution	Silent									rs41115	0.338	NM_000038.4	Benign	2012/04/27 10:50:54 AM	0	0
+1204	HFE		p.Cys282Tyr		EXON4			0																	19	19
+1205	HFE		p.His63Asp		EXON2			0																	30	30
+1206	KRAS				EXON13FAM			0																	0	0
+1207	BRCA1		c.5503C>T	p.Arg1835X	EXON24		BREAST	0		Substitution	Nonsense	5622C>T	BIC							41293465		NM_007294.3	Pathogenic	2012/09/13 8:49:26 AM	2	2
+1208	MSH6		c.2253T>C	p.Asn751Asn	EXON04G		COLON	0		Substitution	Silent									rs2020913		NM_000179.2	Benign	2012/09/21 3:34:28 PM	2	2
+1209	APC		c.3470dupA		EXON15D			0														NM_000038.4			1	1
+1210	MSH2		c.560T>C	p.Leu187Pro	EXON03		COLON	0		Substitution	Missense									rs63751444		NM_000251.1	Pathogenic	2012/11/12 9:35:03 AM	1	1
+1211	BRCA1		c.895_896delGT					0														NM_007294.3	Pathogenic		2	2
+1212	MLH1		c.1852_1853AA>GC	p.Lys618AlaÊ	EXON16			0		Substitution	Missense											NM_000249.2	Predicted Benign	2012/09/14 2:44:40 PM	0	0
+1213	BRCA2		c.1478C>T	p.Pro493Leu	EXON10C		BREAST	0		Substitution	Missense	1706C>T	BIC									NM_00059.3	Predicted Benign	2012/10/01 3:38:52 PM	1	1
+1214	BRCA2		c.6761T>A	p.Phe2254Tyr	EXON11Q		BREAST	0		Substitution	Missense	6989T>A	BIC									NM_00059.3	Predicted Benign	2012/10/01 10:54:17 AM	1	1
+1215	MSH2		c.2063T>G	p.Met688Arg	EXON13		COLON	0		Substitution	Missense									rs63749993		NM_000251.1	Pathogenic	2012/09/24 1:25:44 PM	1	1
+1216	MSH2		c.23C>T	p.Thr8Met	EXON01		COLON	0		Substitution	Missense									 rs17217716	 0.008	NM_000251.1	Predicted Benign	2012/09/21 9:36:03 AM	1	1
+1217	MSH6				EXON02			0														NM_000179.2			0	0
+1218	MSH6				EXON05			0														NM_000179.2			0	0
+1219	BRCA1		c.5117G>C	p.Gly1706Ala	EXON18		BREAST	0		Substitution	Missense	5236G>C	BIC							 rs80356860		NM_007294.3	Predicted Benign	2012/09/25 2:49:57 PM	1	1
+1220	BRCA1		c.81-6T>C		EXON03			0		Substitution			BIC							rs80358179		NM_007294.3	VUS	2012/10/02 11:00:09 AM	1	1
+1221	MSH6		c.3984_3987dupGTCA		EXON09			0														NM_000179.2			1	1
+1222	BRCA2		c.2957_2958insG		EXON11D			0														NM_00059.3			2	1
+1223	MSH6		c.1180T>G	p.Ser394Ala	EXON04C		COLON	0		Substitution	Missense											NM_000179.2	Predicted Benign	2012/10/24 9:29:04 AM	1	1
+1224	BRCA2				EXON13			0														NM_00059.3			0	0
+1225	MLH1		c.1852A>G		EXON16			0														NM_000249.2			0	0
+1226	MLH1		c.1853A>C		EXON16			0														NM_000249.2			0	0
+1227	APC				EXON15K			0														NM_000038.4			0	0
+1228	APC		c.(?_-85)_135+?del	p.?	Promoter_EXON01		COLON	0		Deletion		PROMOTER_EXON04										NM_000038.4	Pathogenic	2012/09/28 2:28:07 PM	0	0
+1229	APC		c.2394dupT		EXON15B			0														NM_000038.4			1	1
+1230	APC		c.3454C>T		EXON15D			0														NM_000038.4			2	2
+1231	APC		c.3827_3829del		EXON15E			0														NM_000038.4			1	1
+1232	APC		c.4698dupT		EXON15H			0														NM_000038.4			2	2
+1233	APC		c.5541del		EXON15I			0														NM_000038.4			3	3
+1234	APC		c.6061_6062insTT		EXON15J			0														NM_000038.4			1	1
+1235	MSH2		c.212-4delT		EXON02			0														NM_000251.1			0	0
+1237	APC		c.2031_2034delCAGT		EXON15A			0														NM_000038.4			1	1
+1238	APC		c.2397dupT		EXON15B			0														NM_000038.4			1	1
+1239	APC		c.2894_2895delAT		EXON15C			0														NM_000038.4			1	1
+1240	APC		c.3713delG		EXON15E			0														NM_000038.4			1	1
+1241	APC		c.4022_4026delGTTTA		EXON15F			0														NM_000038.4			1	1
+1242	APC		c.4526_4527insTT		EXON15G			0														NM_000038.4			1	1
+1243	APC		c.5541delG		EXON15I			0														NM_000038.4			1	1
+1244	APC		c.2547_2550del		EXON15B			0														NM_000038.4			1	1
+1245	MLH1		c.306+2T>G	p.?	EXON03		COLON	0		Substitution	Intronic											NM_000249.2	Pathogenic	2012/11/06 2:49:24 PM	1	1
+1246	MLH1		c.589-13C>T		EXON08			0														NM_000249.2			0	0
+1247	MLH1		c.589-15C>T		EXON08			0														NM_000249.2			1	1
+1248	MLH1		c.1668-3C>A	p?	EXON15		COLON	0		Substitution	Intronic											NM_000249.2	VUS	2012/10/15 1:41:11 PM	1	1
+1249	BRCA2				EXON13			0														NM_00059.3			0	0
+1250	BRCA2				EXON13			0														NM_00059.3			0	0
+1251	BRCA2				EXON13			0														NM_00059.3			0	0
+1252	APC				EXON15K			0														NM_000038.4			0	0
+1253	BRCA2				EXON09			0														NM_00059.3			0	0
+1254	BRCA2		c.7815_7816delTG	p.Cys2605X	EXON17			0		Deletion	Frameshift - Out of Frame											NM_00059.3	Pathogenic	2012/11/05 1:11:06 PM	1	1
+1255	BRCA2				EXON09			0														NM_00059.3			0	0
+1256	BRCA2		c.6405_6409delCTTAA	p.Asn2135LysfsX3	EXON11O		"BREAST, OVARIAN"	0		Deletion	Frameshift - Out of Frame	6633delCTTAA	BIC							rs80359584		NM_00059.3	Pathogenic	2012/11/05 12:22:56 PM	1	1
+1257	BRCA2				EXON09			0														NM_00059.3			0	0
+1258	APC				EXON15K			0														NM_000038.4			0	0
+1259	PDGFRA		c.2504G>GA		EXON18			0																	1	1
+1260	BRCA2				EXON11O			0														NM_00059.3			0	0
+1261	BRCA1		c.5075A>C	p.Asp1692Ala	EXON18		BREAST	0		Substitution	Missense	5194A>C	BIC									NM_007294.3	VUS	2012/10/12 10:38:27 AM	1	1
+1262	APC		c.706C>T	p.Gln236X	EXON09		COLON	0		Substitution	Nonsense											NM_000038.4	Pathogenic	2012/11/05 12:53:36 PM	1	1
+1263	APC				EXON15E			0														NM_000038.4			0	0
+1264	MSH6				EXON05			0														NM_000179.2			0	0
+1265	BRCA2		c.4796A>G	p.Asn1599Ser	EXON11		BREAST	0		Substitution	Missense	5024A>G	BIC							rs149759218		NM_00059.3	VUS	2012/10/22 2:43:18 PM	1	1
+1266	MSH6				EXON05			0														NM_000179.2			0	0
+1267	MSH6				EXON05			0														NM_000179.2			0	0
+1268	BRCA2		c.9004G>A	p.Glu3002Lys	EXON23		BREAST	0		Substitution	Missense	9232G>A	BIC							80359152		NM_00059.3	Predicted Pathogenic	2012/11/06 12:24:14 PM	1	1
+1269	BRCA1		c.4934G>C	p.Arg1645Thr	EXON16		BREAST	0		Substitution	Missense	5053G>C	BIC							70953661		NM_007294.3	Predicted Benign	2012/11/05 10:01:34 AM	1	1
+1270	BRCA2		c.3264T>C	p.Pro1088Pro	EXON11		BREAST	0		Substitution	Silent	3492T>C	BIC							rs36060526	0.006	NM_00059.3	Benign	2012/11/05 10:03:05 AM	1	1
+1271	BRCA2		c.9730G>A		EXON27A		BREAST	0		Substitution	Missense	9958G>A	BIC							11571831		NM_00059.3	Benign	2012/11/05 10:07:26 AM	1	1
+1272	BRCA1		c.3G>T		EXON02			0														NM_007294.3			1	0
+1273	BRCA2		c.4614T>C	p.Ser1538Ser	EXON11J		BREAST	0		Substitution	Silent	4842T>C	BIC							 rs45520945		NM_00059.3	Benign	2012/11/06 4:58:48 PM	1	1
+1274	APC		c.295C>T	p.Arg99Trp	EXON06		COLON	0		Substitution	Missense											NM_000038.4	VUS	2012/11/07 10:54:28 AM	1	1
+1275	BRCA1		c.5102_5103delTG		EXON18			0														NM_007294.3			1	1
+1276	MSH2		c.2135dupT	p.Gly713Argfs*4	EXON13			0		Duplication	Frameshift - Out of Frame									rs63751453		NM_000251.1	Pathogenic	2012/11/12 10:18:56 AM	3	0
+1277	BRCA2		c.5465A>T	p.Asn1822Ile	EXON11M			0		Substitution	Missense	5693A>T	BIC									NM_00059.3	VUS	2012/11/07 6:51:32 AM	1	1
+1278	MSH2				EXON13			0														NM_000251.1			0	0
+1279	MSH2				EXON13			0														NM_000251.1			0	0
+1280	MSH2		c.518T>C	p.Leu173Pro	EXON03		COLON	0		Substitution	Missense									rs63750070		NM_000251.1	Predicted Pathogenic	2012/10/17 4:05:25 PM	1	1
+1282	BRCA1		c.4255G>C	p.Glu1419Gln	EXON13		OVARIAN	0		Substitution	Missense	4374G>C	BIC							rs80357309		NM_007294.3	Predicted Benign	2012/11/06 11:44:27 AM	1	1
+1283	MSH6		c.1295T>C	p.Phe432Ser	EXON04C		"COLON, ENDOMETRIAL"	0		Substitution	Missense											NM_000179.2	Predicted Pathogenic	2012/11/08 3:39:53 PM	1	1
+1284	MSH2		c.136_164del	p.His46GlyfsX26	EXON01		COLON	0		Deletion	Frameshift - Out of Frame											NM_000251.1	Pathogenic	2012/10/25 5:27:35 PM	1	1
+1285	MSH2		c.1666T>C	p.Leu556Leu	EXON11		COLON	0		Substitution	Silent											NM_000251.1	Benign	2012/10/30 10:31:44 AM	1	1
+1286	BRCA1		c.4127C>G	p.Thr1376Arg	EXON12		BREAST	0		Substitution	Missense	4246C>G	BIC							rs80356986		NM_007294.3	VUS	2012/11/06 11:08:52 AM	1	1
+1287	BRCA2		c.2350A>G	Met784Val	EXON11		BREAST	0		Substitution	Missense	2578A>G	BIC							rs11571653		NM_00059.3			1	1
+1288	BRCA1		c.807G>A	p.Leu269Leu	EXON11b			0		Substitution	Silent	926G>A	BIC									NM_007294.3	Benign	2012/11/07 7:02:01 AM	1	1
+1289	BRCA1		c.2232T>C	p.Ala744ala	EXON11b			0		Substitution	Silent	2351T>C	BIC									NM_007294.3	Benign	2012/11/07 7:11:19 AM	1	1
+1290	BRCA1		c.2773A>C	p.Ile925Leu	EXON11G		BREAST	0		Substitution	Missense	2892A>C	BIC							rs4986847		NM_007294.3	Predicted Benign	2012/11/06 12:55:15 PM	1	1
+1291	BRCA2		c.7857G>A	p.Trp2619X	EXON17		BREAST	0		Substitution	Nonsense	8085G>A	BIC									NM_00059.3	Pathogenic	2012/11/06 1:22:24 PM	1	1
+1292	BRCA2		c.1736T>G		EXON_10D			0														NM_00059.3			1	1
+1293	BRCA2		c.7580insT		EXON15			0														NM_00059.3			0	0
+1294	APC		Promoter 1B deletion	p.?			COLON	0		Deletion												NM_000038.4	Predicted Pathogenic	2012/10/25 12:51:40 PM	0	0
+1295	BRCA1		154C>T		EXON05			0														NM_007294.3			1	1
+1296	BRCA1		c.1962delA		EXON11E			0														NM_007294.3			1	1
+1297	BRCA1		c.2836_2837delAT		EXON11G			0														NM_007294.3			1	1
+1298	BRCA1		c.3332delA		EXON11I			0														NM_007294.3			1	1
+1299	BRCA1		c.4358G>A		EXON13			0														NM_007294.3			1	1
+1300	BRCA2		c.793+53delT		EXON09			0														NM_00059.3			1	1
+1301	BRCA2		c.793+98G>A		EXON09			0														NM_00059.3			1	1
+1302	BRCA2		c.1909+22delT		EXON10D			0														NM_00059.3			2	2
+1303	BRCA2		c.2750dupT		EXON11C			0														NM_00059.3			1	1
+1304	BRCA2		c.7762delA		EXON16			0														NM_00059.3			1	1
+1305	BRCA2		c.7580dupT	p.Gly2528ArgfsX11	EXON15		BREAST	0		Duplication	Frameshift - Out of Frame	7808insT	BIC									NM_00059.3	Pathogenic	2012/11/07 9:38:54 AM	1	1
+1306	BRCA1				EXON11G			0														NM_007294.3			0	0
+1307	MSH2		c.1805T>C	p.Leu602Pro	EXON12		COLON	0		Substitution	Missense											NM_000251.1	VUS	2012/11/08 10:41:51 AM	1	1
+1308	MSH6				EXON01			0														NM_000179.2			0	0
+1309	MSH6				EXON01			0														NM_000179.2			0	0
+1310	MSH6		c.3401G>C	p.Gly1134Ala	EXON05			0														NM_000179.2	VUS	2012/12/10 11:54:28 AM	1	1
+1311	MSH6				EXON01			0														NM_000179.2			0	0
+1312	MSH2		c.1901T>G	p.Leu634X	EXON12		COLON	0		Substitution	Nonsense											NM_000251.1	Pathogenic	2012/11/05 8:58:44 AM	1	1
+1313	MSH6				EXON07			0														NM_000179.2			0	0
+1314	KRAS		c.38G>A		EXON13			0																	34	34
+1315	APC				EXON15K			0														NM_000038.4			0	0
+1316	MUTYH		c.1171C>T		EXON12			0														NM_001128425.1			2	2
+1317	BRCA2		c.2834_2835delAA	p.Lys945ArgfsX13	EXON11C			0		Deletion	Frameshift - Out of Frame											NM_00059.3	Pathogenic	2012/11/19 1:38:56 PM	1	1
+1318	BRCA2		c.755_758delACAG		EXON09			0														NM_00059.3			1	1
+1319	MSH6				EXON01			0														NM_000179.2			0	0
+1320	MSH6				EXON01			0														NM_000179.2			0	0
+1321	MSH6				EXON01			0														NM_000179.2			0	0
+1322	MSH6				EXON01			0														NM_000179.2			0	0
+1323	MUTYH		c.933+3A>C		EXON10			0														NM_001128425.1			1	1
+1324	MSH6		c.457+13A>G		EXON02		COLON	0		Substitution	Intronic	IVS2+13A>G										NM_000179.2	Benign	2012/11/12 11:40:52 AM	2	2
+1325	MSH6		c.3226C>G	p.Arg1076Gly	EXON05		OVARIAN	0		Substitution	Missense											NM_000179.2	VUS	2012/11/20 10:44:55 AM	1	1
+1326	MSH6		c.3438+11_3438+14delCTTA	r.?	EXON05		"ENDOMETRIAL, OVARIAN"	0		Deletion	Intronic											NM_000179.2	VUS	2012/11/20 11:40:24 AM	0	0
+1327	MLH1		c.-42C>T	r.?	EXON01		COLON	0		Substitution	Intronic											NM_000249.2	Predicted Pathogenic	2012/11/19 3:44:24 PM	4	1
+1328	APC		c.8325G>A	p.Gly2775Gly	EXON15M		CHRPE	0		Substitution	Silent											NM_000038.4	Predicted Benign	2012/11/14 7:18:39 PM	1	1
+1329	MLH1				EXON03			0														NM_000249.2			0	0
+1330	MSH6		c.651dupT	p.Lys218X	EXON04			0		Duplication	Frameshift - Out of Frame											NM_000179.2	Pathogenic	2012/11/09 9:53:19 AM	2	2
+1331	BRCA2		c.951dupA		EXON10A			0														NM_00059.3			0	0
+1332	BRCA2		c.956dupA		EXON10A			0														NM_00059.3			1	1
+1333	MSH2		c.499G>C		EXON03			0														NM_000251.1			1	1
+1334	BRCA1		c.5252G>A	p.Arg1751Gln	EXON20		BREAST	0		Substitution	Missense	5371G>A	BIC							rs80357442		NM_007294.3	VUS	2012/11/19 3:39:36 PM	1	1
+1335	BRCA2		c.8765G>A	p.Ser2922Asn	EXON22		BREAST	0		Substitution	Missense	8993G>A	BIC									NM_00059.3	VUS	2012/11/14 5:54:07 PM	2	2
+1337	MSH6		c.-2G>T	p.?	EXON01			0														NM_000179.2	VUS	2012/12/17 1:49:47 PM	1	1
+1338	BRCA2		c.3075_3076GA>TT	p.Lys1025_Lys1026delinsAsnX	EXON11E		OVARIAN	0		Indel	Frameshift - Out of Frame	"c.3075_3076delinsTT;  p.Lys1025_Ile3418delinsAsn, p.Lys1025_1026AsnX"	"Alamut, AMD"									NM_00059.3	Pathogenic	2012/11/21 2:14:56 PM	2	2
+1339	PDGFRA		c.2524G>T; 842D>Y		EXON18			0																	1	1
+1340	BRCA1		c.5216A>G	p.Asp1739Gly	EXON20		BREAST	0		Substitution	Missense	5415A>G										NM_007294.3	VUS	2012/11/16 9:56:43 AM	2	2
+1341	MSH2		c.271_273_delTCT		EXON02			0														NM_000251.1			0	0
+1342	MSH6				EXON07			0														NM_000179.2			0	0
+1343	MSH6				EXON07			0														NM_000179.2			0	0
+1344	CKIT		c.1669_1674delTGGAAG		EXON11			0																	2	2
+1345	BRAF		c.1860T>A:600V>V/E		EXON15			0																	1	1
+1346	MLH1		c.2271+35_2271+37delCTT	p.?	EXON19			0														NM_000249.2			0	0
+1347	BRCA1				EXON15			0														NM_007294.3			0	0
+1348	BRCA2				EXON11E			0														NM_00059.3			0	0
+1349	BRCA1				EXON15			0														NM_007294.3			0	0
+1350	BRCA2				EXON11E			0														NM_00059.3			0	0
+1351	BRCA1				EXON15			0														NM_007294.3			0	0
+1352	APC		c.3249T>G	p.Asp1083Glu	EXON15C			0														NM_000038.4	Predicted Benign	2012/11/26 4:35:42 PM	1	1
+1353	MSH2				EXON13			0														NM_000251.1			0	0
+1354	KRAS		c.35G>T		FN			0																	37	37
+1355	MSH2		c.715C>T					0														NM_000251.1			1	1
+1357	CKIT		c.1459C>T					0														NM_000222.2	Pathogenic	2012/11/23 4:34:46 PM	1	1
+1358	BRAF		c.1799T>A;V600E		EXON15			0																	1	1
+1359	BRCA1		c.2885A>G		EXON11G			0														NM_007294.3			1	1
+1360	APC		c.3444_3447delTGAA	p.Glu1149LysfsX15	EXON15D		COLON	0		Deletion	Frameshift - Out of Frame											NM_000038.4	Pathogenic	2012/11/28 10:07:53 AM	1	1
+1361	MSH2				EXON09			0														NM_000251.1			0	0
+1362	MSH2				EXON09			0														NM_000251.1			0	0
+1363	CKIT		c.1727T>C		EXON11			0																	2	2
+1364	BRAF		  c.1799T>A		EXON15			0																	1	1
+1365	BRAF		c.1799T>A		EXON15			0																	18	18
+1366	MSH2		c.1387-9T>A	r.?				0				"p.Val463PhefsX7, r.[=,1387-1_1387ins1387-7_1387-1; 1387-9T>A], IVS8"	"RT-PCR confirmation, GP-10-67"									NM_000251.1			3	3
+1367	MSH2				EXON09			0														NM_000251.1			0	0
+1368	APC		c.532-14_532-12delATT	p.?	EXON05		POLYPS	0		Deletion	Intronic											NM_000038.4	VUS	2012/11/30 10:27:50 AM	1	1
+1369	KRAS		c.35G>A		FN			0																	38	38
+1370	CKIT		c.1664_1681delTACAGTGGAAGGTTGTTG		EXON11			0																	1	1
+1371	MLH1		c.303T>G	p.Gly101Gly	EXON03		ENDOMETRIAL	0		Substitution	Silent											NM_000249.2	VUS	2012/12/19 5:34:57 PM	1	1
+1372	MSH2		c.92C>G	p.Thr31Ser	EXON01		ENDOMETRIAL	0		Substitution	Missense											NM_000251.1	Predicted Benign	2013/01/03 4:16:41 PM	1	1
+1373	MTHFR				EXON4			0																	0	0
+1374	BRCA2		c.2653_2656delGACA	p.Asp885MetfsX9	EXON11C		BREAST	0		Deletion	Frameshift - Out of Frame	"2881delGACA, p.Asp885_Asn886?fs"	BIC									NM_00059.3	Pathogenic	2012/12/03 10:28:03 AM	2	1
+1375	BRCA1				EXON20			0														NM_007294.3			0	0
+1376	BRCA2		c.2960A>T	p.Asn987Ile	EXON11D		BREAST	0		Substitution	Missense	3188A>T	BIC							rs2227944		NM_00059.3	Predicted Benign	2012/12/05 4:51:45 PM	3	3
+1377	BRCA2				EXON11E			0														NM_00059.3			0	0
+1378	BRCA2		c.4670C>G	p.Thr1557Ser	EXON11		BREAST	0		Substitution	Missense	4898C>G	BIC							80358698	0.001	NM_00059.3	VUS	2012/12/06 4:31:51 PM	1	1
+1379	BRCA2		c.6796A>C		EXON11Q		BREAST	0		Substitution	Missense	7024A>C	BIC									NM_00059.3	VUS	2012/12/05 8:42:30 AM	1	1
+1380	BRCA2		c.8627A>C	p.His2876Pro	EXON20		BREAST	0		Substitution	Missense	8855A>C	BIC									NM_00059.3	VUS	2012/12/03 9:24:45 AM	1	1
+1381	APC				EXON11			0														NM_000038.4			0	0
+1382	APC				EXON11			0														NM_000038.4			0	0
+1383	BRCA1				EXON20			0														NM_007294.3			0	0
+1384	BRCA2				EXON11E			0														NM_00059.3			0	0
+1385	MLH1				EXON13			0														NM_000249.2			0	0
+1386	BRCA2		c.6065C>G		EXON20			0														NM_00059.3			1	1
+1387	MSH6		c.2569_2572delGATT		EXON04H			0														NM_000179.2			2	1
+1388	MSH6		c.3488A>T	p.Glu1163Val	EXON06		COLON	0		Substitution	Missense									63750252	0.005	NM_000179.2	VUS	2012/12/04 1:22:01 PM	1	1
+1389	MSH2				EXON13			0														NM_000251.1			0	0
+1390	MSH2				EXON10			0														NM_000251.1			0	0
+1391	BRCA1				EXON20			0														NM_007294.3			0	0
+1392	BRCA2				EXON11E			0														NM_00059.3			0	0
+1393	MLH1		c.63delG		EXON01			0														NM_000249.2			0	0
+1394	MSH2		c.1277-14T>A		EXON08			0														NM_000251.1			1	1
+1396	APC		c.1-?_8532+?del	p.?	EXON01_EXON15	pathogenic	"COLON, DESMOID"	0		Deletion	Frameshift - Out of Frame											NM_000038.4	Pathogenic	2012/12/19 3:51:25 PM	1	1
+1397	BRCA1		c.3179A>C	p.Glu1060Ala	EXON11H		BREAST	0		Substitution	Missense											NM_007294.3	Predicted Benign	2012/12/13 11:54:55 AM	1	1
+1398	BRCA1		c.3661G>T	p.Glu1221X	EXON11J		BREAST	0		Substitution	Nonsense	3780G>T	BIC									NM_007294.3	Pathogenic	2012/12/13 11:22:23 AM	1	1
+1399	BRCA2		c.1310_1313delAAGA	p.Lys437IlefsX22	EXON10B		BREAST	0		Deletion	Frameshift - Out of Frame	1538delAAGA	BIC									NM_00059.3	Pathogenic	2012/12/12 12:47:06 PM	4	3
+1400	BRCA2		c.4965C>G	p.Tyr1655X	EXON11K		BREAST	0		Substitution	Nonsense											NM_00059.3	Pathogenic	2012/12/12 1:09:44 PM	2	1
+1401	MSH2		c.613_616dupGAGA	p.Thr206ArgfsX27	EXON03		COLON	0		Duplication	Frameshift - Out of Frame	c.616_617dupGAGA										NM_000251.1	Pathogenic	2012/12/14 9:51:14 AM	3	0
+1402	APC		c.1993_1994del	p.Leu665IlefsX8	EXON15		COLON	0		Deletion	Frameshift - Out of Frame											NM_000038.4			2	2
+1403	BRCA2		c.-11C>T	r.?	EXON02		"BREAST, PANCREATIC"	0		Substitution	Intronic	IVS1-11C>T	BIC									NM_00059.3	Predicted Benign	2013/01/10 4:05:48 PM	2	2
+1404	BRCA2		c.4090A>C	p.Ile1364Leu	EXON11G		"BREAST, PANCREATIC"	0		Substitution	Missense	4318A>C	BIC							rs56248502		NM_00059.3	Benign	2013/01/10 4:24:20 PM	2	2
+1405	APC		c.835-1G>A		EXON08			0														NM_000038.4			3	2
+1406	MSH6				EXON07			0														NM_000179.2			0	0
+1407	APC				EXON15D			0														NM_000038.4			0	0
+1408	APC				EXON15E			0														NM_000038.4			0	0
+1409	BRAF		c.1798_1799GT>AA		EXON15			0																	1	1
+1410	BRCA1				EXON20			0														NM_007294.3			0	0
+1411	BRCA2				EXON11E			0														NM_00059.3			0	0
+1412	MSH6		c.3438+11_14delCTTA	p.?	EXON05			0														NM_000179.2			1	1
+1413	CKIT		c.1669_1683del15		EXON11			0																	1	1
+1414	MLH1		c.438A>G	p.Gln146Gln	EXON05		ENDOMETRIAL	0		Substitution	Silent											NM_000249.2	Predicted Benign	2012/12/19 6:05:56 PM	1	1
+1415	BRCA1		c.3436_3439delTGTT	p.Cys1146LeufsX8	EXON11I		BREAST	0		Deletion	Frameshift - Out of Frame	3555delTGTT	BIC									NM_007294.3	Pathogenic	2012/12/20 1:02:41 PM	1	1
+1416	APC				EXON15D			0														NM_000038.4			0	0
+1417	APC				EXON15E			0														NM_000038.4			0	0
+1418	CKIT				EXON17			0																	0	0
+1419	PDGFRA		c.2525A>T		EXON18			0																	1	1
+1420	CKIT				EXON17			0																	0	0
+1421	CKIT				EXON17			0																	0	0
+1422	CKIT				EXON17			0																	0	0
+1423	MSH2				EXON04			0														NM_000251.1			0	0
+1424	MSH6				EXON07			0														NM_000179.2			0	0
+1425	MSH2		c.435T>G		EXON03			0														NM_000251.1			1	1
+1426	MSH6		c.1526T>C		EXON04D			0														NM_000179.2			1	1
+1427	MSH2		c.1077-10T>C		EXON07			0														NM_000251.1			2	2
+1428	BRCA1		c.1-?_80+?del	p.?	EXON01_EXON02		BREAST	0		Large Genomic Deletion							1					NM_007294.3	Pathogenic	2012/07/10 5:00:49 PM	6	2
+1429	KRAS		c.35G>C		FN			0																	7	7
+1430	KRAS		c.34G>C		FN			0																	1	1
+1450	BRCA2		c.7007G>C	p.Arg2336Pro	EXON13		BREAST	0		Substitution	Missense	7235G>C	BIC									NM_00059.3	Pathogenic	2013/01/08 7:25:11 PM	7	1
+1451	BRCA2				EXON17			0														NM_00059.3			0	0
+1452	APC		c.6821C>T	p.Ala2274Val	EXON15L		COLON	0		Substitution	Missense									rs34919187	0.001	NM_000038.4	Predicted Benign	2013/01/09 12:35:43 PM	1	1
+1453	MSH6				EXON07			0														NM_000179.2			0	0
+1454	BRCA2				EXON17			0														NM_00059.3			0	0
+1455	MSH6		c.1-?_3646+?del	p.?	EXON01_07		COLON	0		Deletion	Frameshift - Out of Frame											NM_000179.2	Pathogenic	2013/01/18 12:42:42 PM	2	1
+1456	BRCA2		c.2588dupA	p.Asn862LysfsX18	EXON11C		"BREAST, OVARIAN"	0		Duplication	Frameshift - Out of Frame	2816insA	BIC							rs80359335	n/a	NM_00059.3	Pathogenic	2013/01/14 10:00:54 AM	1	1
+1457	BRCA2				EXON27A			0														NM_00059.3			0	0
+1458	APC		c.3378C>G	p.Ser1126Arg	EXON15D		COLON	0		Substitution	Missense											NM_000038.4	Predicted Benign	2013/03/04 10:37:54 AM	1	1
+1459	APC		c.2291dupT		EXON15A			0														NM_000038.4			2	2
+1460	BRCA2				EXON27A			0														NM_00059.3			0	0
+1461	BRCA1		c.-42T>G	r.?	EXON01		OVARIAN	0		Substitution	Intronic											NM_007294.3	VUS	2013/01/10 9:42:12 AM	0	0
+1462	BRCA1		c.4882A>G	p.Met1628Val	EXON16		BREAST	0		Substitution	Missense	5001A>G	BIC									NM_007294.3	Predicted Benign	2013/01/15 11:07:58 AM	1	1
+1463	BRCA2		c.8421G>A	p.Ser2807Ser	EXON19		BREAST	0		Substitution	Silent	8649G>A	BIC									NM_00059.3	Predicted Benign	2013/01/11 1:06:20 PM	1	1
+1464	BMPR1A		c.4C>A		EXON01			0																	2	2
+1465	BMPR1A		c.1140C>T		EXON08			0																	2	2
+1466	BMPR1A		c.1438C>T		EXON10			0																	3	3
+1467	CDH1		c.48+6C>T		EXON01			0																	3	3
+1468	CDH1		c.1212delC		EXON09			0																	3	3
+1469	CDH1		c.2076T>C		EXON13			0																	2	2
+1470	CDH1		c.2100delT		EXON13			0																	3	3
+1471	CDH1		c.2398delC		EXON15			0																	3	3
+1472	PMS2		c.137G>A		EXON02			0																	3	3
+1473	PMS2				EXON03-04			0																	0	0
+1474	PMS2				EXON05			0																	0	0
+1475	SMAD4		c.1148T>A		EXON09			0																	1	1
+1476	STK11		c.910C>T		EXON07			0																	3	3
+1477	STK11		c.920+7G>C		EXON07			0																	3	3
+1478	BRCA2				EXON17			0														NM_00059.3			0	0
+1479	MLH1				EXON08			0														NM_000249.2			0	0
+1480	MLH1				EXON08			0														NM_000249.2			0	0
+1481	MLH1				EXON08			0														NM_000249.2			0	0
+1482	MLH1				EXON08			0														NM_000249.2			0	0
+1483	CKIT		c.1652_1672het_delCCATGTATGAAGTACAGTGGA		EXON11			0																	1	1
+1484	CKIT		c.1673_1693het_delAGGTTGTTGAGGAGATAAATG		EXON11			0																	1	1
+1485	MLH1		c.604delG	p.Ala202LeufsX27	EXON08		COLON	0		Deletion	Frameshift - Out of Frame											NM_000249.2	Pathogenic	2013/01/17 12:03:02 PM	1	1
+1486	MUTYH		c.338G>A		EXON03			0														NM_001128425.1			1	1
+1487	APC		c.1313-?_8532+?del	p.?	EXON13_18		COLON	0		Deletion	Frameshift - Out of Frame	EXON10_15										NM_000038.4	Pathogenic	2013/01/18 12:37:06 PM	0	0
+1488	APC		c.1409-1G>A	p.?	EXON14			0		Substitution	Intronic	EXON11	Lab designation									NM_000038.4	Pathogenic	2013/01/21 12:25:35 PM	1	1
+1489	BRCA2		c.6059_6062delAACA	p.Glu2020Valfsx19	EXON11N		BREAST	0		Deletion	Frameshift - Out of Frame											NM_00059.3	Pathogenic	2013/01/24 10:46:01 AM	2	2
+1490	MLH1				EXON08			0														NM_000249.2			0	0
+1491	MLH1				EXON08			0														NM_000249.2			0	0
+1492	MLH1				EXON08			0														NM_000249.2			0	0
+1493	MLH1				EXON08			0														NM_000249.2			0	0
+1494	BRCA2		c.1459G>T	p.Ala487Ser	EXON10C		STOMACH	0		Substitution	Missense											NM_00059.3	Predicted Benign	2013/01/24 9:29:39 AM	1	1
+1495	BRCA2				EXON17			0														NM_00059.3			0	0
+1496	BRCA2				EXON17			0														NM_00059.3			0	0
+1497	BRCA2				EXON17			0														NM_00059.3			0	0
+1498	CDH1		c.1937-13T>C		EXON13			0																	1	1
+1499	SMAD4		c.728_735del		EXON05			0																	2	2
+1500	SMAD4		c.1148T>C		EXON09			0																	2	2
+1501	BRCA2		c.8462T>C	p.Ile2821Thr	EXON19			0		Substitution	Missense	8690T>C	BIC									NM_00059.3	VUS	2013/01/30 11:13:56 AM	1	1
+1502	BRCA2		c.5198C>T	 p.Ser1733Phe	EXON11L		BREAST	0		Substitution	Missense	5426C>T	BIC							rs55639415	0.002	NM_00059.3	Benign	2013/02/01 8:15:01 AM	1	1
+1503	BRCA2		c.5278T>G	p.Ser1760Ala	EXON11		BREAST	0		Substitution	Missense	5506T>G	BIC							rs63750906		NM_00059.3	VUS	2013/02/01 7:30:31 AM	1	1
+1504	BRCA2		c.2944A>C	p.Ile982Leu	EXON11D		BREAST	0		Substitution	Missense	3172A>C	BIC							rs28897717		NM_00059.3	VUS	2013/02/04 10:29:33 AM	1	1
+1505	KRAS		c.38G>T		FN			0																	1	1
+1506	PMS2		c.137g>t		EXON02			0																	2	2
+1507	PMS2		c.354-2A>G		EXON05			0																	2	2
+1508	PMS2		c.538-1G>C		EXON06			0																	2	2
+1509	PMS2		c.903+1G>A		EXON08			0																	2	2
+1510	PMS2		c.1939A>T		EXON11B			0																	2	2
+1511	PMS2		c.2007-4G>A		EXON12			0																	2	2
+1512	PMS2		c.2184delTC		EXON13			0																	2	2
+1513	PMS2		c.2324A>G		EXON14			0																	2	2
+1514	PMS2		c.2466T>C		EXON15			0																	2	2
+1515	PMS2		c.2500_2501delinsG		EXON15			0																	2	2
+1516	PMS2		c.2570G>C		EXON15			0																	2	2
+1517	BRCA1		c.211A>G		EXON05			0																	1	1
+1518	BRCA1		c.4318G>C	p.Glu1440Gln	EXON13		BREAST	0		Substitution	Missense	4437G>C	BIC									NM_007294.3	VUS	2013/02/04 12:09:47 PM	1	1
+1519	BRCA2		c.9352_9353delAT	p.Met3118ValfsX31	EXON25		"BREAST, OVARIAN"	0		Deletion	Frameshift - Out of Frame											NM_00059.3	Pathogenic	2013/02/05 5:38:48 PM	2	1
+1520	MLH1		c.1011delC	p.Asn338IlefsX29	EXON11		COLON	0		Deletion	Frameshift - Out of Frame											NM _000249.2	Pathogenic	2013/02/06 9:34:29 AM	1	1
+1521	MUTYH		c.1438G>T	p.Glu480X	EXON14		COLON	0		Substitution	Nonsense											NM_001128425.1	Pathogenic	2013/02/05 10:05:06 AM	1	1
+1522	APC				EXON11			0																	0	0
+1523	MUTYH		c.985G>A	p.Val329Met	EXON11			0		Substitution	Missense	"c.943G>A, p.Val315Met"										NM_001128425.1	Predicted Benign	2013/02/06 5:37:05 PM	1	1
+1524	MSH6		c.1901_1902delTG		EXON04E			0																	1	1
+1525	BRAF				EXON15			0																	0	0
+1526	BRAF				EXON15			0																	0	0
+1527	KRAS		c.19g>a		FN			0																	1	1
+1528	KRAS		c.22g>a		FN			0																	1	1
+1529	KRAS		c.40g>a		FN			0																	1	1
+1530	CKIT		C.2466T>A		EXON17			0																	2	2
+1531	PMS2				EXON02			0																	0	0
+1532	MSH2				EXON01			0																	0	0
+1533	MSH2				EXON01			0																	0	0
+1534	MSH2				EXON01			0																	0	0
+1535	BRCA2		c.631G>A	p.Val211Ile	EXON07		OVARIAN	0		Substitution	Missense	859G>A	BIC									NM_00059.3	Pathogenic	2013/03/13 10:53:25 AM	1	1
+1536	BRCA2		c.7008-2A>T	r.spl?	EXON14A		OVARIAN	0		Substitution	Intronic	IVS13-2A>T	BIC									NM_00059.3	Pathogenic	2013/03/14 8:59:52 AM	1	1
+1537	MLH1		c.1896G>A		EXON16			0																	1	0
+1538	MSH6		c.694C>T	p.Gln232X	EXON04			0		Substitution	Nonsense											NM_000179.2			2	1
+1539	BRCA2		c.9949C>T	p.Leu3317Leu	EXON27A		BREAST	0		Substitution	Silent	10177C>T	BIC										Predicted Benign	2013/02/22 4:44:42 PM	1	1
+1540	BRCA1		c.5194-2A>G	p.?	EXON20		BREAST	0		Substitution	Intronic	5313A>G	BIC										Pathogenic	2013/02/17 3:32:28 PM	1	0
+1541	MSH6		c.2936T>C	p.Leu979Pro	EXON04I		COLON	0		Substitution	Missense											NM_000179.2	VUS	2013/03/11 9:25:22 AM	1	1
+1542	BRCA2		c.8755-?_9256+?del	p.?	EXON22_24			0		Large Genomic Deletion	Frameshift - Out of Frame											NM_00059.3	Pathogenic	2013/04/08 10:09:05 AM	1	1
+1543	BRCA2		c.9118-?_9256+?del	p.?	EXON24			0														NM_00059.3			1	1
+1544	BRCA2				EXON14A			0																	0	0
+1545	MSH2		c.2580G>T		EXON15			0																	1	1
+1546	BRCA2		c.9403delC	p.Leu3135Phefsx28	EXON25		BREAST	0		Deletion	Frameshift - Out of Frame											NM_00059.3	Pathogenic	2013/02/22 4:41:44 PM	1	1
+1547	BRCA2		c.6083A>G	p.Glu2028Gly	EXON11		BREAST	0		Substitution	Missense	6311A>G	BIC									NM_00059.3	VUS	2013/02/21 5:17:39 PM	0	0
+1548	CKIT		c.1656delGTATGA		EXON11			0																	1	1
+1549	PDGFRA		c.1676_1681_delGGAGGG		EXON12			0																	1	1
+1550	CKIT				EXON11			0																	0	0
+1551	CKIT		c.1679T>A		EXON11			0																	2	2
+1552	BRCA1		c.4183C>T	p.Gln1385X	EXON12		"BREAST, UTERINE"	0		Substitution	Nonsense	4302C>T	BIC							rs80357260		NM_007294.3	Pathogenic	2013/02/26 5:44:01 PM	2	1
+1553	BRCA2		c.6643delT		EXON11P_F			0																	2	2
+1554	APC		c.2186_2187insGCAGCTT	p.Met730GlnfsX6	EXON18		COLON	0		Deletion	Frameshift - Out of Frame	EXON15	Lab primers									NM_000038.4	Pathogenic	2013/03/01 4:58:09 PM	1	1
+1555	MLH1		c.974delG		EXON11			0																	0	0
+1556	MLH1		c.976delG		EXON11			0																	2	2
+1557	APC				EXON11			0																	0	0
+1558	MSH2		c.2131C>T	p.Arg711X	EXON13			0		Substitution	Nonsense											NM_000251.1	Pathogenic	2013/03/01 3:06:01 PM	1	1
+1559	CKIT		c.1668_1673delGTGGAA		EXON11			0																	1	1
+1560	PDGFRA		c.2472C>T		EXON18			0																	3	3
+1561	CKIT		c.1705_1722delGTTTACATAGACCCAACA		EXON11			0																	1	1
+1562	CKIT		c.1676T>G		EXON11			0																	1	1
+1563	PMS2				EXON02			0																	0	0
+1564	BRCA1		c.1863T>C	p.His621His	EXON11D		BREAST	0		Substitution	Silent	1982T>C	BIC									NM_007294.3	Predicted Benign	2013/03/05 9:24:05 AM	1	1
+1565	BRCA2				EXON11G			0																	0	0
+1566	BRCA2				EXON11G			0																	0	0
+1567	BRCA2				EXON11G			0																	0	0
+1568	MLH1		c.753_755del	p.Tyr251X	EXON09		COLON	0		Deletion	Nonsense											NM _000249.2	Pathogenic	2013/03/05 12:18:46 PM	1	1
+1569	BRCA1				EXON13			0																	0	0
+1570	APC		c.472dupT	p.Try158LeufsX10	EXON07			0		Duplication	Frameshift - Out of Frame	EXON04	Alias									NM_000038.4	Pathogenic	2013/03/06 4:14:48 PM	1	1
+1571	BRCA2		c.5723_5724delTA		EXON11M			0																	2	1
+1572	BRCA1		c.671-8A>G		EXON11A			0																	1	1
+1573	BRCA1		c.811G>A	p.Val271Met	EXON11A		BREAST	0		Substitution	Missense												Predicted Benign	2013/03/08 4:38:56 PM	2	2
+1574	MUTYH		c.1147delC	p.Ala385Profsx23	EXON12_F			0														NM_001128425.1			2	1
+1575	BRCA1		c.2941ins16		EXON11H			0																	1	1
+1576	BRCA1		c.4524G>A		EXON15			0																	1	1
+1577	BRCA2		c.700delT		EXON09			0																	1	1
+1578	APC		c.7508G>A	p.Gly2503Glu	EXON18		COLON	0		Substitution	Missense											NM_000038.5	VUS	2013/04/09 9:55:01 AM	1	1
+1579	BRCA2		c.9371A>T	p.Asn3124Ile	EXON25		BREAST	0		Substitution	Missense											NM_00059.3	VUS	2013/03/20 6:54:30 AM	1	1
+1580	BRCA2		c.5748T>G	p.His1916Gln	EXON11M		BREAST	0		Substitution	Missense	5976T>G	BIC									NM_00059.3	Predicted Benign	2013/03/14 11:19:34 AM	1	1
+1581	MUTYH		c.1484G>A	p.Arg495His	EXON15		COLON	0		Substitution	Missense											NM_001128425.1	VUS	2013/03/15 4:57:07 PM	1	1
+1582	BRCA1		c.-104_-100del		EXON02			0																	1	1
+1583	MUTYH		c.36+11C>T	p.?	EXON01		COLON	0		Substitution	Intronic	IVS1+11C>T	NM_001048171.1							rs2275602	0.012	NM_001128425.1	VUS	2013/05/02 10:21:42 AM	1	1
+1584	MLH1		c.332C>T	p.Ala111Val	EXON04		COLON	0		Substitution	Missense												Predicted Pathogenic	2013/03/22 7:23:15 AM	1	1
+1585	APC		c.5265G>A	p.Ala1755Ala	EXON15I			0		Substitution	Silent												Benign	2013/04/04 10:54:41 AM	1	1
+1586	MLH1		c.1664T>G		EXON14			0																	1	1
+1587	BRCA2		c.7777G>T	p.Gly2593X	EXON16			0		Substitution	Nonsense	8005G>T	BIC										Pathogenic	2013/03/22 7:34:42 AM	3	1
+1588	KRAS		c.57G>T		FN			0																	1	1
+1589	BRCA1				EXON11H			0																	0	0
+1590	BRCA2		c.7757G>A	Trp2586X	EXON16		Prostate Basal Cell Carcinoma	0		Substitution	Nonsense	7985G>A	BIC										Pathogenic	2013/04/05 3:36:47 PM	1	1
+1591	BRCA1				EXON11H			0																	0	0
+1592	BRCA1		c.-9C>G		EXON02		BREAST	0		Substitution	Untranslated Region (Promoter)											NM_007294.3	VUS	2013/04/20 4:29:55 PM	1	1
+1593	BRCA1		c.984_988delTAATG		EXON11B			0																	1	1
+1594	BRCA2		c.3318C>G	p.Ser1106Arg	EXON11E			0		Substitution	Missense											NM_00059.3	VUS	2013/04/16 2:05:22 PM	1	1
+1595	MUTYH		c.1431G>C	p.Thr477Thr	EXON14		COLON	0		Substitution	Silent	1389G>C	NM_001048171.1							rs74318065	0.016	NM_001128425.1	VUS	2013/05/02 10:51:19 AM	1	1
+1596	BRCA1				EXON09			0																	0	0
+1597	BRCA1				EXON11F			0																	0	0
+1598	BRCA2				EXON10A			0																	0	0
+1599	BRCA1				EXON09			0																	0	0
+1600	BRCA1				EXON11F			0																	0	0
+1601	BRCA2				EXON10A			0																	0	0
+1602	CKIT		c.1503_1508dupTGCCTA		EXON09			0																	1	1
+1603	BRCA1		c.135-2A>G		EXON05			0		Substitution	Intronic	IVS4-2A>G	BIC										Pathogenic	2013/04/05 3:54:37 PM	1	1
+1604	APC		c.7862C>G	p.Ser2621Cys	EXON15M		COLON	0		Substitution	Missense									rs72541816		NM_000038.5	Benign	2013/04/03 12:40:44 PM	1	1
+1605	MSH6		c.1669G>A	p.Gly557Ser	EXON04D		"COLON, SEBACEOUS ADENOMA"	0		Substitution	Missense											NM_000179.2	VUS	2013/04/08 1:39:19 PM	1	1
+1606	BRCA1		c.5090G>A	p.Cys1697Tyr	EXON18_F		BREAST	0		Substitution	Missense	5209G>A	BIC									NM_007294.3	VUS	2013/05/08 12:55:33 PM	1	1
+1607	PDGFRA		c.2534_2542delATGATTCGA		EXON18			0																	1	1
+1608	BRCA1		c.3302G>A	p.Ser1101Asn	EXON11I			0		Substitution	Missense	3421G>A	BIC									NM_007294.3	Benign	2013/04/08 11:32:39 AM	1	1
+1609	MLH1		c.1266C>T		EXON12			0																	2	0
+1610	CKIT		c.1676T>A		EXON11			0																	1	1
+1611	BRCA1				EXON08			0																	0	0
+1612	BRCA2		c.9235delG	p.Val3079PhefsX4	EXON24		OVARIAN	0		Deletion	Frameshift - Out of Frame											NM_00059.3	Pathogenic	2013/06/05 11:16:05 AM	1	1
+1613	BRCA2		c.9253A>C	p.Thr3085Pro	EXON24		OVARIAN	0		Substitution	Missense											NM_00059.3	Predicted Benign	2013/06/05 11:18:55 AM	1	1
+1614	MSH6				EXON01			0																	0	0
+1615	MSH6				EXON01			0																	0	0
+1616	BRCA2		c.3873delA		EXON11G			0																	1	1
+1617	BRCA1		c.4360G>A	p.Val1454Ile	EXON14			0		Substitution	Missense											NM_007294.3	VUS	2013/04/23 10:49:14 AM	1	1
+1618	BRCA2		c.2751A>G	p.Val917Val	EXON11C		OVARIAN	0		Substitution	Silent	2979A>G	BIC									NM_00059.3	Benign	2013/04/30 12:02:55 PM	1	1
+1619	BRCA2				EXON10D			0																	0	0
+1620	BRCA1		c.5347A>C	p.Met1783Leu	EXON22		OVARIAN	0		Substitution	Missense	5466A>C	BIC							rs80357012		NM_007294.3	VUS	2013/04/30 11:23:19 AM	1	1
+1621	F2				EXON14			0																	0	0
+1622	HFE				EXON04			0																	0	0
+1623	BRCA2		c.1332dupT		EXON10B			0																	0	0
+1624	BRCA2		c.1333dupT	p.Ser445PhefsX7	EXON10B		OVARIAN	0		Duplication	Frameshift - Out of Frame											NM_00059.3	Pathogenic	2013/04/19 2:25:30 PM	3	1
+1625	BRCA1				EXON14			0																	0	0
+1626	BRCA1				EXON14			0																	0	0
+1627	BRCA1				EXON14			0																	0	0
+1628	BRCA2		c.68-?_316+?del		EXON03			0		Large Genomic Deletion	Frameshift - In-Frame											NM_00059.3	VUS	2013/04/18 12:25:14 PM	1	1
+1629	BRCA1		c.213+11C>T		EXON01			0																	0	0
+1630	APC		c.7704A>G	p.Gly2568Gly	EXON15M		STOMACH	0		Substitution	Silent									rs35043160	0.097	NM_000038.5	Benign	2013/05/22 10:16:28 AM	1	1
+1631	BRCA2		c.9053G>A	p.Ser3018Asn	EXON23		BREAST	0		Substitution	Missense											NM_00059.3	VUS	2013/04/30 10:01:12 AM	1	1
+1632	BRCA2		c.4146_4148delAGA	p.Glu1382del	EXON11H		BREAST	0		Deletion	Frameshift - In-Frame									rs80359432		NM_00059.3	VUS	2013/04/30 10:18:30 AM	1	1
+1633	KRAS		c.37G>T		FN			0																	2	2
+1634	BRCA1							0																	0	0
+1635	BRCA2		c.198G>T	p.Gln66Gln	EXON03		BREAST	0		Substitution	Silent											NM_00059.3	Benign	2013/04/26 1:37:30 PM	0	0
+1636	BRCA2				EXON10D			0																	0	0
+1637	BRCA1				EXON08			0																	0	0
+1638	BRCA1		c.5194-4T>C	r.(spl?)	EXON20		BREAST	0		Substitution	Intronic											NM_007294.3	Predicted Benign	2013/05/22 10:41:38 AM	1	1
+1639	BRCA1		c.2241delC	p.Asp749IlefsX4	EXON11E		OVARIAN	0		Deletion	Frameshift - Out of Frame	2360delC	BIC							rs80357650		NM_007294.3	Pathogenic	2013/05/08 12:39:27 PM	1	1
+1640	APC				EXON11			0																	0	0
+1641	APC				EXON13			0																	0	0
+1642	APC				EXON15D			0																	0	0
+1643	APC				EXON15E			0																	0	0
+1644	APC				EXON15J			0																	0	0
+1645	MUTYH		c.1601G>A	p.Arg534Gln	EXON16		COLON	0		Substitution	Missense												Benign	2013/06/04 8:28:40 AM	1	1
+1646	BRCA2		c.9076C>T	p.Gln3026X	EXON23		BREAST	0		Substitution	Nonsense											NM_00059.3	Pathogenic	2013/05/13 12:57:05 PM	2	2
+1647	BRCA2		c.5985C>T	p.Asn1995Asn	EXON11N		BREAST	0		Substitution	Silent											NM_00059.3	Predicted Benign	2013/05/16 3:40:20 PM	1	1
+1648	BRCA1		c.2458A>G		EXON11F			0																	1	1
+1649	BRCA1		c.5333-8C>T	r.spl(?)	EXON22		BREAST	0		Substitution	Intronic	IVS21-8C>T	BIC							rs80358084		NM_007294.3	VUS	2013/05/13 9:13:56 AM	1	1
+1650	BRCA2				EXON11P			0																	0	0
+1651	BRCA2				EXON11P			0																	0	0
+1652	CKIT		c.1504_1509dupGCCTAT		EXON09			0																	1	1
+1653	BRCA2		c.10230C>A	p.Asp3410Glu	EXON27B		BREAST	0		Substitution	Missense	10458C>A	BIC							rs80358404		NM_00059.3	VUS	2013/06/04 9:37:28 AM	1	1
+1654	MSH2				EXON01			0																	0	0
+1655	BRCA2		c.2330A>G	p.Asp777Gly	EXON11B		BREAST	0		Substitution	Missense											NM_00059.3	Predicted Benign	2013/06/05 12:21:39 PM	1	1
+1656	BRCA1		c.5106delA	p.Lys1702AsnfsX4	EXON18			0		Deletion	Frameshift - Out of Frame											NM_007294.3	Pathogenic	2013/05/13 2:55:08 PM	1	0
+1657	BRCA1		c.5324T>G	p.Met1775Arg	EXON21			0		Substitution	Missense	5443T>G	BIC							rs41293463		NM_007294.3	Pathogenic	2013/05/29 9:56:54 AM	2	1
+1658	BRCA2		c.426-2A>G	r.spl(?)	EXON05		BREAST	0		Substitution	Intronic											NM_00059.3	Pathogenic	2013/05/13 3:02:20 PM	1	1
+1659	BRCA2		c.4692dupC		EXON11J			0																	0	0
+1660	BRCA2		c.4691dupC	p.Thr1566AspfsX9	EXON11		PANCREATIC	0		Duplication	Frameshift - Out of Frame											NM_00059.3	Pathogenic	2013/05/13 1:21:09 PM	1	1
+1661	MSH6		c.3152insGT	p.Glu1052X	EXON04J		COLON	0		Insertion	Frameshift - Out of Frame											NM_000179.2			1	1
+1662	BRCA1		c.425C>A	p.Pro142His	EXON07		BREAST	0		Substitution	Missense	544C>A	BIC							rs55971303	0.001	NM_007294.3	Predicted Benign	2013/06/05 12:25:54 PM	1	1
+1663	APC		c.426_427delAT	p.Leu143Alafs*4	EXON04		COLON	0		Deletion	Frameshift - Out of Frame											NM_000038.5	Pathogenic	2013/05/21 4:23:33 PM	1	1
+1664	BRCA1		c.4636G>A		EXON15			0																	1	1
+1665	BRCA2		c.1564G>C	p.Gly522Arg	EXON10C		"OVARIAN, ENDOMETRIAL"	0		Substitution	Missense	1792G>C	BIC							rs80358442	0.0001	NM_00059.3	VUS	2013/06/05 11:41:48 AM	1	1
+1666	MSH6		c.2314C>T	p.Arg772Trp	EXON04G		COLON	0		Substitution	Missense									rs63750138	0.0007	NM_000179.2	Predicted Pathogenic	2013/06/05 12:36:41 PM	2	2
+1667	BRCA1				EXON13			0																	0	0
+1668	MSH6		c.2150_2153delTCAG	p.Val717AlafsX18	EXON04F		COLON	0		Deletion	Frameshift - Out of Frame									rs267608058		NM_000179.2	Pathogenic	2013/05/22 12:30:36 PM	1	1
+1669	BRCA2		c.6814delA		EXON11Q			0																	1	1
+1670	BRCA1		c.-20+11C>T	r.spl(?)	EXON01		BREAST	0		Substitution	Intronic									rs273898672		NM_007294.3	Predicted Benign	2013/06/05 10:09:03 AM	1	1
+1671	MSH6		c.2398G>C	p.Val800Leu	EXON04G		COLON	0		Substitution	Missense									rs61748083		NM_000179.2	Predicted Benign	2013/06/18 11:28:19 AM	1	1
+1672	MSH6		c.3416G>T	p.Gly1139Val	EXON05		"ENDOMETRIAL, BREAST"	0		Substitution	Missense											NM_000179.2	Predicted Pathogenic	2013/06/19 2:28:16 PM	1	1
+1673	BRCA1		c.4485-2A>T	r.spl(?)	EXON15		BREAST	0		Substitution	Intronic	IVS14-2A>T	BIC									NM_007294.3	Pathogenic	2013/06/05 10:38:11 AM	1	1
+1674	BRCA2		c.5622_5625del		EXON11M			0																	0	0
+1675	BRCA2		c.5621_5624del	p.Ile1874ArgfsX34	EXON11M		BREAST	0		Deletion	Frameshift - Out of Frame	5849del4	BIC									NM_00059.3	Pathogenic	2013/06/05 10:54:37 AM	1	1
+1676	APC		c.1621C>T	p.Gln541X	EXON12		COLON	0		Substitution	Nonsense									rs137854572		NM_000038.5	Pathogenic	2013/05/27 2:54:16 PM	3	1
+1677	MLH1				EXON08			0																	0	0
+1678	MLH1		c.694G>A	p.Gly232Arg	EXON09		COLON	0		Substitution	Missense											NM _000249.2			1	1
+1679	KRAS		c.36G>T		FN			0																	1	1
+1680	MLH1		c.676C>T		EXON08			0																	2	2
+1681	MSH2				EXON06			0																	0	0
+1682	MSH2				EXON06			0																	0	0
+1683	BRCA1				EXON21			0																	0	0
+1684	BRCA1				EXON21			0																	0	0
+1685	BRCA1				EXON21			0																	0	0
+1686	BRCA1				EXON21			0																	0	0
+1687	BRCA1				EXON21			0																	0	0
+1688	BRCA1				EXON21			0																	0	0
+1689	BRCA1		c.1510C>T	p.Arg504Cys	EXON11C		BREAST	0		Substitution	Missense											NM_007294.3			1	1
+1690	BRCA1				EXON21			0																	0	0
+1691	MSH2		c.965delG		EXON06			0																	1	1
+1692	APC		c.4645dupC	p.Gln1549ProfsX10	EXON15			0														NM_000038.5			1	1
+1693	MSH2		c.508C>T		EXON03			0																	1	1
+1694	MLH1		c.843A>C	p.Ala281Ala	EXON10		COLON	0		Substitution	Silent											NM _000249.2			1	1
+1695	APC		c.835-7T>G		EXON08			0																	1	1
+1696	MSH6		c.1714C>T		EXON04E			0																	1	1
+1697	BRCA1		c.1-?_4986+?del		EXON01_EXON16			0														NM_007294.3			0	0
+1698	BRCA1		c.4327C>T	p.Arg1443X	EXON13		BREAST	0		Substitution	Nonsense	4446C>T	BIC									NM_007294.3	Pathogenic	2013/06/21 3:36:13 PM	3	3
+1699	BRCA1		c.5236C>T	p.His1746Tyr	EXON20		OVARIAN	0		Substitution	Missense											NM_007294.3	VUS	2013/07/05 10:31:27 AM	1	1
+1700	BRCA2				EXON11M			0																	0	0
+1701	BRCA1		c.-192C>T		EXON01			0																	1	1
+1702	BRCA1		c.-192T>C	r.?	EXON01			0		Substitution	Intronic									rs113323025	0.005	NM_007294.3	Benign	2013/06/24 1:47:25 PM	2	2
+1703	BRCA1				EXON21			0																	0	0
+1704	BRCA1		c.1-?_80+?dup		EXON01_EXON02			0														NM_007294.3			1	0
+1705	BRCA1		c.5194-?_5277+?del		EXON20			0														NM_007294.3			0	0
+1706	BRCA1		c.5277+1G>A	r.?	EXON20		BREAST	0		Substitution	Intronic	IVS20+1G>A	BIC							rs80358150	0	NM_007294.3	Pathogenic	2013/06/12 9:48:30 AM	1	1
+1707	MLH1				EXON08			0																	0	0
+1708	KRAS		c.24A>G		FN			0																	1	1
+1709	APC				EXON04			0																	0	0
+1710	MUTYH		c.37G>A	p.Ala13Thr	EXON04		COLON	0		Substitution	Missense	EXON02										NM_001128425.1	VUS	2013/06/21 9:22:31 AM	1	1
+1711	BRCA2		c.2949A>G		EXON11D			0																	1	1
+1712	BRCA1		c.2634T>G		EXON11H			0																	0	0
+1713	BRCA1		c.8332-?_8487+?del		EXON19			0														NM_007294.3			0	0
+1714	BRCA1		c.2295G>A	p.Glu765Glu	EXON11E		BREAST	0		Substitution	Silent									rs201875054		NM_007294.3	Predicted Benign	2013/06/24 1:04:21 PM	1	1
+1715	BRCA1		c.5578dupC	p.His1860ProfsX20	EXON24			0														NM_007294.3			1	1
+1716	BRCA1		c.1396C>G	p.Arg466Gly	EXON11			0														NM_007294.3			1	1
+1717	BRCA1		c.2074C>T	p.His692Tyr	EXON11	VUS		0														NM_007294.3			1	1
+1718	BRCA1		c.4347A>G	p.=	EXON13	VUS		0														NM_007294.3			1	1
+1719	MSH6		c.3246G>T		EXON05			0																	1	1
+1720	MLH1		c.70delG		EXON01			0																	1	1
+1721	BRCA2		c.8092G>A	p.Ala2698Thr	EXON18	VUS		0														NM_00059.3			1	1
+1722	BRCA2		c.8755-14T>C	p.?	EXON22	VUS		0														NM_00059.3			1	1
+1723	BRCA2		c.2957dupA	p.Asn986LysfsX2	EXON11D		BREAST	0		Duplication	Frameshift - Out of Frame	3185insG	BIC									NM_00059.3	Pathogenic	2013/06/20 4:25:12 PM	1	1
+1724	MSH2		c.687dupA		EXON04			0																	1	0
+1725	BRCA1		c.535T>C	p.Tyr179His	EXON08	VUS		0														NM_007294.3			1	1
+1726	BRCA2		c.9104A>G	p.Tyr3035Cys	EXON23		BREAST	0		Substitution	Missense	9332	BIC							rs80359165		NM_00059.3	VUS	2013/06/26 3:32:24 PM	1	1
+1727	BRCA1		c.2934T>G	p.Tyr978X	EXON11H		BREAST	0		Substitution	Nonsense	3053T>G	BIC									NM_007294.3	Pathogenic	2013/06/24 10:19:24 AM	1	1
+1728	CKIT		c.1669T>C		EXON11			0																	1	1
+1729	F5				EXON10			0																	0	0
+1730	CKIT		c.1666_1679IndelGA		EXON11			0																	1	1
+1731	BRCA2		c.5618_5621delTAAT		EXON11			0														NM_00059.3			0	0
+1732	BRCA1		c.5075-?_5193+?del					0														NM_007294.3			1	1
+1733	BRCA1		c.3607C>T	p.Arg1203X	EXON11			0		Substitution	Nonsense	3726C>T	BIC							rs62625308		NM_007294.3	Pathogenic	2013/06/25 4:16:11 PM	2	1
+1734	BRAF		c.1789C>T		EXON15			0																	1	1
+1735	BRAF		c.1790T>C		EXON15			0																	1	1
+1736	CKIT		intronic and exonic deletion		EXON11			0																	1	1
+1737	BRCA2		c.9613G>C		EXON26			0																	1	1
+1738	BRCA2		c.9614C>T		EXON26			0																	1	1
+1739	BRCA1		c.4485-?_4675+?del	p.?	EXON15	pathogenic		0														NM_007294.3			0	0
+1740	BRCA1		c.4399C>T		EXON14			0																	1	1
+1741	MLH1		c.497T>G		EXON06			0																	3	2
+1742	CKIT		 c.1668_1685delinsACCTCC		EXON11			0																	1	1
+1743	PDGFRA		c.2526_2537delCATCATGCATGA		EXON18			0																	1	1
+1744	BRCA2		c.793+6T>C	r.(spl?)	EXON09		BREAST	0		Substitution	Intronic											NM_00059.3	VUS	2013/07/04 2:10:55 PM	1	1
+1745	CKIT		  c.1716_1739dupCCCAACACAACTTCCTTATGATCA		EXON11			0																	1	1
+1746	CKIT		 c.1716_1739dupCCCAACACAACTTCCTTATGATCA		EXON11			0																	1	1
+1747	BRCA2		c.5471dupA		EXON11L			0																	1	1
+1748	MUTYH		c.1476+2C>T		EXON14			0																	1	1
+1749	MLH1		c.184C>T		EXON02			0																	1	1
+1750	MLH1		c.474C>T		EXON06			0																	1	1
+1751	MLH1		c.117-?_207+?del					0																	1	1
+1752	MSH6		c.3083C>A		EXON04J			0																	1	1
+1753	MSH6		c.3456A>G		EXON06			0																	1	1
+1754	APC		c.646C>T		EXON06			0																	5	3
+1755	MUTYH		c.475C>A		EXON06			0																	1	1
+1756	MUTYH		c.548G>A		EXON07			0																	1	1
+1757	BRCA2		c.10222A>T		EXON27B			0																	1	1
+1758	BRCA1		c.-19-3A>G		EXON02			0																	1	1
+1759	BRCA1		c.2286A>T		EXON11E			0																	1	1
+1760	BRCA1		"c.671-8A>G,"		EXON11A			0																	1	1
+1761	BRCA1				EXON14			0																	0	0
+1762	BRCA1		c.1709C>A		EXON11D			0																	1	1
+1763	MSH6		c.3261dupC		EXON05			0																	1	1
+1764	BRCA2		c.9103dupT		EXON23			0																	1	1
+1765	BRCA2		c.574delAT	p.Met192Val	EXON07	Pathogenic	BREAST	0		Deletion												NM_00059.3			0	0
+1766	BRCA1		c.1010delA	p.Lys339ArgfsX2	EXON11		BREAST	0		Deletion												NM_007294.3			0	0
+1767	BRCA2		c.9038C>T		EXON23			0																	1	1
+1768	BRCA1		c.5243G>A	p.Gly1748Asp	EXON20	VUS	BREAST	0														NM_007294.3			0	0
+1769	BRCA2		c.1040A>G	p.Gln347Arg	EXON10	VUS	BREAST	0														NM_00059.3			0	0
+1770	MSH2				EXON01			0																	0	0
+1771	BRCA2		c.7069_7070delCT	p.Leu2357Valfs	EXON14		BREAST	0														NM_00059.3			0	0
+1772	BRCA2		c.7878G>A	p.Trp2626X	EXON17	Pathogenic	BREAST	0														NM_00059.3			0	0
+1773	BRCA2		c.8954-5_8954-2delAACA		EXON22	VUS	BREAST	0														NM_00059.3			0	0
+1774	BRCA2		c.7102T>G	p.L2368V	EXON14	VUS	BREAST	0														NM_00059.3			0	0
+1775	BRCA2		c.2882G>A	p.Q961Q	EXON11	VUS	BREAST	0		Substitution												NM_00059.3			0	0
+1776	BRCA1		c.2766delA	p.Thr922fsX78	EXON11	Pathogenic	BREAST	0		Deletion												NM_007294.3			0	0
+1777	BRCA2		c.6530T>A	I2177N	EXON11	VUS	BREAST	0														NM_00059.3			0	0
+1778	BRCA2		c.6481+23C>T		EXON11	VUS	BREAST	0														NM_00059.3			0	0
+1779	BRCA1		c.4987-33C>T		EXON17	VUS	BREAST	0														NM_007294.3			0	0
