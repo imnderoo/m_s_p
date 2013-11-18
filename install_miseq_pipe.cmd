@@ -1,0 +1,16 @@
+@echo off
+echo.
+
+REM INSTALLING CYGWIN WITH ALL PACKAGES
+setup-x86.exe -q -s http://cygwin.parentingamerica.com -X -D -L -R C:\cygwin -P afio,alternatives,amanda,arc,atool,base-cygwin,base-files,bash,binutils,bsdcpio,bsdtar,bzip2,ca-certificates,cabextract,coreutils,crypt,csih,cygrunsrv,cygutils,cygwin,dash,dialog,diffutils,dos2unix,ed,editrights,file,findutils,fontconfig,gamin,gawk,gcc-core,gcc-g++,gcc-java,gettext,ghostscript,ghostscript-fonts-other,ghostscript-fonts-std,gnupg,grep,groff,gsettings-desktop-schemas,gzip,hdf5,ImageMagick,ipc-utils,kgb,less,libarchive,libarchive2,libasn1_8,libattr1,libautotrace3,libblkid1,libbz2_1,libcairo2,libcharset1,libcloog0,libcom_err2,libcroco0.6_3,libcurl4,libdatrie1,libdb4.5,libdb4.8,libdialog11,libedit0,libEMF1,libexpat1,libfam0,libffi4,libffi6,libfftw3_3,libfontconfig1,libfpx1,libfreetype6,libgcc1,libgcj-common,libgcj11,libgcj13,libgcrypt-devel,libgcrypt11,libgd2,libgdbm4,libgdk_pixbuf2.0_0,libgfortran3,libgif4,libglib2.0_0,libgmp10,libgmp3,libgmpxx4,libgomp1,libgpg-error-devel,libgpg-error0,libgraphite2_3,libgs9,libgssapi3,libharfbuzz0,libhdf5-devel,libhdf5_6,libhdf5_7,libhdf5_8,libheimbase1,libheimntlm0,libhx509_5,libICE6,libiconv,libiconv2,libicu48,libidn11,libintl8,libjasper1,libjbig2,libjpeg8,libkafs0,libkpathsea6,libkrb5_26,liblcms2_2,libltdl7,liblzma-devel,liblzma1,liblzma5,liblzo2,liblzo2-devel,liblzo2_2,libMagickCore5,libming1,libmpc3,libmpfr4,libncurses-devel,libncurses10,libncurses9,libncursesw-devel,libncursesw10,libnetcdf-cxx4-devel,libnetcdf-cxx4_1,libnetcdf-devel,libnetcdf-fortran-devel,libnetcdf-fortran_5,libnetcdf6,libnetcdf7,libopenjpeg1,libopenldap2_4_2,libopenssl098,libopenssl100,libpango1.0_0,libpaper-common,libpaper1,libpcre0,libpcre1,libpixman1_0,libplotter2,libpng12,libpng14,libpng15,libpoppler28,libpopt0,libppl9,libppl_c4,libpstoedit0,libptexenc1,libpwl5,libquadmath0,libreadline7,libroken18,librsvg2_2,libsasl2_3,libSM6,libsqlite3_0,libssh2_1,libssp0,libstdc++6,libthai0,libtiff5,libusb-win32,libuuid1,libwind0,libwrap0,libX11_6,libXau6,libXaw7,libxcb-render0,libxcb-shm0,libxcb1,libXdmcp6,libXext6,libXft2,libxml2,libxml2-devel,libXmu6,libXpm4,libXrender1,libxslt,libxslt-devel,libXss1,libXt6,libzzip-devel,libzzip0.13,login,lzip,lziprecover,lzop,make,makeself,man,mingw-binutils,mingw-gcc-core,mingw-gcc-g++,mingw-pthreads,mingw-runtime,mingw-w32api,minires,mintty,netcdf,netcdf-cxx4,netcdf-fortran,openssh,p7zip,pax,pbzip2,pdftk,perl,perl_vendor,poppler-data,python,R,rebase,rsnapshot,rsync,run,sed,sharutils,t1lib5,tar,tcl,tcl-tk,terminfo,texinfo,texlive,texlive-collection-basic,texlive-collection-latex,texlive-collection-latexextra,texlive-collection-latexrecommended,texlive-collection-pictures,tnef,tzcode,unace,unalz,unzip,util-linux,vim-minimal,w32api-headers,w32api-runtime,which,xz,zip,zlib,zlib-devel,zlib0,zoo,zziplib
+
+REM MOVING MISEQ_PIPE INTO INSTALLED CYGWIN DIRECTORY
+move "%CD%\miseq_pipe" "%HOMEDRIVE%\cygwin\home\%USERNAME%\"
+
+REM RUN THE INSTALL SCRIPT FROM CYGWIN DIRECTORY
+C:\cygwin\bin\bash.exe --login -c '/home/%USERNAME%/miseq_pipe/software/install_software.sh'
+
+ping -n 2 127.0.0.1 > nul:
+echo.MiSeqp Reporting Pipeline Installed. Exiting...
+ping -n 20 127.0.0.1 > nul:
+echo. 
