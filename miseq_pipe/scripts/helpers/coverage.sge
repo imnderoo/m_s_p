@@ -1,0 +1,56 @@
+#!/bin/bash
+
+if [ $# -ne 4 ]; then
+	echo "This script uses coverageBED and other helper scripts to generate depth of coverage stats for whole sequence and for the genes specified in target gene list."
+	echo "Default target gene list is in /data1/genelists/test.targetGenes.txt"
+	echo "--------------------------------------------------------------------------------------------------------------------------"  	
+	echo "Usage: $(basename $0) <Project.Sample.*.bam File> <List of target genes> <BED file for targeted regions> <Depth of Coverage threshold>"
+	exit
+fi
+
+TARGET_GENES=$2
+TARGET_REGIONS=$3
+DEPTH_THRESHOLD=$4
+
+#Input File Format: ProjecTID.SampleID.*.bam
+BAM_FILE=$(readlink -f $1)
+BAM_ID=$(basename "$BAM_FILE" | sed 's/\(.*\)\..*/\1/')
+
+OUT_FOLDER="$(dirname $BAM_FILE)/coverage"
+OUT_GENE_FOLDER="$OUT_FOLDER/gene_coverage"
+OUT_BOXPLOT_FOLDER="$OUT_GENE_FOLDER/boxplot"
+
+mkdir -p $OUT_BOXPLOT_FOLDER
+
+OUT_HIST="$OUT_FOLDER/$BAM_ID.hist"
+OUT_TMP="$OUT_FOLDER/$BAM_ID.tmp"
+OUT_SUM="$OUT_FOLDER/$BAM_ID.summary"
+OUT_RESEQ="$OUT_FOLDER/${BAM_ID}_resequence.csv"
+
+echo "Running Coverage SGE"
+
+# Run the DepthOfCoverage Tool
+coverageBed -abam $BAM_FILE -b $TARGET_REGIONS -hist > $OUT_HIST
+
+# Parse Coverage Histogram to generate Summary
+create_coverage_summary.pl $OUT_HIST $DEPTH_THRESHOLD > $OUT_TMP
+
+# $REFGENE is defined as an ENV variable previously
+# Format Summary to include Gene + Exon name (tab-delimited)
+format_coverage_summary.pl $OUT_TMP $REFGENE $TARGET_REGIONS $DEPTH_THRESHOLD > $OUT_SUM
+
+# Read the coverage.summary and extract the exons where the min coverage is less than 20
+format_resequence_summary.pl $OUT_SUM $DEPTH_THRESHOLD> $OUT_RESEQ
+
+# Extract the desires gene from summary. Create a summary for each gene and saves them in the gene folder.
+format_gene_coverage.pl $OUT_SUM $TARGET_GENES $OUT_GENE_FOLDER $DEPTH_THRESHOLD
+
+r_lib=$HOME/miseq_pipe/scripts/helpers
+# Run R Command to generate BoxPlot for the depth of coverage of all the exons in each gene
+for GENE_COVERAGE in $(ls $OUT_GENE_FOLDER/*.txt); do
+	R CMD BATCH --no-restore --no-save --quiet "--args $(readlink -f $GENE_COVERAGE) $OUT_BOXPLOT_FOLDER $DEPTH_THRESHOLD" $r_lib/coverage_boxplot.R $OUT_GENE_FOLDER/coverage_boxplot.out
+done
+
+for BOXPLOT in $(ls $OUT_BOXPLOT_FOLDER/*.pdf); do
+	convert -density 96 -quality 80 $BOXPLOT $(echo $BOXPLOT | sed 's/\.pdf$/\.png/')
+done
