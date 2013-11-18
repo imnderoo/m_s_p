@@ -1,0 +1,13 @@
+Option --report-only Set
+SETTING UP VARIABLES
+NGSLIB: Test_Run
+Flattening AnnoVAR
+Filtering AnnoVAR
+Generating Report for CAB101b_S2
+Running JasperReports
+Reports for CAB101b_S2 are saved in /home/remote/NGS_analysis/Test_Run/CAB101b_S2
+Generating Report for CAB101_S1
+Running JasperReports
+Reports for CAB101_S1 are saved in /home/remote/NGS_analysis/Test_Run/CAB101_S1
+Reports completed
+Scripted started at 13.11.08|17:06:35 and ended at 13.11.08|17:08:01

@@ -1,0 +1,114 @@
+Alignment
+runAnnovar.sh started for /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment
+Running AnnoVAR for /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/CAB101_S1.vcf
+NOTICE: Read 43 lines and wrote 18 different variants at 18 genomic positions (16 SNPs and 2 indels)
+NOTICE: Among 18 different variants at 18 positions, 14 are heterozygotes, 4 are homozygotes
+NOTICE: Among 16 SNPs, 13 are transitions, 3 are transversions (ratio=4.33)
+-----------------------------------------------------------------
+NOTICE: Processing operation=g protocol=refGene
+NOTICE: Reading gene annotation from /home/remote/miseq_pipe/software/annovar/humandb/hg19_refGene.txt ... Done with 41711 transcripts (including 7312 without coding sequence annotation) for 23706 unique genes
+NOTICE: Reading FASTA sequences from /home/remote/miseq_pipe/software/annovar/humandb/hg19_refGeneMrna.fa ... Done with 6 sequences
+WARNING: A total of 268 sequences will be ignored due to lack of correct ORF annotation
+NOTICE: Finished gene-based annotation on 18 genetic variants in /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf
+NOTICE: Output files were written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf.refGene.variant_function, /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf.refGene.exonic_variant_function
+-----------------------------------------------------------------
+NOTICE: Processing operation=f protocol=esp6500si_all
+
+NOTICE: Running  with system command <annotate_variation.pl -filter -dbtype esp6500si_all -buildver hg19 -outfile /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf /home/remote/miseq_pipe/software/annovar/humandb>
+NOTICE: the --dbtype esp6500si_all is assumed to be in generic ANNOVAR database format
+NOTICE: Variants matching filtering criteria are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf.hg19_esp6500si_all_dropped, other variants are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf.hg19_esp6500si_all_filtered
+NOTICE: Processing next batch with 18 unique variants in 18 input lines
+NOTICE: Database index loaded. Total number of bins is 191802 and the number of bins to be scanned is 13
+NOTICE: Scanning filter database /home/remote/miseq_pipe/software/annovar/humandb/hg19_esp6500si_all.txt...Done
+-----------------------------------------------------------------
+NOTICE: Processing operation=f protocol=1000g2012apr_all
+
+NOTICE: Running  with system command <annotate_variation.pl -filter -dbtype 1000g2012apr_all -buildver hg19 -outfile /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf /home/remote/miseq_pipe/software/annovar/humandb>
+NOTICE: Variants matching filtering criteria are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf.hg19_ALL.sites.2012_04_dropped, other variants are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf.hg19_ALL.sites.2012_04_filtered
+NOTICE: Processing next batch with 18 unique variants in 18 input lines
+NOTICE: Database index loaded. Total number of bins is 2793037 and the number of bins to be scanned is 13
+NOTICE: Scanning filter database /home/remote/miseq_pipe/software/annovar/humandb/hg19_ALL.sites.2012_04.txt...Done
+-----------------------------------------------------------------
+NOTICE: Processing operation=f protocol=snp137
+
+NOTICE: Running  with system command <annotate_variation.pl -filter -dbtype snp137 -buildver hg19 -outfile /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf /home/remote/miseq_pipe/software/annovar/humandb>
+NOTICE: Variants matching filtering criteria are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf.hg19_snp137_dropped, other variants are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf.hg19_snp137_filtered
+NOTICE: Processing next batch with 18 unique variants in 18 input lines
+NOTICE: Database index loaded. Total number of bins is 2856306 and the number of bins to be scanned is 13
+NOTICE: Scanning filter database /home/remote/miseq_pipe/software/annovar/humandb/hg19_snp137.txt...Done
+NOTICE: output file is written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101_S1_annovar_vcf.hg19_multianno.txt
+Running AnnoVAR for /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/CAB101b_S2.vcf
+NOTICE: Read 42 lines and wrote 17 different variants at 17 genomic positions (15 SNPs and 2 indels)
+NOTICE: Among 17 different variants at 17 positions, 14 are heterozygotes, 3 are homozygotes
+NOTICE: Among 15 SNPs, 13 are transitions, 2 are transversions (ratio=6.50)
+-----------------------------------------------------------------
+NOTICE: Processing operation=g protocol=refGene
+NOTICE: Reading gene annotation from /home/remote/miseq_pipe/software/annovar/humandb/hg19_refGene.txt ... Done with 41711 transcripts (including 7312 without coding sequence annotation) for 23706 unique genes
+NOTICE: Reading FASTA sequences from /home/remote/miseq_pipe/software/annovar/humandb/hg19_refGeneMrna.fa ... Done with 6 sequences
+WARNING: A total of 268 sequences will be ignored due to lack of correct ORF annotation
+NOTICE: Finished gene-based annotation on 17 genetic variants in /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf
+NOTICE: Output files were written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf.refGene.variant_function, /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf.refGene.exonic_variant_function
+-----------------------------------------------------------------
+NOTICE: Processing operation=f protocol=esp6500si_all
+
+NOTICE: Running  with system command <annotate_variation.pl -filter -dbtype esp6500si_all -buildver hg19 -outfile /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf /home/remote/miseq_pipe/software/annovar/humandb>
+NOTICE: the --dbtype esp6500si_all is assumed to be in generic ANNOVAR database format
+NOTICE: Variants matching filtering criteria are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf.hg19_esp6500si_all_dropped, other variants are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf.hg19_esp6500si_all_filtered
+NOTICE: Processing next batch with 17 unique variants in 17 input lines
+NOTICE: Database index loaded. Total number of bins is 191802 and the number of bins to be scanned is 11
+NOTICE: Scanning filter database /home/remote/miseq_pipe/software/annovar/humandb/hg19_esp6500si_all.txt...Done
+-----------------------------------------------------------------
+NOTICE: Processing operation=f protocol=1000g2012apr_all
+
+NOTICE: Running  with system command <annotate_variation.pl -filter -dbtype 1000g2012apr_all -buildver hg19 -outfile /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf /home/remote/miseq_pipe/software/annovar/humandb>
+NOTICE: Variants matching filtering criteria are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf.hg19_ALL.sites.2012_04_dropped, other variants are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf.hg19_ALL.sites.2012_04_filtered
+NOTICE: Processing next batch with 17 unique variants in 17 input lines
+NOTICE: Database index loaded. Total number of bins is 2793037 and the number of bins to be scanned is 11
+NOTICE: Scanning filter database /home/remote/miseq_pipe/software/annovar/humandb/hg19_ALL.sites.2012_04.txt...Done
+-----------------------------------------------------------------
+NOTICE: Processing operation=f protocol=snp137
+
+NOTICE: Running  with system command <annotate_variation.pl -filter -dbtype snp137 -buildver hg19 -outfile /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf /home/remote/miseq_pipe/software/annovar/humandb>
+NOTICE: Variants matching filtering criteria are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf.hg19_snp137_dropped, other variants are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf.hg19_snp137_filtered
+NOTICE: Processing next batch with 17 unique variants in 17 input lines
+NOTICE: Database index loaded. Total number of bins is 2856306 and the number of bins to be scanned is 11
+NOTICE: Scanning filter database /home/remote/miseq_pipe/software/annovar/humandb/hg19_snp137.txt...Done
+NOTICE: output file is written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB101b_S2_annovar_vcf.hg19_multianno.txt
+Running AnnoVAR for /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/CAB103_S3.vcf
+NOTICE: Read 33 lines and wrote 8 different variants at 8 genomic positions (6 SNPs and 2 indels)
+NOTICE: Among 8 different variants at 8 positions, 5 are heterozygotes, 3 are homozygotes
+NOTICE: Among 6 SNPs, 4 are transitions, 2 are transversions (ratio=2.00)
+-----------------------------------------------------------------
+NOTICE: Processing operation=g protocol=refGene
+NOTICE: Reading gene annotation from /home/remote/miseq_pipe/software/annovar/humandb/hg19_refGene.txt ... Done with 41711 transcripts (including 7312 without coding sequence annotation) for 23706 unique genes
+NOTICE: Reading FASTA sequences from /home/remote/miseq_pipe/software/annovar/humandb/hg19_refGeneMrna.fa ... Done with 1 sequences
+WARNING: A total of 268 sequences will be ignored due to lack of correct ORF annotation
+NOTICE: Finished gene-based annotation on 8 genetic variants in /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf
+NOTICE: Output files were written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf.refGene.variant_function, /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf.refGene.exonic_variant_function
+-----------------------------------------------------------------
+NOTICE: Processing operation=f protocol=esp6500si_all
+
+NOTICE: Running  with system command <annotate_variation.pl -filter -dbtype esp6500si_all -buildver hg19 -outfile /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf /home/remote/miseq_pipe/software/annovar/humandb>
+NOTICE: the --dbtype esp6500si_all is assumed to be in generic ANNOVAR database format
+NOTICE: Variants matching filtering criteria are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf.hg19_esp6500si_all_dropped, other variants are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf.hg19_esp6500si_all_filtered
+NOTICE: Processing next batch with 8 unique variants in 8 input lines
+NOTICE: Database index loaded. Total number of bins is 191802 and the number of bins to be scanned is 7
+NOTICE: Scanning filter database /home/remote/miseq_pipe/software/annovar/humandb/hg19_esp6500si_all.txt...Done
+-----------------------------------------------------------------
+NOTICE: Processing operation=f protocol=1000g2012apr_all
+
+NOTICE: Running  with system command <annotate_variation.pl -filter -dbtype 1000g2012apr_all -buildver hg19 -outfile /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf /home/remote/miseq_pipe/software/annovar/humandb>
+NOTICE: Variants matching filtering criteria are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf.hg19_ALL.sites.2012_04_dropped, other variants are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf.hg19_ALL.sites.2012_04_filtered
+NOTICE: Processing next batch with 8 unique variants in 8 input lines
+NOTICE: Database index loaded. Total number of bins is 2793037 and the number of bins to be scanned is 7
+NOTICE: Scanning filter database /home/remote/miseq_pipe/software/annovar/humandb/hg19_ALL.sites.2012_04.txt...Done
+-----------------------------------------------------------------
+NOTICE: Processing operation=f protocol=snp137
+
+NOTICE: Running  with system command <annotate_variation.pl -filter -dbtype snp137 -buildver hg19 -outfile /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf /home/remote/miseq_pipe/software/annovar/humandb>
+NOTICE: Variants matching filtering criteria are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf.hg19_snp137_dropped, other variants are written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf.hg19_snp137_filtered
+NOTICE: Processing next batch with 8 unique variants in 8 input lines
+NOTICE: Database index loaded. Total number of bins is 2856306 and the number of bins to be scanned is 7
+NOTICE: Scanning filter database /home/remote/miseq_pipe/software/annovar/humandb/hg19_snp137.txt...Done
+NOTICE: output file is written to /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment/annovar/CAB103_S3_annovar_vcf.hg19_multianno.txt
+runAnnovar.sh finished for /cygdrive/d/Test_Run/Data/Intensities/BaseCalls/Alignment
