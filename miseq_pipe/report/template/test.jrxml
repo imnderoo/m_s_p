@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="VariantQC" language="groovy" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="fc8adb54-b657-4e73-acd1-1d55ab01224a">
+	<property name="ireport.zoom" value="3.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="291"/>
+	<property name="ireport.callouts" value="##Wed Jul 24 19:21:41 EDT 2013"/>
+	<parameter name="SUBREPORT_DIR" class="java.lang.String" isForPrompting="false">
+		<defaultValueExpression><![CDATA["/Users/nderoo324/Downloads/George MiSeq Pipeline/"]]></defaultValueExpression>
+	</parameter>
+	<field name="Flowcell" class="java.lang.String"/>
+	<field name="RunDate" class="java.lang.String"/>
+	<field name="SampleID" class="java.lang.String"/>
+	<pageHeader>
+		<band height="31">
+			<staticText>
+				<reportElement uuid="fa46b166-6235-412e-8ecf-0414ba8d7bac" x="0" y="0" width="247" height="31"/>
+				<textElement verticalAlignment="Middle">
+					<font size="20"/>
+				</textElement>
+				<text><![CDATA[Coverage Plots]]></text>
+			</staticText>
+			<textField>
+				<reportElement uuid="4cf271e2-d609-415e-98ac-ff187efe7143" x="430" y="10" width="108" height="20"/>
+				<textElement verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{SampleID}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement uuid="7dbc9b8e-9d7c-444d-beef-f0eac4290dae" x="369" y="10" width="61" height="20"/>
+				<textElement verticalAlignment="Middle">
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[Sample ID:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement uuid="89ddbb0d-eb0a-44d8-a722-51bdac4b2aa2" x="540" y="10" width="48" height="20"/>
+				<textElement verticalAlignment="Middle">
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[Flowcell:]]></text>
+			</staticText>
+			<textField>
+				<reportElement uuid="7d37ba0b-470e-410c-935e-f9f626287884" x="588" y="10" width="97" height="20"/>
+				<textElement verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{Flowcell}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement uuid="d5453652-7d2a-443c-8498-35309ae73865" x="685" y="10" width="51" height="20"/>
+				<textElement verticalAlignment="Middle">
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[RunDate:]]></text>
+			</staticText>
+			<textField>
+				<reportElement uuid="fb296dca-1467-4dab-8bba-bdab2594b76b" x="736" y="10" width="66" height="20"/>
+				<textElement verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{RunDate}]]></textFieldExpression>
+			</textField>
+			<line>
+				<reportElement uuid="e603535b-4e3e-4231-98cb-b6e113c587ce" positionType="Float" x="0" y="30" width="802" height="1"/>
+			</line>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="524">
+			<image>
+				<reportElement uuid="198161ca-f77a-4a7a-a4da-8e1d0a9f3883" x="27" y="15" width="813" height="509"/>
+				<imageExpression><![CDATA["/Users/nderoo324/Downloads/George MiSeq Pipeline/boxplot/CAB0001_S1_dedup_q30_BRCA1.png"]]></imageExpression>
+			</image>
+		</band>
+	</columnHeader>
+</jasperReport>

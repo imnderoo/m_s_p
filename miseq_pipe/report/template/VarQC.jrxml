@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="VariantQC" language="groovy" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="fc8adb54-b657-4e73-acd1-1d55ab01224a">
+	<property name="ireport.zoom" value="2.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="39"/>
+	<property name="ireport.callouts" value="##Wed Jul 24 19:21:41 EDT 2013"/>
+	<parameter name="SUBREPORT_DIR" class="java.lang.String" isForPrompting="false">
+		<defaultValueExpression><![CDATA["/Users/nderoo324/Downloads/George MiSeq Pipeline/"]]></defaultValueExpression>
+	</parameter>
+	<field name="Flowcell" class="java.lang.String"/>
+	<field name="RunDate" class="java.lang.String"/>
+	<field name="Chr" class="java.lang.String"/>
+	<field name="Start" class="java.lang.String"/>
+	<field name="Ref" class="java.lang.String"/>
+	<field name="End" class="java.lang.String"/>
+	<field name="Alt" class="java.lang.String"/>
+	<field name="Func.refGene" class="java.lang.String"/>
+	<field name="Gene.refGene" class="java.lang.String"/>
+	<field name="ExonicFunc.refGene" class="java.lang.String"/>
+	<field name="AccessID.refGene" class="java.lang.String"/>
+	<field name="Exon.refGene" class="java.lang.String"/>
+	<field name="cDNAChange.refGene" class="java.lang.String"/>
+	<field name="AAChange.refGene" class="java.lang.String"/>
+	<field name="esp6500si_all" class="java.lang.String"/>
+	<field name="1000g2012apr_all" class="java.lang.String"/>
+	<field name="snp137" class="java.lang.String"/>
+	<field name="Zygosity" class="java.lang.String"/>
+	<field name="QUAL" class="java.lang.String"/>
+	<field name="FILTER" class="java.lang.String"/>
+	<field name="DP" class="java.lang.String"/>
+	<field name="AD.REF" class="java.lang.String"/>
+	<field name="AD.ALT" class="java.lang.String"/>
+	<field name="GQ" class="java.lang.String"/>
+	<field name="GT" class="java.lang.String"/>
+	<field name="SB" class="java.lang.String"/>
+	<field name="cDNAChange" class="java.lang.String"/>
+	<field name="AAChange" class="java.lang.String"/>
+	<field name="cDNAType" class="java.lang.String"/>
+	<field name="AAType" class="java.lang.String"/>
+	<field name="LatestCategory" class="java.lang.String"/>
+	<field name="ACMG" class="java.lang.String"/>
+	<field name="LatestDate" class="java.lang.String"/>
+	<field name="SampleID" class="java.lang.String"/>
+	<group name="Gene">
+		<groupExpression><![CDATA[$F{Gene.refGene}]]></groupExpression>
+		<groupHeader>
+			<band height="41">
+				<rectangle>
+					<reportElement uuid="edc82a3e-c748-47d1-b817-8a86c6f45416" x="0" y="16" width="802" height="25" forecolor="#E7E7E7" backcolor="#E8E7E7"/>
+				</rectangle>
+				<rectangle>
+					<reportElement uuid="b2bfa0ce-b354-4c73-ae9e-d23424b0e862" x="0" y="1" width="802" height="15" forecolor="#CCCCCC" backcolor="#CCCCCC"/>
+				</rectangle>
+				<line>
+					<reportElement uuid="40d0fd0e-e763-4e00-a7ed-9e38fa906787" x="0" y="0" width="802" height="1"/>
+				</line>
+				<textField>
+					<reportElement uuid="5f17f336-accc-4aca-816a-c1392db1791b" x="11" y="1" width="49" height="16"/>
+					<textElement verticalAlignment="Middle">
+						<font size="12"/>
+					</textElement>
+					<textFieldExpression><![CDATA[$F{Gene.refGene}]]></textFieldExpression>
+				</textField>
+				<textField>
+					<reportElement uuid="6e786e7e-e8b9-4162-98ec-32ec8d36cd31" x="60" y="1" width="78" height="16"/>
+					<textElement verticalAlignment="Middle">
+						<font size="12"/>
+					</textElement>
+					<textFieldExpression><![CDATA[$F{AccessID.refGene}]]></textFieldExpression>
+				</textField>
+				<line>
+					<reportElement uuid="a15e85da-8021-4594-9cf8-38e3b1bf66fa" x="0" y="16" width="802" height="1"/>
+				</line>
+				<staticText>
+					<reportElement uuid="a8dafa31-bf53-4e28-a2c1-9ebc4f7472dc" x="0" y="17" width="20" height="24"/>
+					<textElement verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[Chr]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="620cdb51-e5c8-4282-b929-3836c27d4300" x="21" y="17" width="55" height="24"/>
+					<textElement verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[Start Pos]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="1b6dff4c-2992-46a5-a750-9ef0ed5ca94b" x="81" y="17" width="134" height="24"/>
+					<textElement textAlignment="Left" verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[cDNA Change]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="2a449572-376b-47e5-ab7e-bf55d7100afa" x="415" y="17" width="58" height="24"/>
+					<textElement textAlignment="Left" verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[QC FLAG]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="1e8e280d-159e-4342-bd8c-bd3463cfe3ce" x="477" y="17" width="28" height="24"/>
+					<textElement textAlignment="Right" verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[QUAL]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="2c310bad-39db-4215-82ae-5321c094ddc0" x="596" y="17" width="23" height="24"/>
+					<textElement textAlignment="Right" verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[GQ]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="c9cdd11e-3574-4652-92b2-5d552b124258" x="627" y="17" width="30" height="24"/>
+					<textElement textAlignment="Right" verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[SB]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="6d081700-31b0-42bd-96ec-19648d889b15" x="541" y="26" width="49" height="14"/>
+					<textElement verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[ REF      ALT]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="e4f8da5e-fd6f-4999-9a86-8c804c0c4d29" x="508" y="17" width="22" height="24"/>
+					<textElement textAlignment="Right" verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[DP]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="720618b8-1478-4d8b-a6ad-eafaac7aa178" x="663" y="17" width="34" height="24"/>
+					<textElement textAlignment="Right" verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[esp6500]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="8d017afe-cb2a-40c1-87a4-2cbf18017723" x="700" y="17" width="30" height="24"/>
+					<textElement textAlignment="Right" verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[1000g]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="a1d2f993-bafe-47f9-b650-14e5b45f174a" x="737" y="17" width="65" height="24"/>
+					<textElement textAlignment="Left" verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[Category]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="b572b48e-6aa1-4c77-99a9-516e9a5e3ef6" x="217" y="16" width="30" height="24"/>
+					<textElement verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[REF]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="acda7bfb-ab90-48a2-bb6f-d3ea0276a695" x="320" y="17" width="29" height="24"/>
+					<textElement verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[ALT]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="b8048abc-7572-4459-8982-0f78679e658c" x="541" y="17" width="49" height="12"/>
+					<textElement textAlignment="Left" verticalAlignment="Middle">
+						<font size="8"/>
+					</textElement>
+					<text><![CDATA[ Allele Depth]]></text>
+				</staticText>
+				<line>
+					<reportElement uuid="e1d5f102-f453-49f1-8440-842f80aa9719" x="0" y="40" width="802" height="1"/>
+				</line>
+			</band>
+		</groupHeader>
+	</group>
+	<pageHeader>
+		<band height="31">
+			<staticText>
+				<reportElement uuid="fa46b166-6235-412e-8ecf-0414ba8d7bac" x="0" y="0" width="247" height="31"/>
+				<textElement verticalAlignment="Middle">
+					<font size="20"/>
+				</textElement>
+				<text><![CDATA[Variant QC]]></text>
+			</staticText>
+			<textField>
+				<reportElement uuid="4cf271e2-d609-415e-98ac-ff187efe7143" x="464" y="0" width="118" height="31"/>
+				<textElement verticalAlignment="Middle">
+					<font size="15"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{SampleID}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement uuid="7dbc9b8e-9d7c-444d-beef-f0eac4290dae" x="373" y="0" width="92" height="31"/>
+				<textElement verticalAlignment="Middle">
+					<font size="15" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Sample ID:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement uuid="89ddbb0d-eb0a-44d8-a722-51bdac4b2aa2" x="588" y="11" width="48" height="20"/>
+				<textElement verticalAlignment="Middle">
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[Flowcell:]]></text>
+			</staticText>
+			<textField>
+				<reportElement uuid="7d37ba0b-470e-410c-935e-f9f626287884" x="635" y="11" width="45" height="20"/>
+				<textElement verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{Flowcell}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement uuid="d5453652-7d2a-443c-8498-35309ae73865" x="686" y="11" width="51" height="20"/>
+				<textElement verticalAlignment="Middle">
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[RunDate:]]></text>
+			</staticText>
+			<textField>
+				<reportElement uuid="fb296dca-1467-4dab-8bba-bdab2594b76b" x="736" y="11" width="66" height="20"/>
+				<textElement verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{RunDate}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageHeader>
+	<detail>
+		<band height="13" splitType="Stretch">
+			<textField>
+				<reportElement uuid="10c50829-d550-4ef4-9805-6c20c074939a" x="541" y="0" width="19" height="13"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{AD.REF}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="9cd50650-0694-45a8-a324-35c5f4651cad" x="0" y="0" width="20" height="13"/>
+				<textElement verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{Chr}.replace( "chr", "" )]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="398d9827-24c6-41c6-9bd5-1ca19ec390d2" x="217" y="0" width="102" height="13"/>
+				<textElement verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{Ref}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="4a9c83fa-a03d-42a4-bf2b-efc0f96f3f10" x="21" y="0" width="55" height="13"/>
+				<textElement verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{Start}]]></textFieldExpression>
+			</textField>
+			<textField pattern="###0">
+				<reportElement uuid="d0ba2b17-dd02-4c38-90ae-c598ac7f0143" x="477" y="0" width="28" height="13"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{QUAL}.toDouble()]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="51255189-4aac-4312-b289-cc2f7b947b6a" x="508" y="0" width="22" height="13"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{DP}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="79c6122a-2bd1-4761-b547-bd95beca7f7f" x="567" y="0" width="21" height="13"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{AD.ALT}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="535c9405-7ee2-487f-afb1-50d5d08e163e" x="700" y="0" width="30" height="13"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{1000g2012apr_all}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="e023b5f6-09f8-425d-9a42-67ebfa0d0960" x="737" y="0" width="65" height="13"/>
+				<textElement textAlignment="Left" verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{LatestCategory}]]></textFieldExpression>
+			</textField>
+			<textField pattern="###0.00">
+				<reportElement uuid="0cf8f80e-714b-4fc1-be8b-30f5dffdeb0a" x="663" y="0" width="34" height="13">
+					<property name="net.sf.jasperreports.text.truncate.at.char" value=""/>
+				</reportElement>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{esp6500si_all}]]></textFieldExpression>
+			</textField>
+			<textField pattern="###0.0">
+				<reportElement uuid="9e549c3f-34a3-4541-bfd4-21bb2507d1a2" x="627" y="0" width="30" height="13"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{SB}.toDouble()]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="2585ffa5-756c-4b26-8252-57c17e18eea6" x="320" y="0" width="95" height="13"/>
+				<textElement verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{Alt}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="375ef217-ce93-4920-81f2-8913e62a7989" x="596" y="0" width="23" height="13"/>
+				<textElement textAlignment="Right" verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{GQ}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="e12fbe70-8f72-43de-87ef-149847728dae" x="415" y="0" width="58" height="13"/>
+				<textElement textAlignment="Left" verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{FILTER}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="e54f6e72-1445-482a-855a-dcc134721d60" x="81" y="0" width="134" height="13">
+					<property name="net.sf.jasperreports.text.truncate.at.char" value="true"/>
+					<property name="net.sf.jasperreports.text.truncate.suffix" value="..."/>
+				</reportElement>
+				<textElement verticalAlignment="Middle">
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{cDNAChange.refGene}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<lastPageFooter>
+		<band height="79"/>
+	</lastPageFooter>
+</jasperReport>

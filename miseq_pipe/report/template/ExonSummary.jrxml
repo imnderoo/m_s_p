@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="ExonSummary" language="groovy" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="fc8adb54-b657-4e73-acd1-1d55ab01224a">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<property name="ireport.callouts" value="##Wed Jul 24 19:21:41 EDT 2013"/>
+	<parameter name="SUBREPORT_DIR" class="java.lang.String" isForPrompting="false">
+		<defaultValueExpression><![CDATA["/Users/nderoo324/Downloads/George MiSeq Pipeline/"]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<field name="SampleID" class="java.lang.String"/>
+	<field name="Flowcell" class="java.lang.String"/>
+	<field name="RunDate" class="java.lang.String"/>
+	<field name="filter" class="java.lang.String"/>
+	<field name="gene" class="java.lang.String"/>
+	<field name="refSeq" class="java.lang.String"/>
+	<field name="exon" class="java.lang.String"/>
+	<field name="chr" class="java.lang.String"/>
+	<field name="startPos" class="java.lang.String"/>
+	<field name="endPos" class="java.lang.String"/>
+	<field name="min" class="java.lang.String"/>
+	<field name="pctGT15" class="java.lang.String"/>
+	<group name="Filter" isReprintHeaderOnEachPage="true">
+		<groupExpression><![CDATA[$F{filter}]]></groupExpression>
+		<groupHeader>
+			<band height="20">
+				<rectangle>
+					<reportElement uuid="d327b728-5277-4cf7-a694-b80f3e34187d" x="0" y="0" width="802" height="20" forecolor="#999999" backcolor="#999999"/>
+				</rectangle>
+				<staticText>
+					<reportElement uuid="3e887401-e74d-43c9-8ab8-0a145dceac0f" x="7" y="0" width="795" height="20" isPrintWhenDetailOverflows="true" forecolor="#FFFFFF">
+						<printWhenExpression><![CDATA[$F{filter}.equalsIgnoreCase( "PASS" )]]></printWhenExpression>
+					</reportElement>
+					<textElement verticalAlignment="Middle">
+						<font size="12" isBold="true"/>
+					</textElement>
+					<text><![CDATA[Passed Exons (Min Depth >= 15 with Q30 cutoff and PCR Duplicates Removed)]]></text>
+				</staticText>
+				<line>
+					<reportElement uuid="e603535b-4e3e-4231-98cb-b6e113c587ce" positionType="FixRelativeToBottom" x="0" y="0" width="802" height="1"/>
+				</line>
+				<staticText>
+					<reportElement uuid="84c55c25-05f8-42f8-b3a7-5770ffe42634" x="7" y="0" width="795" height="20" forecolor="#FFFFFF" backcolor="#FFFFFF">
+						<printWhenExpression><![CDATA[$F{filter}.equalsIgnoreCase( "FAIL" )]]></printWhenExpression>
+					</reportElement>
+					<textElement verticalAlignment="Middle">
+						<font size="12" isBold="true"/>
+					</textElement>
+					<text><![CDATA[Failed Exons To Repeat (Min Depth < 15 with Q30 cutoff and PCR Duplicates Removed)
+]]></text>
+				</staticText>
+			</band>
+		</groupHeader>
+		<groupFooter>
+			<band height="48">
+				<printWhenExpression><![CDATA[$F{chr} == "-"]]></printWhenExpression>
+				<rectangle>
+					<reportElement uuid="ff8c39e8-b2fc-4ff7-950d-ead634d7b6d2" x="0" y="16" width="802" height="11" forecolor="#E7E7E7" backcolor="#E7E7E7"/>
+				</rectangle>
+				<rectangle>
+					<reportElement uuid="c49e76ce-ce08-4a47-a529-9c6b82b564be" x="0" y="1" width="802" height="14" forecolor="#CCCCCC" backcolor="#CCCCCC"/>
+				</rectangle>
+				<line>
+					<reportElement uuid="ddeb688d-f7a5-4442-8bad-788d3e1ab0e9" x="0" y="0" width="802" height="1"/>
+				</line>
+				<line>
+					<reportElement uuid="62bd4238-7bc0-4c01-ade1-c72ea30b1725" x="0" y="26" width="802" height="1"/>
+				</line>
+				<staticText>
+					<reportElement uuid="63dba35d-07b7-4c80-864b-2f79248ea639" x="0" y="27" width="802" height="21"/>
+					<textElement textAlignment="Center" verticalAlignment="Middle">
+						<font size="12"/>
+					</textElement>
+					<text><![CDATA[None Detected]]></text>
+				</staticText>
+				<line>
+					<reportElement uuid="8fd6bc9c-b792-4c8c-b47e-9fefc2f814de" x="0" y="15" width="802" height="1"/>
+				</line>
+			</band>
+		</groupFooter>
+	</group>
+	<group name="Gene" isReprintHeaderOnEachPage="true">
+		<groupExpression><![CDATA[$F{gene}]]></groupExpression>
+		<groupHeader>
+			<band height="28">
+				<printWhenExpression><![CDATA[$F{chr} != "-"]]></printWhenExpression>
+				<rectangle>
+					<reportElement uuid="dd03ac1f-96a4-4058-be05-f631bc4ade70" x="0" y="16" width="802" height="11" forecolor="#E7E7E7" backcolor="#E8E7E7"/>
+				</rectangle>
+				<rectangle>
+					<reportElement uuid="b2bfa0ce-b354-4c73-ae9e-d23424b0e862" x="0" y="1" width="802" height="14" forecolor="#CCCCCC" backcolor="#CCCCCC"/>
+				</rectangle>
+				<line>
+					<reportElement uuid="a15e85da-8021-4594-9cf8-38e3b1bf66fa" x="0" y="15" width="802" height="1"/>
+				</line>
+				<textField>
+					<reportElement uuid="3599461b-8a8f-4559-8a7c-8c16902aa013" x="0" y="0" width="100" height="15"/>
+					<textElement verticalAlignment="Middle">
+						<font size="10" isBold="true"/>
+					</textElement>
+					<textFieldExpression><![CDATA[$F{gene}]]></textFieldExpression>
+				</textField>
+				<textField>
+					<reportElement uuid="e0787feb-c4fb-4a84-bb79-a72873079d76" x="100" y="0" width="100" height="15"/>
+					<textElement verticalAlignment="Middle">
+						<font size="10" isBold="true"/>
+					</textElement>
+					<textFieldExpression><![CDATA[$F{refSeq}]]></textFieldExpression>
+				</textField>
+				<staticText>
+					<reportElement uuid="438b73fb-2582-43fd-81ac-504de6b62570" x="0" y="16" width="44" height="12"/>
+					<textElement verticalAlignment="Middle">
+						<font fontName="SansSerif" size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[Exon]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="915691ba-11eb-4a1c-927b-13d2d1bc6f88" x="61" y="16" width="24" height="12"/>
+					<textElement verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[Chr]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="cb4b5571-d07a-4032-816c-b85215a356b8" x="100" y="16" width="77" height="12"/>
+					<textElement verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[Start Pos]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="7b0acf58-5985-438c-95b3-78c4cba1fed6" x="188" y="16" width="100" height="12"/>
+					<textElement verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[End Pos]]></text>
+				</staticText>
+				<staticText>
+					<reportElement uuid="01ec69e5-ff0c-45f7-9786-aadc932500a0" x="302" y="16" width="56" height="12"/>
+					<textElement verticalAlignment="Middle">
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[Min Depth]]></text>
+				</staticText>
+				<line>
+					<reportElement uuid="e1d5f102-f453-49f1-8440-842f80aa9719" x="0" y="27" width="802" height="1"/>
+				</line>
+				<line>
+					<reportElement uuid="f7c7f2f9-d9eb-4b7c-a5ec-07020a71ecf7" x="0" y="0" width="802" height="1"/>
+				</line>
+			</band>
+		</groupHeader>
+	</group>
+	<pageHeader>
+		<band height="31">
+			<staticText>
+				<reportElement uuid="fa46b166-6235-412e-8ecf-0414ba8d7bac" x="0" y="0" width="159" height="31"/>
+				<textElement verticalAlignment="Middle">
+					<font size="20"/>
+				</textElement>
+				<text><![CDATA[Exon Summary]]></text>
+			</staticText>
+			<staticText>
+				<reportElement uuid="7dbc9b8e-9d7c-444d-beef-f0eac4290dae" positionType="FixRelativeToBottom" x="382" y="0" width="86" height="31"/>
+				<textElement verticalAlignment="Middle">
+					<font size="15" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Sample ID:]]></text>
+			</staticText>
+			<textField>
+				<reportElement uuid="4cf271e2-d609-415e-98ac-ff187efe7143" positionType="FixRelativeToBottom" x="467" y="0" width="102" height="31"/>
+				<textElement verticalAlignment="Middle">
+					<font size="15"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{SampleID}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement uuid="89ddbb0d-eb0a-44d8-a722-51bdac4b2aa2" positionType="FixRelativeToBottom" x="584" y="11" width="48" height="20"/>
+				<textElement verticalAlignment="Middle">
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[Flowcell:]]></text>
+			</staticText>
+			<textField>
+				<reportElement uuid="7d37ba0b-470e-410c-935e-f9f626287884" positionType="FixRelativeToBottom" x="631" y="11" width="49" height="20"/>
+				<textElement verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{Flowcell}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement uuid="d5453652-7d2a-443c-8498-35309ae73865" positionType="FixRelativeToBottom" x="689" y="11" width="51" height="20"/>
+				<textElement verticalAlignment="Middle">
+					<font isBold="true"/>
+				</textElement>
+				<text><![CDATA[RunDate:]]></text>
+			</staticText>
+			<textField>
+				<reportElement uuid="fb296dca-1467-4dab-8bba-bdab2594b76b" positionType="FixRelativeToBottom" x="739" y="11" width="63" height="20"/>
+				<textElement verticalAlignment="Middle"/>
+				<textFieldExpression><![CDATA[$F{RunDate}]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageHeader>
+	<detail>
+		<band height="11">
+			<printWhenExpression><![CDATA[$F{chr} != "-"]]></printWhenExpression>
+			<textField>
+				<reportElement uuid="a884eb54-1eab-4b00-8f21-c087998630a4" x="0" y="0" width="44" height="11"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{exon}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="aecab2a7-e3a7-473f-9b70-97caa6b0fc58" x="61" y="0" width="24" height="11"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{chr}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="8291de2c-cdd8-4dbd-9143-50e8b421ad3b" x="100" y="0" width="77" height="11"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{startPos}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="f11f6e47-f56c-4808-a9dd-8cdfd5cdd3d4" x="302" y="0" width="56" height="11"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{min}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="b6448ee3-481b-4f00-afd8-2e1c2df7c134" x="188" y="0" width="100" height="11"/>
+				<textElement>
+					<font size="8"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{endPos}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+</jasperReport>
