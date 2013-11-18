@@ -1,0 +1,25 @@
+#!/bin/bash
+
+if [ $# -ne 2 ]; then
+        echo "This scripts iterate through all Samples/ in a Project/ and runs the Makefile (the preprocess pipeline)"
+        echo "--------------------------------------------------------------------------------------------------------------------------"
+        echo "Usage: $(basename $0) <in_vcf> <'snp' or 'indel' or 'vcf'>"
+        exit
+fi
+
+in_vcf=$1
+snp_indel=$2
+
+bamid=$(basename $in_vcf | sed 's/.vcf//')
+bamdir=$(dirname $in_vcf)
+
+mkdir -p $bamdir/annovar/
+
+perl $AVLOC/convert2annovar.pl -outfile $bamdir/annovar/${bamid}_annovar_${snp_indel} -includeinfo -allallele -withzyg -format vcf4 $in_vcf
+
+#avprotocol="-protocol refGene,phastConsElements46way,genomicSuperDups,esp6500si_all,1000g2012apr_all,snp137,avsift,ljb2_all"
+avprotocol="-protocol refGene,esp6500si_all,1000g2012apr_all,snp137"
+#avop="-operation g,r,r,f,f,f,f,f"
+avop="-operation g,f,f,f"
+avparam="-otherinfo -nastring NA"
+perl $AVLOC/table_annovar.pl $bamdir/annovar/${bamid}_annovar_${snp_indel} $AVLOC/humandb -buildver hg19 $avprotocol $avop $avparam
