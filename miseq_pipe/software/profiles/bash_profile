@@ -1,0 +1,8 @@
+# Setup ls
+alias ls="ls --color"
+
+# Setup Java
+export JAVA_HOME=/cygdrive/c/Program\ Files\ \(x86\)/Java/jre7/
+export PATH=$PATH:$JAVA_HOME/bin
+
+
